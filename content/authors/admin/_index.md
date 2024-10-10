@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Rehabilitation Sciences
     institution: University of Toronto 
-    date_start: ''
-    date_end: ''
+    #date_start: ''
+    #date_end: ''
     summary: |
       Thesis on characterizing bilingual development of language and cognition in linguistically diverse children. Supervised by [Dr. Monika Molnar] (https://www.bamtoronto.ca). 
     #button:
@@ -64,7 +64,7 @@ education:
   - area: MSc Rehabilitation Sciences (Speech Language Pathology stream)
     institution: University of Toronto
     date_start: ''
-    date_end: 2021
+    date_end: 11-2021
     summary: |
       Thesis title: "The Effect of Bilingual Exposure on Language and Cognitive Recovery in Children Following Stroke"
     #  GPA: 3.8/4.0
@@ -79,7 +79,7 @@ education:
   - area: BSc Linguistics & Psychology
     institution: University of Toronto
     date_start: ''
-    date_end: 2019
+    date_end: 06-2019
 
 work:
   - position: Teaching Assistant
@@ -140,7 +140,6 @@ skills:
         icon: hero/presentation-chart-line
 
 
-
 languages:
   - name: English
     percent: 100
@@ -185,6 +184,4 @@ languages:
 
 ## About Me
 
-Kai (she/her) is currently pursuing her PhD in Rehabilitation Sciences (SLP stream), with a collaborative specialization in neuroscience. 
-
-Her doctoral research, conducted in collaboration with the Hospital for Sick Children, focuses on examining language and cognition in linguistically diverse children following a pediatric stroke, aiming to better understand the neurodiversity of bilingual development. Additionally, she is working on a mixed-methods study to develop a bilingual language history tool for clinical use also as part of her thesis research.
+I am currently pursuing my PhD in Rehabilitation Sciences (SLP stream), with a collaborative specialization in Neuroscience. 
