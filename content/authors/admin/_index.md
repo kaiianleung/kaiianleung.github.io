@@ -64,7 +64,7 @@ education:
   - area: MSc Rehabilitation Sciences (Speech Language Pathology stream)
     institution: University of Toronto
     date_start: ''
-    date_end: 11-2021
+    date_end: 2021-11-01
     summary: |
       Thesis title: "The Effect of Bilingual Exposure on Language and Cognitive Recovery in Children Following Stroke"
     #  GPA: 3.8/4.0
@@ -79,7 +79,7 @@ education:
   - area: BSc Linguistics & Psychology
     institution: University of Toronto
     date_start: ''
-    date_end: 06-2019
+    date_end: 2019-06-01
 
 work:
   - position: Teaching Assistant
