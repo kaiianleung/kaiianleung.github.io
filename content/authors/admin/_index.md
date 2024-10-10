@@ -183,4 +183,4 @@ languages:
 ---
 
 ## About Me
-I'm Kai, a PhD candidate in the Bilingual and Multilingual Development Lab, where I focus on bilingual development in neurotypical and neurodiverse children.
+I'm Kai (she/her), a PhD candidate in the [Bilingual and Multilingual Development Lab](https://www.bamtoronto.ca) at the University of Toronto. My research focuses on bilingual development in neurotypical and neurodiverse children.
