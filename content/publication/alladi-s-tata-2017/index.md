@@ -1,0 +1,39 @@
+---
+title: 'Tata longitudinal study of cognitive aging: A study of cognitive resilience
+  for Indian setting'
+authors:
+- Alladi S.
+- Jala S.
+- Mekala S.
+- Kashyap V.
+- Raghavendra K.
+- Kaul S.
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:48.453999Z'
+publication_types:
+- article-journal
+publication: '*Annals of Indian Academy of Neurology*'
+abstract: 'Background: In the background of a rising burden of dementia globally,
+  the Tata Longitudinal study of Cognitive aging was initiated in to identify risk
+  and protective factors for dementia relevant to a developing country like India.
+  Method(s): A study protocol was developed that reliably captures cognitive status,
+  a range of lifestyle factors, and multimodality biomarkers for dementia, specific
+  to the Indian context. Subsequently, a community cohort of elderly individuals in
+  the South Indian city of Hyderabad and adjoining areas was created who were comprehensively
+  studied for clinical and cognitive status, laboratory investigations, brain imaging
+  according to ADNI II protocol, and Apo E genotype. Result(s): Of the first 104 participants
+  recruited, age range was 50-87 years, 43% were women, rate of illiteracy was 22%,
+  15% belonged to lower socioeconomic status, 29% were engaged in unskilled elementary
+  occupations and 13% were from rural backgrounds, a profile representative of the
+  diversity in local demographics. More than half had cardiovascular risk factors,
+  66.5% of individuals had white matter hyperintensities on brain MRI and 7.5% had
+  silent brain infarcts. We explored the factors that were most likely to be associated
+  with cognitive functioning: literacy, years of education, bilingualism, urban dwelling,
+  skilled and professional occupations, physical activity in late life, lifetime experiences
+  and social networking correlated positively with cognitive status. On Univariate
+  General Linear Model years of education and physical exercise in late life were
+  independently associated with higher cognitive scores. Conclusion(s): This first
+  longitudinal community-based study of cognitive decline from India will provide
+  an opportunity to investigate cognitive resilience against dementia, specific to
+  the Indian context.'
+---

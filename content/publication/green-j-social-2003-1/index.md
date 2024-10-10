@@ -1,0 +1,42 @@
+---
+title: Social, cultural and environmental influences on child activity and eating
+  in Australian migrant communities.
+authors:
+- Green J
+- Waters E
+- Haikerwal A
+- O'Neill C
+- Raman S
+- Booth ML
+- Gibbons K
+date: '2003-01-01'
+publishDate: '2024-10-10T14:22:55.656595Z'
+publication_types:
+- article-journal
+publication: '*Child: Care, Health & Development*'
+doi: 10.1046/j.1365-2214.2003.00363.x
+abstract: 'AIM: This study set out to examine the socio-cultural, familial and environmental
+  factors influencing health, eating habits and patterns of physical activity contributing
+  to child and adolescent overweight and obesity. METHODS: Semi-structured, community-based
+  interviews were conducted with contrasting key informant three-generation families;
+  and generation by generation focus groups of grandparents, parents and children
+  from four cultural communities in the state of Victoria, Australia. Purposive sampling
+  occurred from Turkish, Greek, Indian and Chinese communities that have migrated
+  to Australia within the last three generations (n = 160, eight families, 47 children
+  aged 5-15 years, 29 parents, 42 grandparents). RESULTS: Evidence of two-way influences
+  on eating and physical activity across three generations was evident, with children
+  reporting the greatest cross-cultural diversity. A range of dietary restrictions
+  was reported across all cultural groups. Efforts to foster healthy eating and lifestyle
+  patterns within communities were evident. Parents, as a generation in particular,
+  felt the need for more access to education and support regarding healthy limits
+  for pre-puberty and puberty stages. CONCLUSION: There is a dynamic influence of
+  culture on many aspects of family lifestyle across three generations. To achieve
+  successful intervention design, childhood obesity researchers need to collaborate
+  with diverse groups and communities. Considering the role and influence of extended
+  family, a multigenerational, whole-of-community approach beyond that of parent and
+  child populations ought to be considered.'
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=106765644&site=ehost-live
+---

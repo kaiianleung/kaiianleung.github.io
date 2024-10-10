@@ -1,0 +1,50 @@
+---
+title: A primary care and community-based hepatitis B screening and linkage-to-care
+  program in New Jersey
+authors:
+- Jiang Y.
+- Duazo C.
+- Bannister N.
+- Chen W.-C.
+- Brogden R.
+- Yuen J.
+- Wang S.H.
+date: '2016-01-01'
+publishDate: '2024-10-10T14:22:48.543379Z'
+publication_types:
+- article-journal
+publication: '*Hepatology*'
+abstract: 'Purpose: High rates of chronic hepatitis B (CHB) exist in foreign- born
+  (FB) persons who are often not diagnosed. We implemented a HBV screening and care
+  linkage program targeting Asian communities in New Jersey from 2014-16. Method(s):
+  We conducted this program as a primary care practice based out of a community hospital
+  and collaborated with local ethnic community and faith-based organizations. Screening
+  occurred at an Asian-targeted primary care site, outreach events, and via a coupon
+  for free testing at outpatient labs. Persons were tested for HBsAg, HBcAb and HBsAb.
+  A patient navigator assisted with linking hepatitis B-infected persons to care.
+  Result(s): Of 692 persons tested, 80% were Asian. Median age was 55, and 64% were
+  female. Fifty-nine percent were screened through outreach events, 30% through primary
+  care, and 11% through coupons. Five percent (36) were HBsAg positive, and country-of-origin
+  stratification showed highest rates in China (11.1%) and Taiwan (7.7%). One-third
+  of participants were HBV-susceptible, and vaccines were recommended. Fifty-six percent
+  were immune, and immunity was due to previous exposure in 33% of FB versus 10% in
+  US born (ptextless.001). Fourteen percent reported having no insurance. Of the insured,
+  69% reported having a primary care physician, and 36% of these reported having prior
+  HBV testing. In the risk factor survey, 31% reported acupuncture, 34% body piercing,
+  32% medical procedure abroad, and 10% household member with CHB. Of Asians, 19%
+  reported a family member with CHB. HBV knowledge survey revealed many gaps; only
+  52% were aware that HBV causes cancer and more than 20% believed that HBV is transmitted
+  through food or sharing food. Among 36 patients with CHB, 86% were linked-to-care
+  to the practice. Ninety-one percent received HBV care, an evaluation by an internist
+  trained in HBV management. HBV testing included HBV DNA (97%), liver function tests
+  (97%), and HBeAg/HBeAb (93%). Nineteen percent required antiviral treatment. Household
+  contact testing was advised for all, and 50% (18) had a family member return, with
+  5 of those receiving vaccine. Insurance enrollment efforts reduced the number uninsured
+  CHB patients from 13 to 3. Four patients obtained care in Taiwan or China. Conclusion(s):
+  Collaborations of providers and community organi zations can be effective at screening
+  hard-to-reach foreign-born populations who face lack of insurance, gaps in knowledge,
+  and lack of PCP screening. We found high rates of previous HBV exposure in FB persons
+  and counselled on potential HBV reactivation. Navigation services based out of a
+  primary care office were successful at achieving high rates of follow-up and HBV-directed
+  care.'
+---

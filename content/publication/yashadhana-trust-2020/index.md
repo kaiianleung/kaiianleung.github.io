@@ -1,0 +1,40 @@
+---
+title: 'Trust, culture and communication: determinants of eye health and care among
+  Indigenous people with diabetes in Australia.'
+authors:
+- Aryati Yashadhana
+- Ted Fields
+- Godfrey Blitner
+- Ruby Stanley
+- Anthony B Zwi
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:50.281319Z'
+publication_types:
+- article-journal
+publication: '*BMJ global health*'
+doi: 10.1136/bmjgh-2019-001999
+abstract: 'Introduction: Our study aimed to identify factors that influence access
+  to eye care and eye health outcomes for remote Indigenous Australians living with
+  diabetes., Methods: In collaboration with Indigenous Community-Based Researchers
+  (CBR) and Aboriginal Community Controlled Health Services (ACCHS), a qualitative,
+  participatory action research approach was taken, drawing on Indigenist and decolonising
+  methodologies. The study was undertaken in four remote communities, in the Katherine
+  region, Northern Territory and north-western New South Wales, Australia. Interviews
+  and focus groups were undertaken with Indigenous adults aged textgreater=40 years
+  living with diabetes (n=110), and primary care clinicians working in ACCHSs (n=37).
+  A series of interviews with CBRs (n=13) were undertaken before and after data collection
+  to add cultural insights and validation to participant accounts. Data were analysed
+  inductively using grounded theory, in-depth discussion and NVivo V.11., Results:
+  More than one-third of all patients had little to no knowledge of how diabetes affects
+  eye health. Limited access to health information and interpreters, language barriers,
+  distrust of health providers and services, and limited cultural responsivity among
+  non-Indigenous clinicians, were identified as determining factors in eye health
+  and care., Discussion: We outline a need to address gaps in trust and communication,
+  through increased access to and resourcing of Indigenous language interpreters and
+  cultural brokers, understandable and culturally sensitive diabetic eye health information
+  and cultural responsivity training for non-Indigenous clinicians. Centring Indigenous
+  cultures in healthcare practice will enable a shared understanding between clinicians
+  and Indigenous patients, and subsequently more equitable eye health outcomes. Copyright
+  © Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial
+  re-use. See rights and permissions. Published by BMJ.'
+---

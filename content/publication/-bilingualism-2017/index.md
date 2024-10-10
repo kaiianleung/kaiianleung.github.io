@@ -1,0 +1,27 @@
+---
+title: 'Bilingualism and Autism Spectrum Disorders: The impact of amount of language
+  exposure on vocabulary and morphological skills'
+authors:
+- ' ['
+- ' ′'
+- ' G'
+- ' o'
+- ' n'
+- ' z'
+- ' a'
+- ' l'
+- ' e'
+- ' z'
+- ' A'
+- ' M'
+- ' ′'
+- ' ]'
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:57.467934Z'
+publication_types:
+- thesis
+links:
+- name: URL
+  url: 
+    https://search.proquest.com/openview/37a42e593388b6b705351534337a1d7d/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y#page=34https://dam-oclc.bac-lac.gc.ca/download?is_thesis=1&oclc_number=1265038976&id=5e6e1d69-1394-4178-8f4f-a5b88e820b6e&fileName=4q77ft969.
+---

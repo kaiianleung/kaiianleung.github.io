@@ -1,0 +1,32 @@
+---
+title: Student learning in non-english language consultations?
+authors:
+- Lindley R.
+- Haque E.
+date: '2011-01-01'
+publishDate: '2024-10-10T14:22:46.406244Z'
+publication_types:
+- article-journal
+publication: '*Medical Education, Supplement*'
+doi: 10.1111/j.13652923.2011.04093
+abstract: "Background and Purpose: Community Based Medical Education (CBME) clinical
+  staff have seen increasing numbers of patients without English fluency, increasing
+  UK medical student numbers1 and the increase in community placements. This has resulted
+  in more students observing non-English language community-based consultations. Anecdotally,
+  negative comments have been raised by students regarding this potentially rich learning
+  environment. Data was gathered to explore the students' opinions of non-English
+  language consultations. Methodology: Comments regarding community learning experiences
+  were gathered from year three and four students using mixed methods. Data was themed
+  using a grounded theory approach. Result(s): Students' perceptions of non-English
+  language consultations were frequently negative. They suggested that little learning
+  was possible in this environment and the overall experience was viewed poorly. Students
+  enjoyed talking to patients but this was much harder if they had no shared language.
+  Discussion and Conclusion(s): Implications of students' perceptions of medical interactions
+  with patients who do not speak English are important in a globally mobile population.
+  Concepts such as cultural competency, professionalism,2 and patient centredness3
+  may be lost without addressing this issue. Students may miss the opportunity to
+  learn how serve the full range of their patient population in their future careers.
+  Future work is required by university and community tutors to maximise the potential
+  learning from this rich environment to effectively translate into a useful experience
+  for students."
+---

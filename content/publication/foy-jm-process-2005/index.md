@@ -1,0 +1,101 @@
+---
+title: A process for developing community consensus regarding the diagnosis and management
+  of attention-deficit/hyperactivity disorder
+authors:
+- Foy J.M.
+- Earls M.F.
+date: '2005-01-01'
+publishDate: '2024-10-10T14:22:55.267634Z'
+publication_types:
+- article-journal
+publication: '*Pediatrics*'
+abstract: "There remain large discrepancies between pediatricians' practice patterns
+  and the American Academy of Pediatrics (AAP) guidelines for the assessment and treatment
+  of children with attention-deficit/hyperactivity disorder (ADHD). Several studies
+  raise additional concerns about access to ADHD treatment for girls, blacks, and
+  poorer individuals. Barriers may occur at multiple levels, including identification
+  and referral by school personnel, parents' help-seeking behavior, diagnosis by the
+  medical provider, treatment decisions, and acceptance of treatment. Such findings
+  confirm the importance of establishing appropriate mechanisms to ensure that children
+  of both genders and all socioeconomic, racial, and ethnic groups receive appropriate
+  assessment and treatment. Publication of the AAP ADHD toolkit provides resources
+  to assist with implementing the ADHD guidelines in clinical practice. These resources
+  address a number of the barriers to office implementation, including unfamiliarity
+  with Diagnostic and Statistical Manual of Mental Disorders criteria, difficulty
+  identifying comorbidities, and inadequate knowledge of effective coding practices.
+  Also crucial to the success of improved processes within clinical practice is community
+  collaboration in care, particularly collaboration with the educational system. Such
+  collaboration addresses other barriers to good care, such as pressures from parents
+  and schools to prescribe stimulants, cultural biases that may prevent schools from
+  assessing children for ADHD or may prevent families from seeking health care, and
+  inconsistencies in recognition and referral among schools in the same system. Collaboration
+  may also create efficiencies in collection of data and school-physician communications,
+  thereby decreasing physicians' non-face-to-face (and thus nonreimbursable) elements
+  of care. This article describes a process used in Guilford County, North Carolina,
+  to develop a consensus among health care providers, educators, and child advocates
+  regarding the assessment and treatment of children with symptoms of ADHD. The outcome,
+  ie, a community protocol followed by school personnel and community physicians for
+  textgreater10 years, ensures communication and collaboration between educators and
+  physicians in the assessment and treatment of children with symptoms of ADHD. This
+  protocol has the potential to increase practice efficiency, improve practice standards
+  for children with ADHD, and enhance identification of children in schools. Perhaps
+  most importantly, the community process through which the protocol was developed
+  and implemented has an educational component that increases the knowledge of school
+  personnel about ADHD and its treatment, increasing the likelihood that referrals
+  will be appropriate and increasing the likelihood that children will benefit from
+  coordination of interventions among school personnel, physicians, and parents. The
+  protocol reflects a consensus of school personnel and community health care providers
+  regarding the following: (1) ideal ADHD assessment and management principles; (2)
+  a common entry point (a team) at schools for children needing assessment because
+  of inattention and classroom behavior problems, whether the problems present first
+  to a medical provider, the behavioral health system, or the school; (3) a protocol
+  followed by the school system, recognizing the schools' resource limitations but
+  meeting the needs of community health care providers for classroom observations,
+  psychoeducational testing, parent and teacher behavior rating scales, and functional
+  assessment; (4) a packet of information about each child who is determined to need
+  medical assessment; (5) a contact person or team at each physician's office to receive
+  the packet from the school and direct it to the appropriate clinician; (6) an assessment
+  process that investigates comorbidities and applies appropriate diagnostic criteria;
+  (7) evidence-based interventions; (8) processes for follow-up monitoring of children
+  after establishment of a treatment plan; (9) roles for central participants (school
+  personnel, physicians, school nurses, and mental health professionals) in assessment,
+  management, and follow-up monitoring of children with attention problems; (10) forms
+  for collecting and exchanging information at every step; (11) processes and key
+  contacts for flow of communication at every step; and (12) a plan for educating
+  school and health care professionals about the new processes. A replication of the
+  community process, initiated in Forsyth County, North Carolina, in 2001, offers
+  insights into the role of the AAP ADHD guidelines in facilitating development of
+  a community consensus protocol. This replication also draws attention to identification
+  and referral barriers at the school level. The following recommendations, drawn
+  from the 2 community processes, describe a role for physicians in the collaborative
+  community care of children with symptoms of ADHD. (1) Achieve consensus with the
+  school system regarding the role of school personnel in collecting data for children
+  with learning and behavior problems; components to consider include (a) vision and
+  hearing screening, (b) school/academic histories, (c) classroom observation by a
+  counselor, (d) parent and teacher behavior rating scales (eg, Vanderbilt, Conner,
+  or Achenbach scales), (e) consideration of speech/language evaluation, (f) screening
+  intelligence testing, (g) screening achievement testing, (h) full intelligence and
+  achievement testing if discrepancies are apparent in abbreviated tests, and (i)
+  trials of classroom interventions. (2) Use pediatric office visits to identify children
+  with academic or behavior problems and symptoms of inattention (history or questionnaire).
+  (3) Refer identified children to the contact person at each child's school, requesting
+  information in accordance with community consensus. (4) Designate a contact person
+  to receive school materials for the practice. (5) Review the packet from the school
+  and incorporate school data into the clinical assessment. (6) Reinforce with the
+  parents and the school the need for multimodal intervention, including academic
+  and study strategies for the classroom and home, in-depth psychologic testing of
+  children whose discrepancies between cognitive level and achievement suggest learning
+  or language disabilities and the need for an individualized educational plan (special
+  education), consideration of the \\\"other health impaired\\\" designation as an
+  alternate route to an individualized educational plan or 504 plan (classroom accommodations),
+  behavior-modification techniques for targeted behavior problems, and medication
+  trials, as indicated. (7) Refer the patient to a mental health professional if the
+  assessment suggests coexisting conditions. (8) Use communication forms to share
+  diagnostic and medication information, recommended interventions, and follow-up
+  plans with the school and the family. (9) Receive requested teacher and parent follow-up
+  reports and make adjustments in therapy as indicated by the child's functioning
+  in targeted areas. (10) Maintain communication with the school and the parents,
+  especially at times of transition (eg, beginning and end of the school year, change
+  of schools, times of family stress, times of change in management, adolescence,
+  and entry into college or the workforce)."
+---

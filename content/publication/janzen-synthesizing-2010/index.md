@@ -1,0 +1,43 @@
+---
+title: 'Synthesizing Culture and Power in Community Mental Health: An Emerging Framework.'
+authors:
+- Rich Janzen
+- Joanna Ochocka
+- Nora Jacobson
+- Sarah Maiter
+- Laura Simich
+- Anne Westhues
+- Augie Fieras
+date: '2010-01-01'
+publishDate: '2024-10-10T14:22:55.596317Z'
+publication_types:
+- article-journal
+publication: '*Canadian Journal of Community Mental Health*'
+doi: 10.7870/cjcmh-2010-0005
+abstract: "Mental health services in western English-speaking countries are struggling
+  to respond to growing cultural and racial diversity. The overall purpose of the
+  Community University Research Alliance (CURA) study was to explore, develop, pilot,
+  and evaluate how best to provide community-based mental health supports that are
+  effective for people from culturally diverse backgrounds. Using a participatory
+  action research approach within a multimethod design, the study partnership has
+  developed an emerging framework that synthesizes the ideals of previous culture-oriented
+  and power-oriented models. The emerging framework has 3 main components: values
+  that guide concrete actions that in turn produce desired outcomes. Central to the
+  emerging framework is the need for reciprocal collaboration between the mental health
+  system and cultural-linguistic communities.Les services de santé mentale des pays
+  anglophones de l'Occident se démènent pour répondre à une diversité culturelle et
+  raciale grandissante. Le but général de l'étude de l'Alliance de recherche université-communauté
+  (ARUC) était d'explorer, de développer, de piloter et d'évaluer la meilleure façon
+  de fournir des services de santé mentale communautaires pour les gens provenant
+  de divers milieux culturels. Utilisant une approche de recherche-action participative
+  au sein d'un plan mufti-méthodes, l'association d'étude a développé une structure
+  émergente qui rassemble les idéaux des modèles précédents qui s'orientaient vers
+  la culture et le pouvoir. Cette structure émergente comprend 3 composantes principales:
+  des valeurs menant à des actions concrètes qui à leur tour engendrent les résultats
+  désirés. Le pivot de cette structure émergente est le besoin de collaboration réciproque
+  entre les communautés culturelles-linguistiques et le système de santé mentale."
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=52017449&site=ehost-live
+---

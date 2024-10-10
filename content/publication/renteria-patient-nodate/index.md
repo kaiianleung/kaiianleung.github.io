@@ -1,0 +1,57 @@
+---
+title: 'Patient reported outcome measures for minority languages: closing the gap
+  for improving health monitoring in bilingual settings.'
+authors:
+- Iñaki Santamarina Renteria
+- Izaskun Elezgarai Gabantxo
+- Aitor Montes Lasarte
+date: -01-01
+publishDate: '2024-10-10T14:22:46.478477Z'
+publication_types:
+- article-journal
+publication: '*International Journal of Integrated Care (IJIC)*'
+doi: 10.5334/ijic.s3033
+abstract: "Introduction: Patient Reported Outcome Measures (PROMs) are measurement
+  instruments that patients complete to provide information on aspects of their health
+  status that are relevant to their quality of life. The use of PROMs improves patient-clinician
+  communication, emotional well-being of patients and clinical management, as well
+  as patient satisfaction with care. The Basque Country straddles the boundary between
+  France and Spain, under different administrations. The Basque Autonomous Community
+  is a bilingual setting, with a population of approximately 2,100,000 people and
+  two official languages (Spanish and Basque). The Basque Health Service Osakidetza
+  adopts an integrated approach merging hospitals and primary care units, organized
+  in 13 Integrated Health Organizations (IHOs). Objectives: to study the use of PROMs
+  in Osakidetza, and the availability of validated PROMs in both official languages,
+  exploring the potential gaps in research and health assessments in a bilingual context.
+  Methods: a descriptive study was undertaken to: i) identify the integrated care
+  units and departments of Osakidetza in which PROMs are being systematically used
+  (this information was obtained through the Directorate of Health Assistance) ii)
+  explore the scope of the PROMs and the importance of having them available in local
+  languages; and iii) identify the languages in which the PROMs are being offered,
+  by asking the program managers. Results: the systematic use of PROMs in clinical
+  care and research is confined to the Departments of Neurology, Urology and Radiotherapy
+  Oncology of the Ezkerraldea-Enkarterri-Gurutzeta IHO. In this case they are administered
+  to those patients with localized prostate cancer and stroke, who are registered
+  in 'My quality of life' program delivered by Osakidetza since 2017 in partnership
+  with the International Consortium for Health Outcomes Measurement. The PROMs used
+  are the PROMIS Global-10, EPIC 26, and EORT QLQ-PR-25. No information has been collected
+  from mental health units. Validated Basque versions of these instruments are not
+  currently in use. Conclusions: This study shows that in Osakidetza the systematic
+  use of PROMs is not common in clinical care, and there are not validated versions
+  available in Basque. PROMs offer the opportunity of putting the patient at the core
+  of the evidence, reflecting person centred care and a shared decision model. Linguistic
+  minorities should be considered at every step of clinical research or care assessment,
+  so PROMs require a process of translation and cultural adaptation to different languages,
+  in order to ensure the feasibility, validity and reliability. In bilingual settings
+  like the Basque Country, PROMs should be available in both languages. We suggest
+  fostering the translation and validation of PROMs in both official languages, and
+  to extend their use to close the gap for improving health research and monitoring
+  health outcomes from an individual and community perspective. With this purpose,
+  we propose that Osakidetza's Basque language schemes should reflect these needs
+  and promote validated questionnaires through collaborative work, in partnership
+  with the basque universities."
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=138165706&site=ehost-live
+---

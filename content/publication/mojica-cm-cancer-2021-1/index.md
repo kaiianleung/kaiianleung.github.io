@@ -1,0 +1,37 @@
+---
+title: A Cancer Education-Plus-Navigation Intervention Implemented Within a Federally
+  Qualified Health Center and Community-Based Settings
+authors:
+- Mojica C.M.
+- Almatkyzy G.
+- Morales-Campos D.
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:54.770456Z'
+publication_types:
+- article-journal
+publication: '*Journal of cancer education : the official journal of the American
+  Association for Cancer Education*'
+doi: 10.1007/s13187-019-01611-5
+abstract: Despite the availability of effective cancer screening tests, Latinos are
+  screened at lower rates than non-Hispanic Whites. We implemented and evaluated the
+  effectiveness of an evidence-based community health worker (CHW) cancer education-plus-navigation
+  intervention designed to increase cancer screening, knowledge of screening guidelines,
+  and the benefit of early detection. The project included a community and clinic
+  component and served a primarily Latino population. In collaboration with a federally
+  qualified health center (FQHC) and three community-based organizations, bilingual/bicultural
+  CHWs recruited men and women (not up-to-date with the cancer screening guidelines)
+  from a FQHC and the community. Participants received education plus navigation and
+  no-cost cancer screening tests. Together with the FQHC, we outlined eligibility
+  criteria, project protocols, project implementation, and evaluation activities.
+  With the community organizations, we outlined recruitment protocols-when to recruit,
+  how to recruit, and connections with other organizations. CHWs enrolled 3045 men
+  and women into the education-plus-navigation intervention. Overall, 71% received
+  at least one cancer screening. Stratifying by gender, 72% of women received at least
+  one cancer screening test whereas 63% of enrolled men received a test for colorectal
+  cancer. Knowledge of screening guidelines and the belief in early detection also
+  increased from baseline to follow-up. Our evidence-based education-plus-navigation
+  intervention successfully reached large numbers of underserved men and women and
+  yielded positive changes in cancer screening and knowledge of screening guidelines
+  and the belief in early detection. The inclusion of a clinic and community component
+  ensured success of the project.
+---

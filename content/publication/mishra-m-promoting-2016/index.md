@@ -1,0 +1,31 @@
+---
+title: Promoting Health and Behavioral Health Equity in California
+authors:
+- Mishra M.
+- Lupi M.V.
+- Miller W.J.
+- Nolfo T.
+date: '2016-01-01'
+publishDate: '2024-10-10T14:22:48.650358Z'
+publication_types:
+- article-journal
+publication: '*Journal of public health management and practice : JPHMP*'
+doi: 10.1097/PHH.0000000000000309
+abstract: Behavioral health disparities are not usually considered part of the same
+  system of health disparities. However, the California Department of Public Health
+  focused its health equity strategies on reducing behavioral health disparities through
+  its California Statewide Plan to Promote Health and Mental Health Equity. This statewide
+  plan was developed through a community-wide stakeholder engagement and outreach
+  process. In addition, the California Reducing Disparities Project is a prevention
+  and early intervention effort to reduce mental health disparities in underserved
+  populations. This strategic plan represents the voice of several racial/ethnic communities,
+  such as African American, Asian and Pacific Islander, Latino, Native American, as
+  well as lesbian, gay, bisexual, transgender, and queer and questioning communities
+  in California, through 5 strategic planning workgroups. The workgroups were composed
+  of a broad range of stakeholders, including community leaders, mental health care
+  providers, consumer and family members, individuals with lived experience, and academia.
+  This case example highlights the various efforts of California's Office of Health
+  Equity in eliminating behavioral health disparities and promoting mental health
+  equity, as well as discusses the unique statutory and regulatory role of the Office
+  of Health Equity's deputy director.
+---

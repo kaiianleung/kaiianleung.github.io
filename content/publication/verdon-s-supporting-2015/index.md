@@ -1,0 +1,45 @@
+---
+title: 'Supporting culturally and linguistically diverse children with speech, language
+  and communication needs: Overarching principles, individual approaches'
+authors:
+- Verdon S.
+- McLeod S.
+- Wong S.
+date: '2015-01-01'
+publishDate: '2024-10-10T14:22:48.733298Z'
+publication_types:
+- article-journal
+publication: '*Journal of Communication Disorders*'
+doi: 10.1016/j.jcomdis.2015.10.002
+abstract: "Speech-language pathologists (SLPs) are working with an increasing number
+  of families from culturally and linguistically diverse backgrounds as the world's
+  population continues to become more internationally mobile. The heterogeneity of
+  these diverse populations makes it impossible to identify and document a one size
+  fits all strategy for working with culturally and linguistically diverse families.
+  This paper explores approaches to practice by SLPs identified as specialising in
+  multilingual and multicultural practice in culturally and linguistically diverse
+  contexts from around the world. Data were obtained from ethnographic observation
+  of 14 sites in 5 countries on 4 continents. The sites included hospital settings,
+  university clinics, school-based settings, private practices and Indigenous community-based
+  services. There were 652 individual artefacts collected from the sites which included
+  interview transcripts, photographs, videos, narrative reflections, informal and
+  formal field notes. The data were analysed using Cultural-Historical Activity Theory
+  (Engestrom, 1987). From the analysis six overarching Principles of Culturally Competent
+  Practice (PCCP) were identified. These were: (1) identification of culturally appropriate
+  and mutually motivating therapy goals, (2) knowledge of languages and culture, (3)
+  use of culturally appropriate resources, (4) consideration of the cultural, social
+  and political context, (5) consultation with families and communities, and (6) collaboration
+  between professionals. These overarching principles align with the six position
+  statements developed by the International Expert Panel on Multilingual Children's
+  Speech (2012) which aim to enhance the cultural competence of speech pathologists
+  and their practice. The international examples provided in the current study demonstrate
+  the individualised ways that these overarching principles are enacted in a range
+  of different organisational, social, cultural and political contexts. Tensions experienced
+  in enacting the principles are also discussed. This paper emphasises the potential
+  for individual SLPs to enhance their practice by adopting these overarching principles
+  to support the individual children and families in diverse contexts around the world.Copyright
+  © 2015 Elsevier Inc."
+links:
+- name: URL
+  url: https://www.elsevier.com/locate/jcomdis
+---

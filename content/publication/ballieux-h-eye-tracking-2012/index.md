@@ -1,0 +1,38 @@
+---
+title: 'Eye-tracking in the community: The relationship between infant attention to
+  social cues and their socio-economic, ethnic, and/or language background'
+authors:
+- Ballieux H.
+- Tomalski P.
+- Karmiloffsmith A.
+- Johnson M.
+- Kushnerenko E.
+- Moore D.
+date: '2012-01-01'
+publishDate: '2024-10-10T14:22:49.323606Z'
+publication_types:
+- article-journal
+publication: '*Developmental Medicine and Child Neurology*'
+doi: 10.1111/j.1469-8749.2012.04279.x
+abstract: "Background: There is evidence that low socio-economic status (SES) of mothers
+  correlates with later language and social communication outcomes of their children.
+  This longitudinal project aims to determine whether individual differences in eye
+  movement patterns at 6-7 months of age can predict language and social communication
+  outcomes at 2 years of age. An eye-tracker was set up in Children's Centres in two
+  East London boroughs with high socio-economic deprivation, where early language
+  and social difficulties are highly prevalent. Method(s): Data collected from almost
+  200 babies will indicate which eye-tracking tasks, showing dynamic social stimuli,
+  can become reliable early screening tools for babies at risk for later difficulties
+  with language and social communication. The sample of infants was very varied in
+  terms of SES, ethnicity, and spoken languages (e.g., over 40 different languages
+  were spoken as first language). Result(s): We will show results of the Pop-out study,
+  which investigated whether a face preference is elicited in 6-7 month-olds by presenting
+  faces in a complex visual array also containing pictures of other (in)animate objects.
+  Specific individual differences between infants related to family SES, language
+  background, level of caregiver education, and/or housing and childcare arrangements
+  will be discussed. Discussion(s): Despite competing objects, infants have a clear
+  preference for the face, both in terms of overall looking time and first saccade.
+  However, there were also large individual differences in terms of both measures
+  between infants. The correlation between these individual differences and SES measures
+  will be discussed."
+---

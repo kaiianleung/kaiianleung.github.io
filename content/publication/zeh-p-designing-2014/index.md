@@ -1,0 +1,38 @@
+---
+title: 'Designing effective culturallycompetent diabetes care service in primary care:
+  A participatory research study to implement evidence'
+authors:
+- Zeh P.
+- Sandhu H.K.
+- Cannaby A.M.
+- Sturt J.A.
+date: '2014-01-01'
+publishDate: '2024-10-10T14:22:48.969649Z'
+publication_types:
+- article-journal
+publication: '*Diabetic Medicine*'
+doi: 10.1111/dme.12378_2
+abstract: "Aims: Systematic reviews have identified effective interventions for improving
+  cultural competence in diabetes healthcare. This study aimed to explore and design
+  an intervention to cater for the needs of ethnic minority groups (EMGs) with diabetes
+  in Coventry. Method(s): A purposive participatory case study was conducted in one
+  Coventry inner-city practice between April 2012 and March 2013, using weekly participant
+  observations, monthly participatory group meetings and one post-participatory one-to-one
+  semi-structured interview with three patients, four general practice (GP) staff
+  and two multilingual link workers (MLWs). Data were analysed using qualitative methods.
+  The research explored cultural issues with staff and patients within the GP and
+  designed a culturally-competent diabetes service framework. Result(s): The operational
+  activities of this GP involving staff and patients demonstrated both helpful (e.g.
+  some ethnic minority patients with cultural differences being consulted by healthcare
+  professionals from the same ethnic backgrounds, thereby ensuring cultural concordances)
+  and unhelpful practices (e.g. using children to interpret for their parents and
+  at times patients with language barriers consulted without the use of professional
+  or lay interpreters). The practice prioritised the designing of a diabetes specialist
+  multilingual link worker (DSMLW) model, to reduce the inequality in diabetes service
+  provision. Key elements of the model were specialist training of MLWs, referral
+  pathway, information sharing, partnership working, and service commissioning. Conclusion(s):
+  A DSMLW framework to address deficits in GP cultural competence is now ready for
+  pilot testing. Involving a broad group of stakeholders ensures that interventions
+  to improve EMGs' access to effective diabetes care in primary care are appropriate
+  and feasible."
+---

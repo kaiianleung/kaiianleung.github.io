@@ -1,0 +1,41 @@
+---
+title: Evaluation of the acceptability and clinical utility of an Arabic-language
+  mindfulness CD in an Australian community setting
+authors:
+- Blignault I.
+- Saab H.
+- Woodland L.
+- Comino E.
+date: '2019-01-01'
+publishDate: '2024-10-10T14:22:48.098941Z'
+publication_types:
+- article-journal
+publication: '*Transcultural Psychiatry*'
+doi: 10.1177/1363461519825880
+abstract: The cultural, linguistic, and religious diversity of Australia's population
+  presents challenges for mental health service delivery. Arabic-speaking communities
+  in Australia underutilise mental health services despite high levels of trauma and
+  psychological distress. Clinicians who work with this population lack linguistically
+  and culturally appropriate clinical resources. The aim of this study was to explore
+  the acceptability and clinical utility of a Mindfulness Skills CD translated into
+  formal Arabic. The 70 participants were Arabic-speaking adults, mostly Lebanese-born
+  Muslim women, who enrolled in a 5-week mindfulness program using the CD and agreed
+  to follow-up at 12 weeks. Both recruitment and data collection were undertaken by
+  a female project officer who is a widely respected member of the Arabic community
+  in south-east Sydney. Compliance with the program protocol was high and all but
+  4 participants continued to use the CD beyond the 5 weeks. Overall, participants
+  reported that mindfulness techniques fitted well with their way of life and were
+  compatible with their cultural and religious practices. Most found mindfulness complementary
+  to their regular reflective prayer. Using the Mindfulness Skills CD was associated
+  with statistically significant reductions in psychological distress as measured
+  by the Kessler Scale (K10) and the Depression, Anxiety, and Stress Scale (DASS21)
+  postprogram (K10; DASS21 Depression and Stress subscales) and at follow-up (all
+  measures). The evaluation showed that the Arabic Mindfulness Skills CD is an effective
+  and culturally appropriate mental health resource for this population group. This
+  low-cost, easily distributed resource is suitable for use in individual self-management
+  and as an adjunct to primary and specialist mental health care.Copyright © The Author(s)
+  2019.
+links:
+- name: URL
+  url: http://tps.sagepub.com/content/by/year
+---

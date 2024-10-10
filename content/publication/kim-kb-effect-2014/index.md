@@ -1,0 +1,43 @@
+---
+title: The effect of a community-based self-help multimodal behavioral intervention
+  in Korean American seniors with high blood pressure
+authors:
+- Kim K.B.
+- Han H.-R.
+- Huh B.
+- Nguyen T.
+- Lee H.
+- Kim M.T.
+date: '2014-01-01'
+publishDate: '2024-10-10T14:22:48.917160Z'
+publication_types:
+- article-journal
+publication: '*American Journal of Hypertension*'
+doi: 10.1093/ajh/hpu041
+abstract: 'BACKGROUND: Great strides have been made in improving heart health in the
+  United States during the last 2 decades, yet these strides have not encompassed
+  many ethnic minority populations. There are significant health disparity gaps stemming
+  from both a paucity of valid research and a lack of culturally sensitive interventions.
+  In particular, many Korean Americans with chronic illnesses encounter difficulty
+  navigating the healthcare system because of limited health literacy. METHOD(S):
+  The effect of a multimodal Self-Help Intervention Program on the Control of High
+  Blood Pressure (HBP) was tested in a community-based clinical trial for Korean American
+  seniors. Of 440 seniors enrolled, 369 completed the study (184 in the intervention
+  group and 185 in the control group; mean age = 70.9 +/- 5.3 years). The intervention
+  group received 6 weekly educational sessions on HBP management skill building, including
+  health literacy training, followed by telephone counseling and home blood pressure
+  (BP) monitoring for 12 months. RESULT(S): Findings support that the Self-Help Intervention
+  Program on the Control of HBP was effective in controlling BP in this ethnic/linguistic
+  minority population. The BP control rates for the intervention and control groups
+  were 49.5% vs. 43.2% at baseline, 58.5% vs. 42.4% at 6 months, 67.9% vs. 52.5% at
+  12 months, and 54.3% vs. 53.0% at 18 months. Significant changes were observed over
+  time in some psychobehavioral outcomes, including self-efficacy for BP control,
+  medication adherence behavior, HBP knowledge, and depression. CONCLUSION(S): The
+  study findings suggest that the multimodal Self-Help Intervention Program on the
+  Control of HBP is effective at promoting optimal HBP control for this ethnic/linguistic
+  minority population. CLINICAL TRIALS REGISTRY: NCT00406614. © American Journal of
+  Hypertension, Ltd 2014. All rights reserved.'
+links:
+- name: URL
+  url: http://ajh.oxfordjournals.org/?371http://ajh.oxfordjournals.org/?371
+---

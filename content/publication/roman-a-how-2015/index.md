@@ -1,0 +1,43 @@
+---
+title: How do patients experience periodic health examinations?
+authors:
+- Roman A.
+- Guindi D.
+- Puzhko S.
+- Yaffe M.
+date: '2015-01-01'
+publishDate: '2024-10-10T14:22:48.748754Z'
+publication_types:
+- article-journal
+publication: '*Canadian Family Physician*'
+abstract: "Context Suggested benefits of periodic health examinations (PHEs) include
+  opportunities for screening, health promotion, and fostering the doctor-patient
+  relationship. The literature contains little about the PHE from the patients' perspective.
+  Objective To explore patients' feelings about, and experience with, the PHE. Design
+  Quantitative, participatory. Participants English- or French-speaking patients aged
+  18 or older, receiving at least 1 PHE within the previous 24 months. A random sample
+  of patients of an urban, hospital-based academic family medicine centre was approached
+  by volunteers (themselves patients of that centre) to self-administer a piloted,
+  bilingual, anonymous 24-item survey on perceptions of and experiences with \\\"
+  an annual exam, complete checkup, or periodic health exam,\\\" as distinct from
+  a visit for a new problem or follow-up of an existing one. Main outcome measures
+  Likert-style questions exploring patients' experiences with PHEs were predominantly
+  derived from 4 validated tools: the National Survey Programme, the Patient Experience
+  Questionnaire, the Recovery Self-Assessment Person in Recovery survey, and the Recovery
+  Oriented Systems Indicators Consumer Survey 2005. Results Of 196 patients agreeing
+  to participate, 173 were retained in the final data set: 78.6% were female; the
+  mean age was 48.4 years; mean years of care by the same doctor was 5.1; mean number
+  of visits in the preceding 24 months was 4.9. More than 90% agreed or strongly agreed
+  that their doctors respected them, listened, and informed them in a clear fashion.
+  Overall 80% to 90% agreed or strongly agreed that their doctors were open to options
+  for care, had concern about both medical and psychosocial issues, and recognized
+  their rights to express worries and concerns, or refuse interventions. In total,
+  62.5% agreed or strongly agreed that a purpose of PHE visits was to help doctors
+  know them better as people, while only 39.3% agreed that a purpose was for them
+  to get to know the doctors better. Conclusion Patients identified indicators of
+  care suggesting high patient-centredness. Yet only 3 out of 5 endorsed PHEs as important
+  for doctors to get to know them, and fewer (2 out of 5) saw such visits as opportunities
+  for them to get to know the doctors. Patients might not appreciate what might be
+  necessary to foster meaningful doctorpatient encounters."
+url_pdf: http://www.cfp.ca/content/cfp/61/2/S1.full.pdf
+---

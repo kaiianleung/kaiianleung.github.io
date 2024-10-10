@@ -1,0 +1,39 @@
+---
+title: 'Serving underserved Hispanic populations: Practical strategies for pharmacy
+  professionals'
+authors:
+- Spann N.
+- Quates C.
+- Nguyen E.
+- Carr G.
+- Cleveland K.W.
+- Owens C.
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:47.234161Z'
+publication_types:
+- article-journal
+publication: '*Journal of the American Pharmacists Association*'
+doi: 10.1016/j.japh.2022.10.024
+abstract: 'As pharmacy professionals and health care systems serve diverse patient
+  populations, especially in continued efforts to reduce the spread of coronavirus
+  disease 2019, racial and ethnic disparities must be acknowledged and addressed.
+  The authors share a collaboration between a nonprofit immunization coalition and
+  college of pharmacy to provide mobile coronavirus disease 2019 vaccination clinics
+  to communities across Idaho that have been disproportionately affected by the pandemic.
+  The goal of this commentary is to share experiences providing vaccination services
+  for the Hispanic community and discuss strategies for pharmacy professionals to
+  provide more equitable care. Through clinical experience and listening sessions
+  to address vaccine hesitancy, several themes emerged that could be categorized into
+  the following: convenience, complacency, and confidence. Suggestions to overcome
+  vaccine hesitancy include hosting events at work sites, bilingual communication
+  techniques, targeted education, and collaboration with trusted community partners.
+  Additional considerations in implementing more equitable care include creating a
+  culturally competent workforce, combatting vaccine misinformation, and finding sustainable
+  ways to continue community partnerships to provide ongoing and expanding services.
+  Utilizing unique approaches to serve the stated needs of a Hispanic population is
+  essential to providing equitable health care to all members of a community.Copyright
+  © 2022'
+links:
+- name: URL
+  url: http://www.japha.org/issues.aspx?journalid=63
+---

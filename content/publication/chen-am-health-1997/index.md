@@ -1,0 +1,45 @@
+---
+title: "'Health is strength': A research collaboration involving Korean Americans
+  in Alameda Ccounty"
+authors:
+- Chen A.M.
+- Wismer B.A.
+- Lew R.
+- Kang S.H.
+- Min K.
+- Moskowitz J.M.
+- Tager I.B.
+date: '1997-01-01'
+publishDate: '2024-10-10T14:22:50.072549Z'
+publication_types:
+- article-journal
+publication: '*American Journal of Preventive Medicine*'
+doi: 10.1016/s0749-3797%2818%2930100-4
+abstract: "Introduction: This is a preliminary report from a research collaboration
+  between Asian Health Services (community health center); Koreans in Alameda County,
+  California; and the University of California at Berkeley School of Public Health.
+  This five-year Centers for Disease Control and Prevention project supports a collaborative
+  community intervention to improve breast and cervical cancer screening behavior
+  among Korean women. Method(s): A Korean Community Advisory Board and KoreanAmerican
+  staff were recruited, and community sensitive research (CSR) and participatory action
+  research (PAR) principles were applied: (1) building community infrastructure for
+  sustainable action, (2) cultural appropriateness, (3) assuring responsiveness to
+  community needs, and (4) a prevention focus that would assist health care providers.
+  We conducted a population-based telephone survey on 676 Korean adults (272 men and
+  404 women). Result(s): The collaborative process yielded (1) a high response rate
+  (79%), (2) baseline health information on Korean Americans, (3) broadening of the
+  original research topic, (4) survey responses that will guide intervention design,
+  (5) culturally competent strategies, and (6) expanded Korean-American Community
+  capacity for local action. Conclusion(s): Research collaboration between universities,
+  community- based organizations, and ethnic communities can yield high-quality research.
+  CSR and PAR approaches help break through cultural barriers in otherwise 'hard to
+  reach' API subpopulations. Determinants of success include sharing common goals;
+  trust, honesty, and integrity; shared decision making; mutual respect of each partner's
+  expertise; cultural sensitivity and cultural competence; flexibility, good communication,
+  and mutual learning; and continuity of partners. Actively engaging members of the
+  study population in the research process builds community capacity, thus laying
+  the foundation for future projects that improve health status."
+links:
+- name: URL
+  url: https://www.elsevier.com/locate/amepre
+---

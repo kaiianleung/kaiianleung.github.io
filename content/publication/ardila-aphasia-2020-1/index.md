@@ -1,0 +1,35 @@
+---
+title: Aphasia in Bilinguals
+authors:
+- Alfredo Ardila
+- Durjoy Lahiri
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:54.453755Z'
+publication_types:
+- article-journal
+publication: '*medRxiv*'
+doi: 10.1101/2020.04.22.20075432
+abstract: 'Background Little is known about the influence of bilingualism in aphasia.Aims
+  To analyze the effect of bilingualism in a group of patients with aphasia.Methods
+  Data from155 monolingual and 53 bilingual aphasia patients were analyzed.Results
+  It was found that aphasia was significantly less severe in bilinguals when compared
+  to monolinguals (p=0.023)Conclusion Bilingualism represents a protecting factor
+  in aphasia. Aphasia is less severe and consequently, recovery is expected to be
+  better in bilingual patients.Competing Interest StatementThe authors have declared
+  no competing interest.Funding StatementNot applicableAuthor DeclarationsAll relevant
+  ethical guidelines have been followed; any necessary IRB and/or ethics committee
+  approvals have been obtained and details of the IRB/oversight body are included
+  in the manuscript.YesAll necessary patient/participant consent has been obtained
+  and the appropriate institutional forms have been archived.YesI understand that
+  all clinical trials and any other prospective interventional studies must be registered
+  with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any
+  such study reported in the manuscript has been registered and the trial registration
+  ID is provided (note: if posting a prospective study registered retrospectively,
+  please provide a statement in the trial ID field explaining why the study was not
+  registered in advance).Yes I have followed all appropriate research reporting guidelines
+  and uploaded the relevant EQUATOR Network research reporting checklist(s) and other
+  pertinent material as supplementary files, if applicable.YesNot applicable'
+links:
+- name: URL
+  url: https://www.medrxiv.org/content/early/2020/04/25/2020.04.22.20075432
+---

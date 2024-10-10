@@ -1,0 +1,48 @@
+---
+title: Language Experience during Infancy Predicts White Matter Myelination at Age
+  2 Years.
+authors:
+- Elizabeth Huber
+- Neva M Corrigan
+- Vasily L Yarnykh
+- Naja Ferjan Ramirez
+- Patricia K Kuhl
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:54.526671Z'
+publication_types:
+- article-journal
+publication: '*The Journal of neuroscience : the official journal of the Society for
+  Neuroscience*'
+doi: 10.1523/JNEUROSCI.1043-22.2023
+abstract: Parental input is considered a key predictor of language achievement during
+  the first years of life, yet relatively few studies have assessed the effects of
+  parental language input and parent-infant interactions on early brain development.
+  We examined the relationship between measures of parent and child language, obtained
+  from naturalistic home recordings at child ages 6, 10, 14, 18, and 24 months, and
+  estimates of white matter myelination, derived from quantitative MRI at age 2 years
+  (mean = 26.30 months, SD = 1.62, N = 22). Analysis of the white matter focused on
+  dorsal pathways associated with expressive language development and long-term language
+  ability, namely, the left arcuate fasciculus (AF) and superior longitudinal fasciculus
+  (SLF). Frequency of parent-infant conversational turns (CT) uniquely predicted myelin
+  density estimates in both the AF and SLF. Moreover, the effect of CT remained significant
+  while controlling for total adult speech and child speech-related utterances, suggesting
+  a specific role for interactive language experience, rather than simply speech exposure
+  or production. An exploratory analysis of 18 additional tracts, including the right
+  AF and SLF, indicated a high degree of anatomic specificity. Longitudinal analyses
+  of parent and child language variables indicated an effect of CT as early as 6 months
+  of age, as well as an ongoing effect over infancy. Together, these results link
+  parent-infant conversational turns to white matter myelination at age 2 years, and
+  suggest that early, interactive experiences with language uniquely contribute to
+  the development of white matter associated with long-term language ability. SIGNIFICANCE
+  STATEMENT Children's earliest experiences with language are thought to have profound
+  and lasting developmental effects. Recent studies suggest that intervention can
+  increase the quality of parental language input and improve children's learning
+  outcomes. However, important questions remain about the optimal timing of intervention,
+  and the relationship between specific aspects of language experience and brain development.
+  We report that parent-infant turn-taking during home language interactions correlates
+  with myelination of language related white matter pathways through age 2 years.
+  Effects were independent of total speech exposure and infant vocalizations and evident
+  starting at 6 months of age, suggesting that structured language interactions throughout
+  infancy may uniquely support the ongoing development of brain systems critical to
+  long-term language ability. Copyright © 2023 the authors.
+---

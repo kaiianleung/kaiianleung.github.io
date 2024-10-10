@@ -1,0 +1,50 @@
+---
+title: 'Blood donation among university students: Practices, motivations, and barriers
+  in Saudi Arabia'
+authors:
+- Mohamed Salih Mahfouz
+- Majed Ryani
+- Ahmed Saleh Nawar Hamzi
+- Dhaifallah Abdullah Zaeri
+- Abdullah Abdulrahman Dahdoh
+- Abdulaziz Jaber Almalki
+- Ahmed Ali Jubran Hakami
+- Abdu Ahmed Abkr Aqeeli
+- Ibrahim Hussien Tawashi
+date: '2021-04-01'
+publishDate: '2024-10-10T14:22:58.318584Z'
+publication_types:
+- article-journal
+publication: '*Avicenna Journal of Medicine*'
+doi: 10.4103/ajm.ajm_113_20
+abstract: 'Context: Blood transfusion is an essential medical procedure conducted
+  with various purposes to provide patients with blood needed. The procedure saves
+  patients’ lives, as blood cannot be manufactured artificially and can only be obtained
+  from human blood sources. Aims: To assess the awareness of, perceptions of, motivations
+  regarding, and barriers to blood donation among a sample of Jazan University students
+  in the Kingdom of Saudi Arabia (KSA). Settings and Design: An observational cross-sectional
+  study was conducted among the undergraduate students of Jazan University. Materials
+  and Methods: Stratified random sampling was used to collect information from 440
+  students, and a predesigned, structured questionnaire was used to collect data on
+  the study variables. Statistical Analysis: Involved descriptive statistics and inferential
+  statistics. SPSS was used for data analysis. Results: The prevalence of blood donation
+  was 29.0% (95% CI, 25.0–33.3), significantly higher for males at 44.3% (95% CI,
+  38.3–50.4) than for females at 10.5% (95% CI, 7.3–16.0; P Conclusions: The prevalence
+  of blood donation was found to be low, and students’ knowledge regarding blood donation
+  appeared to be lacking. The development of awareness programs among the university’s
+  students will address students’ misconceptions about blood donation and encourage
+  them to join donation campaigns.  Key Messages: Students’ knowledge regarding blood
+  donation appeared to be lacking. The prevalence of blood donation was also not satisfactory.
+  Being unqualified for blood donation and fear and misconceptions regarding blood
+  donation were observed to be the main causes of non-donation. The development of
+  awareness programs among the university’s students will encourage them to join donation
+  campaigns.'
+tags:
+- Blood
+- donation
+- knowledge
+- motivations and barriers
+links:
+- name: URL
+  url: http://www.thieme-connect.de/DOI/DOI?10.4103/ajm.ajm_113_20
+---

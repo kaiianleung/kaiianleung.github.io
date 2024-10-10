@@ -1,0 +1,36 @@
+---
+title: Bilingualism and Processing Speed in Typically Developing Children and Children
+  With Developmental Language Disorder.
+authors:
+- Ji Sook Park
+- Carol A Miller
+- Teenu Sanjeevan
+- Janet G van Hell
+- Daniel J Weiss
+- Elina Mainela-Arnold
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:57.728298Z'
+publication_types:
+- article-journal
+publication: '*Journal of speech, language, and hearing research : JSLHR*'
+doi: 10.1044/2020_JSLHR-19-00403
+abstract: Purpose The aim of the current study was to investigate whether dual language
+  experience modulates processing speed in typically developing (TD) children and
+  in children with developmental language disorder (DLD). We also examined whether
+  processing speed predicted vocabulary and sentence-level abilities in receptive
+  and expressive modalities. Method We examined processing speed in monolingual and
+  bilingual school-age children (ages 8-12 years) with and without DLD. TD children
+  (35 monolinguals, 24 bilinguals) and children with DLD (17 monolinguals, 10 bilinguals)
+  completed a visual choice reaction time task. The Clinical Evaluation of Language
+  Fundamentals, the Peabody Picture Vocabulary Test, and the Expressive Vocabulary
+  Test were used as language measures. Results The children with DLD exhibited slower
+  response times relative to TD children. Response time was not modified by bilingual
+  experience, neither in children with typical development nor children with DLD.
+  Also, we found that faster processing speed was related to higher language abilities,
+  but this relationship was not significant when socioeconomic status was controlled
+  for. The magnitude of the association did not differ between the monolingual and
+  bilingual groups across the language measures. Conclusions Slower processing speed
+  is related to lower language abilities in children. Processing speed is minimally
+  influenced by dual language experience, at least within this age range. Supplemental
+  Material https://doi.org/10.23641/asha.12210311.
+---

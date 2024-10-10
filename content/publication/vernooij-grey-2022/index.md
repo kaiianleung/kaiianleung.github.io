@@ -1,0 +1,28 @@
+---
+title: 'Grey manchas: Understanding codeswitches when grammars conflict'
+authors:
+- Natasha Vernooij
+- Julie Boland
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:54.403894Z'
+publication_types:
+- article-journal
+doi: 10.31234/osf.io/f7vyz
+abstract: Bilinguals often codeswitch between languages mid-sentence. Do incongruent
+  codeswitches, which follow the word order of only one language, occur? If so, how
+  do bilinguals comprehend them, given the clash in grammaticality? First, we demonstrated
+  that incongruent codeswitches occur, based on a corpus analysis of Spanish-English
+  speech. Then, we measured bilinguals’ assessments of congruent codeswitches (Experiment
+  1) and incongruent codeswitches (Experiment 2) using an offline rating task. This
+  task was sensitive to codeswitching costs and grammaticality. More importantly,
+  the ratings for incongruent codeswitches supported the Current Word hypothesis,
+  which predicts that codeswitches follow the word order of the language of the current
+  word, but not the Matrix Language hypothesis (Myers-Scotton, 2002). These results
+  can be understood within a bilingual comprehension theory in which activation spreads
+  from words in the input to language-independent grammatical structures, leading
+  bilinguals to make language-independent predictions about the syntactic category
+  of upcoming words.
+links:
+- name: URL
+  url: https://psyarxiv.com/f7vyz/
+---

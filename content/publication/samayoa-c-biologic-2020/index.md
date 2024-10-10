@@ -1,0 +1,54 @@
+---
+title: 'Biologic and self-reported stress levels among Latina breast cancer survivors:
+  The Nuevo Amanecer Rural Trial'
+authors:
+- Samayoa C.
+- Santoyo-Olsson J.
+- Marquez-Magaha L.
+- Napoles A.M.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:47.936364Z'
+publication_types:
+- article-journal
+publication: '*Cancer Epidemiology Biomarkers and Prevention*'
+doi: 10.1158/1538-7755.DISP18-C111
+abstract: Among Latinas, breast cancer is the primary cause of cancer- associated
+  mortality. Latinas experience breast cancerhealth disparities in disease-free survival,
+  health-related quality of life, pain, fatigue, and anxiety, which may be aresult
+  of experiences of chronic stress. Chronic stress can impact the hypothalamic pituitary
+  adrenal (HPA) axis,leading to changes in the tumor microenvironment and subsequently
+  facilitate cancer progression. Little is knownabout the role of stress in cancer
+  health disparities among Latinas. Our aim was to assess the feasibility of biospecimen
+  collection and describe biologic and self-reported levels of stress using baseline
+  data from arandomized controlled trial of a stress-management intervention among
+  Spanish-speaking rural Latina breast cancersurvivors (LBCS). We used community-based
+  participatory research (CBPR) methods to recruit women, conductinterviews, and obtain
+  saliva and hair samples. Recruiters were bilingual-bicultural women from local communitiesworking
+  in the community organizations that were research partners. Videos and print materials
+  with graphics weredeveloped in low-literacy Spanish to demonstrate biospecimen collection
+  procedures. Recruiters providedinstruction and demonstrations on sample collection
+  and collected self-reported stress and depressive symptoms viain-person interviews
+  in Spanish. Self-reported measures of stress and depressive symptoms consisted of
+  thePerceived Stress Scale (PSS-10) and Personal Health Questionnaire (PHQ-8). Biologic
+  stress was measured usinghair (1 sample) and salivary cortisol (3 samples/day for
+  3 days). Mean hair cortisol concentration (HCC) in pc/mg units was used to assess
+  chronic stress. The cortisol awakening response (CAR) measure assessed the activity
+  of the HPA axis; curves that demonstrate a cortisol peak 30 minutes after awakening
+  and a cortisol dip bedtime wereconsidered normal. We recruited 103 participants
+  from the Central Valley and Imperial County, California. Eighty-sixpercent provided
+  saliva samples for CAR analysis, and 53% provided hair samples for HCC. Participants'
+  mean agewas 56 years (SD=10.6) and mean time since breast cancer diagnosis was 3.2
+  years (SD=3.2). Participantsreported moderate (PSS mean score = 14.5; SD 7.5) stress
+  levels and mild depression (PHQ-8 mean score = 6.3;SD 5.5). Biologic stress measurements
+  demonstrated that 37% of participants had an abnormal CAR at baseline,and elevated
+  HCC (mean HCC = 362.9 pg/mg). Bivariate models showed no relationship between self-reported
+  and biologic markers of stress. Using CBPR methods leads to successful recruitment
+  of Latinas to clinical researchinvolving biospecimen collection. Although self-reported
+  stress and depression were moderate or mild, biologicstress levels were high and
+  abnormal in over 1/3 of participants, suggesting that chronic stress, and its subsequentintegration
+  into the biologic stress pathways, may help explain ethnic disparities in cancer
+  outcomes of LBCS.
+links:
+- name: URL
+  url: https://cebp.aacrjournals.org/content/29/6_Supplement_1/C111
+---

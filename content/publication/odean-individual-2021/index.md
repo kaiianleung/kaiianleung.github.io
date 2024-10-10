@@ -1,0 +1,28 @@
+---
+title: "Individual differences in preschoolers' spatial thinking: Comprehension of
+  dimensional adjectives and their relation to children's performance on non-verbal
+  spatial tasks"
+authors:
+- Rosalie Odean
+- Carla Abad
+- Shannon M. Pruden
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:54.237469Z'
+publication_types:
+- article-journal
+doi: 10.31234/osf.io/q367t
+abstract: The current study explores whether individual differences in the dimensional
+  adjectives (e.g., big, tall) children understand, relates to individual differences
+  in two non-verbal spatial abilities, an extrinsic spatial task (i.e., spatial scaling)
+  and an intrinsic spatial task (i.e., mental rotation) in two studies that looked
+  at spatial scaling and mental transformations respectively. Ninety-two Spanish-English
+  bilingual children between 37.65 and 71.87 months (42 male) participated in Study
+  1 and with 79 of the children aged 48- to 72-months (40 male) also participating
+  in study 2. Results show number of dimensional adjectives preschool children comprehend
+  utilizing a new interactive, tablet-based task relates to performance on non-verbal
+  spatial tasks. Children may use language when solving spatial tasks, or language
+  may be indicative of overall stronger understanding of spatial relations.
+links:
+- name: URL
+  url: https://psyarxiv.com/q367t/
+---

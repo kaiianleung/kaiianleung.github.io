@@ -1,0 +1,72 @@
+---
+title: 'Main COVID-19 information sources in a culturally and linguistically diverse
+  community in Sydney, Australia: A cross-sectional survey'
+authors:
+- J. Ayre
+- D. M. Muscat
+- O. Mac
+- C. Batcup
+- E. Cvejic
+- K. Pickles
+- H. Dolan
+- C. Bonner
+- D. Mouwad
+- D. Zachariah
+- U. Turalic
+- Y. Santalucia
+- T. Chen
+- G. Vasic
+- K. J. McCaffery
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:46.957608Z'
+publication_types:
+- article-journal
+publication: '*medRxiv*'
+doi: 10.1101/2021.10.24.21265451
+abstract: 'Background Little is known about COVID-19 information-seeking experiences
+  for culturally and linguistically diverse groups in Australia.Methods Participants
+  were recruited using a cross-sectional survey from March 21 to July 9, 2021, translated
+  into 11 languages, and with supporting bilingual staff. Linear regression models
+  identified factors associated with difficulty finding easy-to-understand COVID-19
+  information.Results Across 708 participants (88% born overseas, 31% poor English
+  proficiency), difficulty finding easy-to-understand COVID-19 information was rated
+  4.13 for English materials (95%CI: 3.85 to 4.41) and 4.36 for translated materials
+  (95%CI: 4.07 to 4.66) (1 easy to 10 hard). Participants who were older (p&lt;0.001),
+  had inadequate health literacy (Mean Difference (MD)=-1.43, 95%CI -2.03 to - 0.82,
+  p&lt;0.001), or poor English proficiency (MD=-1.9, 95%CI-2.51 to -1.29, p&lt;0.001)
+  found it harder to find easy-to-understand English-language COVID-19 information.
+  Those who had greater difficulty finding easy-to-understand translated COVID-19
+  information were younger (p=0.004), had poor English proficiency (MD=-1.61, 95%CI
+  -2.29 to -0.9, p&lt;0.001), university education (MD=0.77, 95%CI 0.00 to 1.53, p=0.05),
+  and had spent longer living in Australia (p=0.001). They were more likely to rely
+  on friends and family for COVID-19 information (p=0.02). There was significant variation
+  in information-seeking experiences across language groups (p’s&lt;0.001).Conclusions
+  Easy-to-understand and accessible COVID-19 information is needed to meet the needs
+  of people in culturally and linguistically diverse communities. This approach should
+  involve working alongside these communities to tailor messages and leverage existing
+  communication channels.Competing Interest StatementThe authors have declared no
+  competing interest.Funding StatementNo specific project funding; academic authors
+  supported by National Health and Medical Research Council, Heart Foundation, and
+  Western Sydney Local Health District.Author DeclarationsI confirm all relevant ethical
+  guidelines have been followed, and any necessary IRB and/or ethics committee approvals
+  have been obtained.YesThe details of the IRB/oversight body that provided approval
+  or exemption for the research described are given below:Western Sydney Local Health
+  District Human Research Ethics Committee (Project number 2020/ETH3085) gave ethical
+  approval for this workI confirm that all necessary patient/participant consent has
+  been obtained and the appropriate institutional forms have been archived, and that
+  any patient/participant/sample identifiers included were not known to anyone (e.g.,
+  hospital staff, patients or participants themselves) outside the research group
+  so cannot be used to identify individuals.YesI understand that all clinical trials
+  and any other prospective interventional studies must be registered with an ICMJE-approved
+  registry, such as ClinicalTrials.gov. I confirm that any such study reported in
+  the manuscript has been registered and the trial registration ID is provided (note:
+  if posting a prospective study registered retrospectively, please provide a statement
+  in the trial ID field explaining why the study was not registered in advance).YesI
+  have followed all appropriate research reporting guidelines and uploaded the relevant
+  EQUATOR Network research reporting checklist(s) and other pertinent material as
+  supplementary files, if applicable.YesData available upon reasonable request to
+  the authors'
+links:
+- name: URL
+  url: https://www.medrxiv.org/content/early/2021/10/25/2021.10.24.21265451
+---

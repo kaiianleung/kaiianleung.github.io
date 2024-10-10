@@ -1,0 +1,29 @@
+---
+title: 'Autism from a religious perspective: a study of parental beliefs in South
+  Asian Muslim immigrant families.'
+authors:
+- Jegatheesan B
+- Miller PJ
+- Fowler SA
+date: '2010-01-01'
+publishDate: '2024-10-10T14:22:55.589373Z'
+publication_types:
+- article-journal
+publication: '*Focus on Autism & Other Developmental Disabilities*'
+doi: 10.1177/1088357610361344
+abstract: Three multilingual immigrant South Asian Muslim families who have children
+  with autism were interviewed to ascertain their beliefs about autism. Data were
+  drawn from interviews and conversations recorded during 17 months of ethnographic
+  fieldwork in homes and community. Results indicate that families understood the
+  task of raising a child with autism in religious terms. In keeping with the precepts
+  of Islam, their overarching goal was to raise their children as normally as possible,
+  incorporating them into ordinary social, linguistic, and religious practices at
+  home and in the community. Parents strongly contested experts' understandings of
+  autism, which they believed undermined rather than promoted their children's development.
+  Findings have implications for multicultural teacher education and enhancing home,
+  community, and school collaboration.
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=105201105&site=ehost-live
+---

@@ -1,0 +1,32 @@
+---
+title: Bilingualism and Attention in Typically Developing Children and Children With
+  Developmental Language Disorder.
+authors:
+- Jisook Park
+- Carol A Miller
+- Teenu Sanjeevan
+- Janet G van Hell
+- Daniel J Weiss
+- Elina Mainela-Arnold
+date: '2019-01-01'
+publishDate: '2024-10-10T14:22:57.755990Z'
+publication_types:
+- article-journal
+publication: '*Journal of speech, language, and hearing research : JSLHR*'
+doi: 10.1044/2019_JSLHR-L-18-0341
+abstract: Purpose The aim of the current study was to investigate whether dual language
+  experience modulates the efficiency of the 3 attentional networks (alerting, orienting,
+  and executive control) in typically developing (TD) children and in children with
+  developmental language disorder (DLD). Method We examined the attentional networks
+  in monolingual and bilingual school-aged children (ages 8-12 years) with and without
+  DLD. TD children (35 monolinguals, 23 bilinguals) and children with DLD (17 monolinguals,
+  9 bilinguals) completed the Attention Network Test (Fan et al., 2002; Fan, McCandliss,
+  Fossella, Flombaum, & Posner, 2005). Results Children with DLD exhibited poorer
+  executive control than TD children, but executive control was not modified by bilingual
+  experience. The bilingual group with DLD and both TD groups exhibited an orienting
+  effect, but the monolingual group with DLD did not. No group differences were found
+  for alerting. Conclusions Children with DLD have weak executive control skills.
+  These skills are minimally influenced by dual language experience, at least in this
+  age range. A potential bilingual advantage in orienting may be present in the DLD
+  group.
+---

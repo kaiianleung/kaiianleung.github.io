@@ -1,0 +1,36 @@
+---
+title: The bilingual home language boost through the lens of the COVID-19 pandemic
+authors:
+- Li Sheng
+- Danyang Wang
+- Caila Walsh
+- Leah Heisler
+- Xin Li
+- Pumpki Lei Su
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:54.331388Z'
+publication_types:
+- article-journal
+doi: 10.31219/osf.io/zcv3m
+abstract: Usage-based accounts of language acquisition suggest that bilingual language
+  proficiency is dynamic and susceptible to changes in language use. The COVID-19
+  pandemic led to unprecedented modifications in the language learning environment
+  of developing bilinguals. Drawing on this unique opportunity, we analyzed existing
+  data of two matched groups of Mandarin-English bilingual children (ages 4 to 8 years,
+  n = 38), one tested before (pre-COVID group) and the other during (COVID group)
+  the pandemic. The dataset comprises responses to a language environment questionnaire,
+  and scores on a sentence comprehension task and a sentence recall task in the bilinguals’
+  two languages. Questionnaire data revealed a richer Mandarin language environment
+  for children in the COVID group compared to peers in the pre-COVID group. On both
+  comprehension and production tasks, the two groups performed comparably in English
+  but the COVID group showed better performance in Mandarin than the pre-COVID group.
+  Within the pre-COVID group, English was stronger than Mandarin in both comprehension
+  and production. Within the COVID group, the two languages were balanced in comprehension
+  and Mandarin was stronger than English in production. Moreover, language use variables
+  were correlated with production performance in both languages. These patterns illustrate
+  the intimate relationships between language use and bilingual language proficiency
+  through the lens of COVID-19 induced language environment modification.
+links:
+- name: URL
+  url: https://osf.io/zcv3m/
+---

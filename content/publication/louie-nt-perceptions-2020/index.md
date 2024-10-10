@@ -1,0 +1,35 @@
+---
+title: Perceptions and Barriers to SNAP Utilization Among Asian and Pacific Islanders
+  in Greater Los Angeles
+authors:
+- Louie N.T.
+- Kim L.P.
+- Chan S.E.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:47.906856Z'
+publication_types:
+- article-journal
+publication: '*American journal of health promotion : AJHP*'
+doi: 10.1177/0890117120925746
+abstract: 'PURPOSE: To examine the perceptions of and barriers to Supplemental Nutrition
+  Assistance Program (SNAP) participation among Asian and Pacific Islander (API) immigrants.
+  DESIGN: Qualitative focus groups were conducted in 4 API communities. SETTING AND
+  PARTICIPANTS: Participants were recruited from 4 API communities (n = 68; 22 Tongan,
+  18 Vietnamese, 16 Filipino, and 12 Chinese) through local community-based organizations
+  in Los Angeles and Orange Counties. METHOD(S): Trained bilingual and bicultural
+  researchers conducted 8 focus groups in English, Chinese, and Vietnamese. Prior
+  to the start of each focus group, participants completed a demographic questionnaire
+  which included a United States Department of Agriculture (USDA) Food Security Module.
+  ANALYSIS: Audio recordings were transcribed verbatim and those in the native languages
+  were transcribed verbatim. Transcripts in native languages were reviewed and translated
+  into English. All transcripts were organized in ATLAS ti version 8.0 and analyzed
+  using thematic analysis. The USDA Food Security Module results were scored and assessed
+  for food insecurity. RESULT(S): Median age of participants was 58 years and 59.4%
+  (n = 38) were food insecure. Barriers to SNAP participation were identified and
+  organized within the Social Ecological Model by the following themes: (1) unclear
+  program information, (2) application process, (3) shame, and (4) pride. Despite
+  commonalities found across API subgroups, unique challenges with public charge and
+  immigration existed within the subgroups. CONCLUSION(S): Culturally relevant in-language
+  SNAP materials and multilevel interventions are needed to mitigate barriers and
+  increase SNAP participation rates among low-income API groups.'
+---

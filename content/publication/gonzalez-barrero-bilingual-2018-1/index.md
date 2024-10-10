@@ -1,0 +1,39 @@
+---
+title: 'Bilingual children with autism spectrum disorders: The impact of amount of
+  language exposure on vocabulary and morphological skills at school age.'
+authors:
+- Ana Maria Gonzalez-Barrero
+- Aparna Nadig
+date: '2018-01-01'
+publishDate: '2024-10-10T14:22:57.828535Z'
+publication_types:
+- article-journal
+publication: '*Autism research : official journal of the International Society for
+  Autism Research*'
+doi: 10.1002/aur.2023
+abstract: 'Studies of bilingual children with Autism Spectrum Disorders (ASD) have
+  focused on early language development using parent report measures. However, the
+  effect of bilingual exposure on more complex linguistic abilities is unknown. In
+  the current study, we examined the impact of amount of language exposure on vocabulary
+  and morphological skills in school-aged children with ASD who did not have intellectual
+  disability. Forty-seven typically developing children and 30 children with ASD with
+  varying exposure to French participated in the study. We investigated the impact
+  of amount of language exposure, nonverbal IQ, age, and working memory on language
+  abilities via regression analyses. Current amount of language exposure was the strongest
+  predictor of both vocabulary skills (accounting for 62% of the variance) and morphological
+  skills (accounting for 49% of the variance), for both typically-developing children
+  and children with ASD. These findings highlight the central role amount of language
+  exposure plays in vocabulary and morphological development for children with ASD,
+  as it does for typically-developing children. In addition, they provide further
+  evidence that, when provided with adequate language exposure, many children with
+  ASD are capable of acquiring two languages. Autism Research 2018, 11: 1667-1678.
+  © 2018 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY:
+  We studied typically developing children and children with ASD living in a bilingual
+  society who had varying exposure to French (ranging from bilinguals to monolinguals).
+  We investigated the impact of amount of language exposure, nonverbal IQ, age, and
+  working memory on their vocabulary and morphological skills. Current amount of language
+  exposure was the strongest predictor of language skills in both groups of children.
+  Findings indicate that when provided with adequate language exposure, many children
+  with ASD are capable of acquiring two languages. Copyright © 2018 International
+  Society for Autism Research, Wiley Periodicals, Inc.'
+---

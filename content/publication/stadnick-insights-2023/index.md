@@ -1,0 +1,42 @@
+---
+title: 'Insights from Immigrant and Refugee Communities Regarding COVID-19 Needs and
+  Opportunities: A Mixed Methods Study.'
+authors:
+- Nicole A Stadnick
+- Kelli Cain
+- William Oswald
+- Paul Watson
+- Jesse Nodora
+- Shelia Broyles
+- Angel Lomeli
+- Arleth Escoto
+- Marina Ibarra
+- Raphael Lagoc
+- Borsika Rabin
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:50.159240Z'
+publication_types:
+- article-journal
+publication: '*AJPM focus*'
+doi: 10.1016/j.focus.2023.100099
+abstract: "Introduction: This mixed methods study describes processes to actively
+  engage underserved, immigrant, and refugee communities in COVID-19 vaccine efforts
+  to co-create culturally relevant resources and dissemination., Methods: A survey
+  on health care characteristics and COVID-19 attitudes was deployed between March-November
+  2021 followed by listening sessions conducted in December 2021. All participants
+  were recruited through the project's Community Advisory Board. The survey, completed
+  by 77 adults, was available in English, Spanish, Burmese, Kizigua, and Karen. Listening
+  sessions were led by trained, multilingual, and multicultural interviewers., Results:
+  Doctors/healthcare providers were rated as the most trusted messengers of COVID-19
+  information, however, trusted sources varied across communities. Data from three
+  listening sessions (with a total of 14 participants) expanded survey findings with
+  a focus on trusted sources of COVID-19 communication., Conclusions: This study confirmed
+  the importance of healthcare professionals as trusted messengers for COVID-19 information
+  among underserved communities. Qualitative data highlighted the importance of schools,
+  ethnically-based community organizations, and friends/family with health and English
+  literacy skills for immigrant and refugee communities. Findings suggest opportunities
+  for collaboration with specific trusted sources for future public health dissemination
+  efforts., Trial registration: not applicable. Copyright © 2023 The Author(s). Published
+  by Elsevier Inc. on behalf of The American Journal of Preventive Medicine Board
+  of Governors."
+---

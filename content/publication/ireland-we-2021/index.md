@@ -1,0 +1,40 @@
+---
+title: '\"We are sacred\": An intercultural and multilingual approach to understanding
+  reproductive health literacy for Yolnu girls and women in remote Northern Australia.'
+authors:
+- Sarah Ireland
+- Elaine L Maypilama
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:50.265993Z'
+publication_types:
+- article-journal
+publication: '*Health promotion journal of Australia : official journal of Australian
+  Association of Health Promotion Professionals*'
+doi: 10.1002/hpja.439
+abstract: "ISSUE ADDRESSED: Indigenous women continue to experience reproductive health
+  inequities. While enhancing health literacy is suggested as an approach for reducing
+  disparities and increasing equity, there is a paucity of literature exploring Indigenous
+  women's conceptualisation of reproductive health literacy. This paper demonstrates
+  one approach to developing a reproductive health literacy framework for Yolnu (Indigenous)
+  women in a remote Northern Australian setting., METHODS: Using a decolonising participatory
+  action research approach, a senior Yolnu researcher led interviews, group story
+  sharing sessions, historic site visits and on-country cultural demonstration sessions
+  with participants on reproductive health topics. Data were collected in the participants'
+  first language(s) and occasionally in English. Data were digitally recorded on camera,
+  Dictaphone, video and in handwritten notes. The senior Yolnu researcher worked with
+  a Yolnu interpreter to translate the data into English. Data underwent a progressive
+  verbal relational content analysis to map and build a framework., RESULTS: A reproductive
+  health literacy framework that privileges Yolnu reproductive knowledge, practices
+  and language was successfully co-designed. The framework was embedded in the metaphor
+  of Pandanus mat and uses key cultural domains of Yolnu identity as a connecting
+  foundation to women's reproductive knowledges and ceremonial milestones., CONCLUSIONS:
+  The framework offers a culturally responsive and multilingual approach to sensitively
+  discuss and operationalise reproductive health literacy. The framework empowers
+  Yolnu cultural identities; accounts for both Yolnu and Western medical knowledges;
+  and honours participants' requests for \\\"Two-Way\\\" learning. SO WHAT?: This
+  research demonstrates an innovative approach to co-designing a culturally responsive
+  framework for reproductive health literacy in a complex and multilingual context.
+  Such approaches offer a promising way forward for empowering Indigenous women to
+  define reproductive health literacy and contribute to improving their reproductive
+  health outcomes. Copyright © 2021 Australian Health Promotion Association."
+---

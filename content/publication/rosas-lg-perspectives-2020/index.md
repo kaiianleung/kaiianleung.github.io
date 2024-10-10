@@ -1,0 +1,50 @@
+---
+title: Perspectives on precision health among racial/ethnic minority communities and
+  the physicians that serve them
+authors:
+- Rosas L.G.
+- Nasrallah C.
+- Park V.T.
+- Vasquez J.J.
+- Duron Y.
+- Garrick O.
+- Hattin R.
+- Cho M.
+- David S.P.
+- Evans J.
+- McClinton-Brown R.
+- Martin C.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:46.315673Z'
+publication_types:
+- article-journal
+publication: '*Ethnicity and Disease*'
+doi: 10.18865/ed.30.S1.137
+abstract: "Background: In order for precision health to address health disparities,
+  engagement of diverse racial/ethnic minority communities and the physicians that
+  serve them is critical. Method(s): A community-based participatory research approach
+  with mixed methods was employed to gain a deeper understanding of precision health
+  research and practice among American Indian, African American, Latino, Chinese,
+  and Vietnamese groups and physicians that serve these communities. A survey assessed
+  demographics and opinions of precision health, genetic testing, and precision health
+  research. Focus groups (n=12) with each racial/ethnic minority group and physicians
+  further explored attitudes about these topics. Result(s): One hundred community
+  members (American Indian [n=17], African American [n=13], Chinese [n=17], Latino
+  [n=27], and Vietnamese [n=26]) and 14 physicians completed the survey and participated
+  in the focus groups. Familiarity with precision health was low among community members
+  and high among physicians. Most groups were enthusiastic about the approach, especially
+  if it considered influences on health in addition to genes (eg, environmental, behavioral,
+  social factors). Significant concerns were expressed by African American and American
+  Indian participants about precision health practice and research based on past abuses
+  in biomedical research. In addition, physician and community members shared concerns
+  such as security and confidentiality of genetic information, cost and affordability
+  of genetic tests and precision medicine, discrimination and disparities, distrust
+  of medical and research and pharmaceutical institutions, language barriers, and
+  physician's specialty. Conclusion(s): Engagement of racial/ethnic minority communities
+  and the providers who serve them is important for advancing a precision health approach
+  to addressing health disparities.Copyright © 2020 Ethnicity and Disease, Inc.. All
+  rights reserved."
+links:
+- name: URL
+  url: https://www.ethndis.org/edonline/index.php/ethndis/article/view/1221
+---

@@ -1,0 +1,44 @@
+---
+title: 'Addressing heavy alcohol use among latino immigrantmen: Perspectives on the
+  feasibility and need for screeningand brief intervention'
+authors:
+- Ornelas I.J.
+- Allen C.
+- Vaughan C.
+- Williams E.
+- Negi N.
+date: '2013-01-01'
+publishDate: '2024-10-10T14:22:49.128600Z'
+publication_types:
+- article-journal
+publication: '*Alcoholism: Clinical and Experimental Research*'
+doi: 10.1111/acer.12162
+abstract: 'Purpose: Research suggests that Latino immigrant men face many difficulties
+  in adapting to life in the United States with previous studies suggesting that heavy
+  alcohol use is one coping mechanism in response. The aim of this study was to understand
+  alcohol use and service needs among Latino immigrant men as a basis for development
+  of an intervention to reduce heavy alcohol use in this population. Method(s): Latino
+  immigrant men (N = 27) who were current drinkers and mental health and substance
+  use providers (N = 13) were recruited to participate in focus groups and semi-structured
+  1:1 interviews. Data were collected in Spanish and English by trained bilingual
+  research staff and recorded. Recordings were transcribed, then transcripts were
+  coded and analyzed in Atlas.ti. Each transcript was coded by twomembers of the research
+  staff. Case summaries and coded quotations were reviewed to identify themes. Result(s):
+  Patterns of alcohol use included frequent drinking which often occurred daily or
+  several times a week. Binge drinking was also common. Most men chose to drink at
+  home or in \"hidden\" public areas where they would not be seen by authorities.
+  Men were more likely to drink when feeling lonely, social isolated, and guilty about
+  being away from their families. Men reported that drinking helped them feel stronger,
+  and more confident, friendly and conversational. Some men reported wanting to decrease
+  their drinking, but did not have support in their social networks and primarily
+  coped with problems alone. Both providers and the men reported knowing about Alcoholics
+  Anonymous, but did not feel comfortable going to meetings even though they stated
+  a desire to seek treatment. Providers noted that there was a lack of substance use
+  prevention and treatment programs focused on Latino immigrant men. Providers and
+  male drinkers believed that screening and brief intervention offered in community
+  settings (such as day labor worker centers, and community-based organizations) would
+  be a culturally responsive and effective approach to reduce and prevent heavy drinking
+  among Latino immigrantmen. Conclusion(s): Unhealthy drinking and negative consequences
+  were common among this sample of Latino immigrantmen. As such, community based screening
+  and intervention may help reduce heavy alcohol use in this vulnerable population.'
+---

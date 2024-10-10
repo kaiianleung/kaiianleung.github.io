@@ -1,0 +1,41 @@
+---
+title: 'Sexual Health Interventions for Racial/Ethnic Minorities Using Community-Based
+  Participatory Research: A Systematic Review.'
+authors:
+- Caravella McCuistian
+- Bridgette Peteet
+- Kathy Burlew
+- Farrah Jacquez
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:50.565179Z'
+publication_types:
+- article-journal
+publication: '*Health Education & Behavior*'
+doi: 10.1177/10901981211008378
+abstract: 'Background: Racial/ethnic minorities (REMs) continue to carry the burden
+  of sexual health disparities in the United States, including increased health risks
+  and lower proportions of preventative care. Community-based participatory research
+  (CBPR) has been useful in developing interventions aimed at reducing these disparities.
+  Specifically, partnership with the target group members has resulted in more culturally
+  relevant intervention strategies. Aim: The purpose of this systematic review was
+  to analyze the existing research on sexual health interventions targeting U.S. REMs
+  that were developed using CBPR, to highlight the role target group members played
+  in the development of these interventions, and to explore the benefits and outcomes
+  of these partnerships. Method: Preferred Reporting Items for Systematic Review and
+  Meta-Analyses (PRISMA) guided the search of 46 thesauri terms for CBPR, sexual health,
+  and REMs across six databases. Results: The initial search yielded 805 identified
+  studies. After applying limiters, reviewing abstracts, and doing a full-text review,
+  24 appropriate studies were retained. The key findings indicated significant intervention
+  outcomes such as increased health knowledge, attitude change, and behavioral intention
+  that could reduce sexual risk-taking behaviors. Twelve studies detailed the methods
+  for partnering with target group members to formulate interventions, highlighting
+  the benefits related to recruitment, retention, and cultural relevance. Discussion:
+  CBPR is well-positioned to address sexual health disparities among REMs. While community
+  partnership strategies vary, the findings yield evidence that CBPR addressing sexual
+  health disparities is achievable, can influence the effectiveness of interventions,
+  and should be considered as an orientation in future sexual health research.'
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=161622819&site=ehost-live
+---

@@ -1,0 +1,44 @@
+---
+title: Reflecting on the tensions faced by a community-based multicultural health
+  navigator service
+authors:
+- Henderson S.
+- Kendall E.
+date: '2014-01-01'
+publishDate: '2024-10-10T14:22:49.008734Z'
+publication_types:
+- article-journal
+publication: '*Australian health review : a publication of the Australian Hospital
+  Association*'
+doi: 10.1071/AH13168
+abstract: 'The community navigator model was developed to assist four culturally and
+  linguistically diverse communities (Sudanese, Burmese, Pacific Islander Group, Afghani)
+  in south-east Queensland to negotiate the Australian health system and promote health.
+  Using participatory action research, we developed the model in partnership with
+  community leaders and members, the local health department and two non-governmental
+  organisations. Following implementation, we evaluated the model, with the results
+  published elsewhere. However, our evaluation revealed that although the model was
+  accepted by the communities and was associated with positive health outcomes, the
+  financial, social and organisational durability of the model was problematic. Ironically,
+  this situation was inadvertently created by critical decisions made during the development
+  process to enhance the durability and acceptability of the model. This paper explores
+  these critical decisions, our rationale for making those decisions and the four
+  hidden tensions that subsequently emerged. Using a reflective case study method
+  to guide our analysis, we provide possible resolutions to these tensions that may
+  promote the longevity and utility of similar models in the future. WHAT IS KNOWN
+  ABOUT THE TOPIC?: The use of community navigators to assist culturally diverse communities
+  to access health services is not new. Many benefits have been documented for communities,
+  individuals and heath service providers following the use of such models. What is
+  not well documented is how to maintain these models in a safe and cost-effective
+  way within the Australian health system while respecting cultural and community
+  practices and reducing the burden of service delivery on the navigators. WHAT DOES
+  THIS PAPER ADD?: This paper provides a perspective on how the development of community-based
+  service models inherently places them in a position of tension that must be resolved
+  if they are to be long lasting. Four core tensions experienced during the development
+  and implementation of our model in south-east Queensland are explored to develop
+  potential resolutions. WHAT ARE THE IMPLICATIONS FOR PRACTICE?: Reducing the tensions
+  inherent in culturally appropriate community-based service models will increase
+  the durability of the approach. By addressing these tensions, we can create a more
+  durable pool of community navigators that can facilitate community empowerment,
+  self-governance of health issues and a sense of community ownership of health services.'
+---

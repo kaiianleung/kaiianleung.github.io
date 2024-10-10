@@ -1,0 +1,63 @@
+---
+title: Statistical word learning in Catalan-Spanish and English-speaking children
+  with and without developmental language disorder.
+authors:
+- Nadia Ahufinger
+- Laura Ferinu
+- Monica Sanz-Torrent
+- Llorenc Andreu
+- Julia L Evans
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:57.652294Z'
+publication_types:
+- article-journal
+publication: '*International journal of language & communication disorders*'
+doi: 10.1111/1460-6984.12673
+abstract: "BACKGROUND: A growing body of work shows that children with developmental
+  language disorder (DLD) perform poorly on statistical word learning (SWL) tasks,
+  consistent with the predictions of the Procedural Deficit Hypothesis that predicts
+  that procedural memory is impaired in DLD. To date, however, SWL performance has
+  not been compared across linguistically heterogeneous populations of children with
+  DLD., AIMS: To compare SWL performance in a group of age, sex and non-verbal IQ-matched
+  Catalan-Spanish and English-speaking children with and without DLD., METHODS & PROCEDURES:
+  Two cohorts of children: (1) 35 Catalan-Spanish-speaking children with DLD (Mage
+  = 8;7 years) and 35 age/sex-matched typical developing (TD) children (Mage = 8;9
+  years), and (2) 24 English-speaking children with DLD (Mage = 9;1 years) and 19
+  age/sex matched TD controls (Mage = 8;9 years) completed the tone version of a SWL
+  task from Evans et al. (2009). Children listened to a tone language in which transitional
+  probabilities within tone words were higher than those between words., OUTCOMES
+  & RESULTS: For both Catalan-Spanish and English cohorts, overall performance for
+  the children with DLD was poorer than that of the TD controls regardless of the
+  child's native language. Item analysis revealed that children with DLD had difficulty
+  tracking statistical information and using transitional probability to discover
+  tone word boundaries within the input. For both the Catalan-Spanish and English-speaking
+  children, SWL accounted for a significant amount of unique variance in Receptive
+  and Expressive vocabulary. Likelihood ratio analysis revealed that for both Catalan-Spanish
+  and English cohorts, children having performance textless= 45% on the SWL task had
+  an extremely high degree of likelihood of having DLD. The analysis also revealed
+  that for the Catalan-Spanish and English-speaking children, scores of textgreater=
+  75% and textgreater= 70%, respectively, were highly likelihood to be children with
+  normal language abilities., CONCLUSIONS & IMPLICATIONS: The findings add to a pattern
+  suggesting that SWL is a mechanism that children rely on to acquire vocabulary.
+  The results also suggest that SWL deficits, in particular when combined with other
+  measures, may be a reliable diagnostic indicator for children with DLD regardless
+  of the child's native language, and whether or not the child is bilingual or monolingual.,
+  WHAT THIS PAPER ADDS: What is already known on the subject Although there is some
+  disagreement, a small but growing body of work suggests that deficits in procedural
+  memory, as measured either by motor sequencing (Serial Reaction Time-SRT) or SWL
+  tasks, may be part of the deficit profile of children with DLD. To date, studies
+  have not examined SWL across linguistically heterogeneous populations of children
+  with DLD to determine if it is a unique clinical marker of the disorder. What this
+  paper adds to existing knowledge The results show that children with DLD, regardless
+  of their native language, or whether the child is bi- or monolingual, have difficulties
+  on SWL tasks, and that these deficits are linked to severity of the language disorder.
+  Taken together, these results indicate that procedural memory deficits may be a
+  core feature of DLD. This suggests that statistical-learning tasks using tone stimuli
+  can also advance our understanding of statistical-learning abilities in children
+  with DLD more globally. What are the potential or actual clinical implications of
+  this work? The current study shows that statistical-learning tasks using tone stimuli
+  can be used in conjunction with standardized assessment measures to differentiate
+  children with DLD from children with typical language ability. Copyright © 2021
+  The Authors. International Journal of Language & Communication Disorders published
+  by John Wiley & Sons Ltd on behalf of Royal College of Speech and Language Therapists."
+---

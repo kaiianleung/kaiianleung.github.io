@@ -1,0 +1,41 @@
+---
+title: 'Real time comprehension of Spanish articles in children with developmental
+  language disorder: Empirical evidence from eye movements.'
+authors:
+- Spyros Christou
+- Ernesto Guerra
+- Carmen Julia Coloma
+- Llorenc Andreu Barrachina
+- Claudia Araya
+- Javier Rodriguez-Ferreiro
+- Maria Jose Buj Pereda
+- Monica Sanz-Torrent
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:57.713189Z'
+publication_types:
+- article-journal
+publication: '*Journal of communication disorders*'
+doi: 10.1016/j.jcomdis.2020.106027
+abstract: "Function words and, more specifically, articles have been widely indicated
+  as one of the main sources of difficulty for children with Developmental Language
+  Disorder (DLD). The present study is the first to assess the online comprehension
+  of Spanish articles in bilingual children with DLD. In an eye tracking experiment,
+  we monitored participants' eye movements as they listened to Spanish articles embedded
+  in structurally simple sentences. Ninety-six subjects from four different groups
+  were evaluated: 24 children with DLD (average age 7;08), 24 children with the same
+  chronological age (average age 7;08), 24 younger children matched for mean length
+  utterance (average age 6;08), and 24 adults (average age 22;05). We calculated the
+  proportion between the preference for the correct visual referent and a competitor
+  object. Our results suggest that children with DLD are capable of timely comprehension
+  of Spanish articles in real time and within simple sentence structures. However,
+  we observed a strong effect of chronological age in the sample of interest; younger
+  children with DLD are able to identify the correct referent, but this preference
+  is weaker compared to the older children with DLD. We also observed local differences
+  between the DLD group, and the other two children control groups, particularly when
+  the chronological age group is introduced as a factor. These findings suggest a
+  developmental trajectory that is different in the DLD group relative to children
+  with typical language development. Notwithstanding, in spite of the article production
+  difficulties previously reported, children with DLD in the present sample appear
+  to be able to comprehend Spanish articles in the current experimental conditions.
+  Copyright © 2020 Elsevier Inc. All rights reserved."
+---

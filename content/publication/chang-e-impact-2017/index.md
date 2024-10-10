@@ -1,0 +1,55 @@
+---
+title: Impact of a pilot community-based clinical pharmacist hypertension program
+  on patient activation among Chinese American seniors
+authors:
+- Chang E.
+- Ma S.B.
+- Tseng A.
+- Lu L.
+- Guo R.
+- Ong M.
+- Sarkisian C.
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:46.344152Z'
+publication_types:
+- article-journal
+publication: '*Journal of General Internal Medicine*'
+abstract: "BACKGROUND: Older Chinese Americans have a disproportionately higher rate
+  of undertreated hypertension (HTN) compared to non-Latino Whites, and Asian Americans
+  report weaker patient-provider engagement than desired. As patient activation can
+  be a powerful driver of improved HTN control, we assessed the efficacy of a culturally
+  tailored clinical pharmacist intervention on patient activation among immigrant
+  Chinese American seniors with uncontrolled HTN. METHOD(S): We conducted a pre-post,
+  prospective intervention with repeated measures in Los Angeles County. We screened
+  and recruited patients from 8 community health centers and private practice clinics
+  between 2015-2016. Eligible patients (age 60+, medically insured, past year visit
+  at study clinic, at least 2 of 3 systolic blood pressure [BP] readings above JNC-8
+  goal in past year) were invited to a study information session through mailings
+  and telephone calls in either Mandarin or Cantonese. Enrolled participants had 3
+  visits within 3 months with bilingual study pharmacists, who were trained to elicit
+  HTN explanatory models when providing HTN education and use motivational interviewing
+  (MI) and shared decision-making (SDM) when counseling patients on lifestyle changes
+  and BP medications. Study participants' physicians received a brief summary of each
+  visit and signed pharmacist recommendations for medications or lab orders if in
+  agreement. Participants completed baseline and final surveys before their first
+  and after their last pharmacist visit, including demographic information and the
+  Patient Activation Measure (PAM). We also conducted chart reviews to obtain clinical
+  information. We estimated a sample size of 50 patients would detect a clinically
+  significant 3 to 5-point difference in our primary outcome, PAM scores, with 80%
+  power. We tested for statistical significance (alpha = 0.05) using the Wilcoxon
+  signed rank test. RESULT(S): We screened 415 potential participants to enroll 50
+  immigrant Chinese American seniors who received the intervention. The average age
+  was 71 years, and 23 (47%) were female. Participants had resided in the U.S. for
+  an average of 30 years, but only 10 (20%) were comfortable speaking English. Median
+  baseline level of trust in pharmacists was \\\"somewhat\\\" to \\\"strongly trust\\\
+  \". The mean baseline PAM score was 58.8 signifying \\\"beginning to take action,\\\
+  \" with a mean change of -2.04 +/- 13.9 (p = 0.48) at follow-up. CONCLUSION(S):
+  While clinical pharmacist HTN interventions have shown success in some settings,
+  our intervention utilizing MI and SDMstrategies was not associated with increases
+  in PAM scores for immigrant Chinese American seniors with uncontrolled HTN. Despite
+  strong project involvement of community partners in these predominantly Asian neighborhoods,
+  eligible seniors frequently declined to enroll. We will continue to work closely
+  with our community partners to identify other team-based care approaches which may
+  be more appealing and successful at increasing patient activation for HTN control
+  in this population."
+---

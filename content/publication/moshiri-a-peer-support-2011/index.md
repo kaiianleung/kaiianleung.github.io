@@ -1,0 +1,40 @@
+---
+title: Peer-support in the management of diabetes in the urban American Indian population
+  of Seattle, Washington
+authors:
+- Moshiri A.
+date: '2011-01-01'
+publishDate: '2024-10-10T14:22:49.491694Z'
+publication_types:
+- article-journal
+publication: '*Journal of Investigative Medicine*'
+abstract: 'Purpose of Study: The prevalence of diabetes mellitus amongst American
+  Indian/Alaska Native (AI/AN) adults is estimated to be 16.5%, the highest of any
+  ethnic group worldwide. The Seattle Indian Health Board (SIHB) is one of 34 urban
+  affiliates of the Indian Health Service (IHS) serving 7203 patients, 18.1% of whom
+  are diabetic. The purpose of this project was to improve the quality of care for
+  the diabetic patient population served by the SIHB by addressing the need for low
+  cost and culturally relevant diabetes education and management. Methods Used: Consultation
+  with the SIHB agencies helped in recognizing the diabetic population as an appropriate
+  target for a community-based intervention. Discussions with providers, patients,
+  and community elders were critical in revealing areas of universal misunderstanding
+  about diabetes. Research was conducted to produce a comprehensive list of accurate,
+  relevant, and cost-free resources for diabetes information and support. An informational
+  handout addressing diabetes myths common to the AI/AN community were generated for
+  SIHB patients. A survey was developed in order to quantify interest of diabetic
+  patients in becoming peer-support educators. Groundwork was laid to establish a
+  longitudinal program for peersupport and diabetes counseling. Summary of Results:
+  A round-table discussion including 13 diabetic patients, three members of the diabetes
+  team, and one physician was successfully facilitated. All feedback regarding the
+  session and the informational handout was positive. Providers, staff, and community
+  elders all agreed that peer-support and mentoring is a culturally appropriate and
+  effective method for low cost diabetes prevention. Collaboration between the SIHB
+  diabetes team and key AI/AN community members was established in order to move forward
+  with the development of a peer-support training program. Conclusion(s): Culturally
+  relevant methods are critical to the successful prevention and management of chronic
+  illness. Implementation of peer-support has been shown to be an effective method
+  of raising awareness and compliance in various ethnic communities, both rural and
+  urban. Although it is a relatively new approach in the treatment of diabetes, peer-education
+  promises to be a useful tool in the promotion of education and trust in the AI/AN
+  diabetic population.'
+---

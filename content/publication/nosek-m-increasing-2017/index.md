@@ -1,0 +1,28 @@
+---
+title: Increasing Empathy and Conflict Resolution Skills through Nonviolent Communication
+  (NVC) Training in Latino Adults and Youth
+authors:
+- Nosek M.
+- Duran M.
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:48.430875Z'
+publication_types:
+- article-journal
+publication: '*Progress in community health partnerships : research, education, and
+  action*'
+doi: 10.1353/cpr.2017.0032
+abstract: "BACKGROUND: Children of Latino immigrants often are torn between their
+  native homes and new communities. Having supportive interpersonal relationships
+  increases resilience to delinquent and violent behaviors stemming from immigration
+  challenges. Communication fostering empathy may improve conflict resolution and
+  supportive relationships. OBJECTIVE(S): Community-based participatory research (CBPR)
+  was conducted to evaluate the impact of nonviolent communication (NVC) trainings
+  in Latino adults and youth. METHOD(S): Four sessions in NVC were provided by bilingual
+  Latino trainers for Latino adults and youth. Pre- and post-training focus groups
+  evaluated effectiveness of training. RESULT(S): Three themes emerged from adult
+  post training focus groups-enter the others' shoes, making a change, and learning
+  in community. The youth reflected on new ways to manage conflict and understand
+  emotions. LESSONS LEARNED: Research team embedded in community increased success.
+  However, inconsistent participant attendance precluded quantitative analyses. CONCLUSION(S):
+  Seeds were planted in this Latino community for future potential projects."
+---

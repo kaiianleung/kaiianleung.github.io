@@ -1,0 +1,54 @@
+---
+title: IMPLEMENTATION OF MOBILE HEALTH UNITS TO DELIVER PREVENTIVE COVID-19 CARE TO
+  MEDICALLY UNDERSERVED COMMUNITIES
+authors:
+- Gupta P.S.
+- Mohareb A.M.
+- Kruse G.R.
+- LaRocque R.C.
+- Taveras E.
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:47.612896Z'
+publication_types:
+- article-journal
+publication: '*Journal of General Internal Medicine*'
+doi: 10.1007/s11606-022-07653-8
+abstract: 'STATEMENT OF PROBLEM/QUESTION: Even though they face a higher risk of COVID-19-related
+  morbidity and mortality, racial and ethnic minorities in the Greater Boston area
+  have had less access to COVID-19 testing and vaccinations. DESCRIPTION OF PROGRAM/INTERVENTION:
+  We implemented a novel, community-based mobile health unit program by repurposing
+  transportation vans with COVID-19 testing equipment, preventive hygiene kits, and
+  mRNA vaccines. Our goal was to expand testing and vaccine availability in highly
+  affected communities in the Greater Boston area. We used a \"double equity\" model
+  by hiring workers from a local transportation company whose staff were at risk of
+  unemployment. The vans were staffed with racially/ ethnically diverse and multilingual
+  staff, including members of the target communities themselves. We incorporated a
+  system of \"trusted messengers\" to answer questions about COVID-19 and in particular,
+  vaccination from the community. We implemented this program with crucial input from
+  community-based organizations and municipal public health departments. Van location
+  sites were guided by community partners, in some cases incorporating SARS-CoV-2
+  wastewater surveillance data to meet rapidly changing community needs. MEASURES
+  OF SUCCESS: Our goals were to (1) demonstrate the feasibility of a COVID-19 testing
+  program guided by community partnerships and SARS-CoV-2 wastewater surveillance
+  data; (2) improve access to COVID-19 testing in underserved communities; and (3)
+  improve access to COVID-19 vaccination among racial/ethnic minorities. We collected
+  ongoing feedback (e.g. through the local community advisory groups etc) on the mobile
+  health program from community partners, patients, and staff. We compared sociodemographic
+  characteristics of mobile health participants with the general population of the
+  state of Massachusetts and the population of the target communities. FINDINGS TO
+  DATE: From January 2021 - January 2022, our mobile health units have tested greater
+  than 4500 persons in predominantly low socioeconomic communities that have been
+  highly impacted by the pandemic. From May 2021 - January 2022, we vaccinated 5480
+  persons in these communities. An analysis of our program from January 2021 - January
+  2022 demonstrated that mobile health unit participants receiving COVID-19 vaccines
+  were significantly more likely to be non-White and Hispanic compared with the general
+  vaccinated population of the state of Massachusetts and of the target communities,
+  and these findings were statistically significant. We also found that the mobile
+  health units vaccinated more youth and adolescents in the target community compared
+  with the general state vaccination data. KEY LESSONS FOR DISSEMINATION: Delivery
+  of preventive COVID19 care via mobile health units is feasible and associated with
+  high usage from affected communities when implemented with high stakeholder engagement
+  and expertise from local public health departments. Employing diverse, multilingual,
+  and well-trained healthcare staff as trusted messengers likely improved COVID-19
+  vaccine uptake in this population.'
+---

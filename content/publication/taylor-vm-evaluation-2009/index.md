@@ -1,0 +1,41 @@
+---
+title: Evaluation of a hepatitis B educational ESL curriculum for Chinese immigrants
+authors:
+- Taylor V.M.
+- The C.
+- Lam W.
+- Acorda E.
+- Li L.
+- Coronado G.
+- Yasui Y.
+- Bajdik C.
+- Hislop G.
+date: '2009-01-01'
+publishDate: '2024-10-10T14:22:49.620599Z'
+publication_types:
+- article-journal
+publication: '*Canadian Journal of Public Health*'
+abstract: 'Objectives: According to recent census data, 1,216,600 Canadians are of
+  Chinese descent, and over 80% of Chinese Canadians are foreign born. Approximately
+  10% of Chinese immigrants are chronic carriers of hepatitis B, compared with less
+  than 0.5% of the general population. English as a second language (ESL) classes
+  provide ready access for individuals with limited English proficiency who are not
+  reached by English language health education materials and media campaigns. We conducted
+  a group-randomized trial to evaluate the effectiveness of a hepatitis B ESL educational
+  curriculum for Chinese immigrants. Method(s): Five community-based organizations
+  that provide ESL education in the greater Vancouver area participated in the study.
+  Forty-one ESL classes (which included 325 Chinese students) were randomly assigned
+  to experimental or control status. A follow-up survey, conducted six months after
+  randomization, assessed knowledge about hepatitis B. Generalized estimating equations
+  were used to analyze the data. Result(s): Follow-up surveys were completed by 298
+  (92%) of the students. At follow-up, experimental group students were significantly
+  (ptextless0.05) more likely than control group students to know that immigrants
+  have higher hepatitis B infection rates than people who were born in Canada; hepatitis
+  B can be spread during childbirth, during sexual intercourse and by sharing razors;
+  hepatitis B is not spread by sharing eating utensils; and hepatitis B infection
+  can cause cirrhosis and liver cancer. Conclusion(s): Our findings indicate that
+  ESL curricula can have a positive impact on health knowledge among Chinese immigrants
+  with limited English. Future research should evaluate the effectiveness of ESL curricula
+  for other immigrant groups, as well as other health topics. © Canadian Public Health
+  Association, 2009. All rights reserved.'
+---

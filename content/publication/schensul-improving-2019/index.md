@@ -1,0 +1,57 @@
+---
+title: 'Improving Oral Health in Older Adults and People With Disabilities: Protocol
+  for a Community-Based Clinical Trial (Good Oral Health).'
+authors:
+- Jean Schensul
+- Susan Reisine
+- James Grady
+- Jianghong Li
+date: '2019-01-01'
+publishDate: '2024-10-10T14:22:46.461770Z'
+publication_types:
+- article-journal
+publication: '*JMIR research protocols*'
+doi: 10.2196/14555
+abstract: "BACKGROUND: Low-income older adults experience disparities in oral health
+  problems, including caries and periodontal disease, that can exacerbate already
+  high levels of chronic and acute health problems. Behavioral interventions have
+  been shown to improve oral health status but are typically administered in institutional
+  rather than community settings. Furthermore, multiple simultaneous interventions
+  at different levels in the locations where people live and work are likely to have
+  more impact and sustainability than single interventions in clinical settings.,
+  OBJECTIVE: This paper outlines a protocol for conducting a bilingual 5-year community-based
+  trial of a bilevel intervention that addresses community norms, beliefs, intentions,
+  and practices to improve oral health hygiene of vulnerable older adults living in
+  publicly subsidized housing. The intervention utilizes (1) a face-to-face counseling
+  approach (adapted motivational interviewing [AMI]) and (2) resident-run oral health
+  campaigns in study buildings., METHODS: The study's modified fractional factorial
+  crossover design randomizes 6 matched buildings into 2 conditions: AMI followed
+  by campaign (AB) and campaign followed by AMI (BA). The total intervention cycle
+  is approximately 18 months in duration. The design compares the 2 interventions
+  alone (T0-T1), and in different sequences (T1-T2), using a self-reported survey
+  and clinical assessment to measure Plaque Score (PS) and Gingival Index (GI) as
+  outcomes. A final timepoint (T3), 6 months post T2, assesses sustainability of each
+  sequence. The intervention is based on the Fishbein integrated model that includes
+  both individual and contextual modifiers, norms and social influence, beliefs, attitudes,
+  efficacy, and intention as predictors of improvements in PS, GI, and oral health
+  quality of life. The cognitive and behavioral domains in the intervention constitute
+  the mechanisms through which the intervention should have a positive effect. They
+  are tailored through the AMI and targeted to building populations through the peer-facilitated
+  oral health campaigns. The sample size is 360, 180 in each condition, with an attrition
+  rate of 25%. The study is funded by National Institute of Dental and Craniofacial
+  Research (NIDCR) and has been reviewed by University of Connecticut and NIDCR institutional
+  review boards and NIDCR's clinical trials review procedures., RESULTS: When compared
+  against each other, the face-to-face intervention is expected to have greater positive
+  effects on clinical outcomes and oral health quality of life through the mediators.
+  When sequences are compared, the results may be similar but affected by different
+  mediators. The arm consisting of the BA is expected to have better sustainability.
+  The protocol's unique features include the comparative effectiveness crossover design;
+  the introduction of new emotion-based mediators; the balancing of fidelity, tailoring,
+  and targeting; and resident engagement in the intervention., CONCLUSIONS: If successful,
+  the evaluated interventions can be scaled up for implementation in other low-income
+  congregate living and recreational settings with older adult collectives., TRIAL
+  REGISTRATION: ClinicalTrials.gov NCT02419144; https://clinicaltrials.gov/ct2/show/NCT02419144.,
+  INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/14555. Copyright
+  ©Jean Schensul, Susan Reisine, James Grady, Jianghong Li. Originally published in
+  JMIR Research Protocols (http://www.researchprotocols.org), 18.12.2019."
+---

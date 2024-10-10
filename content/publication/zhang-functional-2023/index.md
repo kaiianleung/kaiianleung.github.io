@@ -1,0 +1,42 @@
+---
+title: Functional preference of the left inferior parietal lobule to second language
+  reading.
+authors:
+- Jia Zhang
+- Hehui Li
+- Manli Zhang
+- Zhengke Wang
+- Xiya Ao
+- Jie Jian
+- Na Wei
+- Haiyi Liu
+- Guosheng Ding
+- Xiangzhi Meng
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:54.534672Z'
+publication_types:
+- article-journal
+publication: '*NeuroImage*'
+doi: 10.1016/j.neuroimage.2023.119989
+abstract: Additional neural substance for reading in a second language has been reported
+  by prior studies. However, to date, there has been little investigation into whether
+  and how the brain's adaptation to a second language is induced by specific linguistic
+  tasks or is a general effect during reading in a new language. To address this issue,
+  our study investigated Chinese children learning English as a second language by
+  combining cross-sectional and longitudinal Functional Magnetic Resonance Imaging
+  (fMRI) studies. We compared brain activation across four reading tasks, orthographic
+  tasks and phonological tasks in Chinese (the first language, L1) and English (the
+  second language, L2). By comparing the activation pattern across languages, we observed
+  greater activation in the left inferior parietal lobule (LIPL) in English compared
+  to Chinese, suggesting a functional preference of the LIPL to L2. In addition, greater
+  correlation between LIPL-related FC and L2 was mainly observed in the phonological
+  task, indicating that LIPL could be associated with phonological processing. Moreover,
+  a proportion of the children were enrolled in an 8-week phonological-based reading-training
+  program. We observed significant functional plasticity of the LIPL elicited by this
+  training program only in the English phonological task and not in the orthographic
+  task, further substantiating that the additional requirements of the LIPL in L2
+  are mainly associated with phonological processing. The findings provide new insights
+  into understanding the functional contribution of the LIPL to reading in a second
+  language. Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights
+  reserved.
+---

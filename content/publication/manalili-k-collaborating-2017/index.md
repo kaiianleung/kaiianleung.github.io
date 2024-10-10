@@ -1,0 +1,46 @@
+---
+title: 'Collaborating with ethno-cultural communities for person-centred Outcome research:
+  Approaches to engagement'
+authors:
+- Manalili K.
+- Lantion V.
+- Siad F.
+- Santana M.J.
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:48.476793Z'
+publication_types:
+- article-journal
+publication: '*Quality of Life Research*'
+doi: 10.1007/s11136-017-1658-6
+abstract: "Aims: Person-Centred Care (PCC) seeks to incorporate patient voices to
+  inform research and healthcare policy and practice. However, effective engagement
+  of diverse and under-represented communities is often a challenge, due to various
+  barriers that hinder participation. Our research explored approaches to effectively
+  engage ethno-cultural communities in patient-centred outcome research (PCOR). Method(s):
+  Challenges in engaging ethno-cultural communities in healthcare and research include
+  potential language and cultural barriers, and lack of resources. We partnered with
+  the Ethno-Cultural Council of Calgary (ECCC), a community-based organization employing
+  a 'connector model,' to recruit key trusted individuals with extensive reach within
+  their communities who understand the barriers to healthcare access and engagement.
+  ECCC provides \\\"Community Connectors\\\" with specialized training to effectively
+  engage communities and liaise with service providers/ institutions. Drawing from
+  participatory action research methods, six Connectors with an interest in PCOR were
+  identified from Chinese, South Asian, Filipino, Latino-Hispanic, East-African, and
+  Syrian communities. Connectors received training in PCOR for this study over six
+  months. Result(s): In collaborating with Community Connectors, we were able to obtain
+  diverse perspectives needed for the study. Six focus groups with 46 participants
+  were conducted. Connectors employed various approaches to successfully engage each
+  community, including: recruiting participants through their own networks e.g. use
+  of social and ethnic media; conducting focus groups in different languages; and
+  use of community settings during evenings/weekends to ensure access, availability,
+  and comfort. Focus group participants and communities maintained active participation
+  in validating research findings and guiding the development of knowledge translation
+  products. Through this study, we ensured ongoing partnership with ECCC and together
+  built research capacity in PCOR among the Connectors, in the aim of continuing sustained
+  and meaningful engagement with diverse communities through our PCOR. Conclusion(s):
+  Partnering with a community-based organization and exploring novel approaches to
+  engaging ethno-cultural communities allowed us to obtain diverse perspectives needed
+  for our PCOR. Incorporating patient voices requires addressing issues related to
+  equity and understanding the barriers to effective and meaningful engagement that
+  is representative of society's diverse make-up."
+---

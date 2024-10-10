@@ -1,0 +1,44 @@
+---
+title: 'Co-developing multicultural recipe resources: an academic - third sector partnership
+  approach'
+authors:
+- Apekey T.
+- Maynard M.
+- Moore S.G.
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:47.437882Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the Nutrition Society*'
+doi: 10.1017/S0029665122002051
+abstract: The wealth of free resources available to UK consumers on healthy eating
+  and nutrition provides a very limited number which illustrate ethnic foods, including
+  those commonly consumed in traditional African and Caribbean cuisines. This makes
+  it difficult for health and nutrition professionals to support people from these
+  minority ethnic groups to improve their health and diet. The aim of this project
+  was to develop healthier versions of several traditional African Caribbean recipe
+  resources, by working collaboratively with the Third Sector in Leeds and service-users
+  from corresponding ethnic backgrounds. A new third-sector-academic collaborative
+  partnership was formed in 2021 and funded by LeedsACTS! before researchers used
+  software to theoretically analyse the nutritional composition of popular African
+  Caribbean recipes using food composition data which was generated previously(1).
+  Recipes were then prepared by the researchers alongside community service users
+  (n = 10) of African Caribbean ethnicity living in Leeds in the community service
+  setting. The feasibility and acceptability of the recipes was tested by obtaining
+  verbal qualitative feedback from service-users following which recipes were further
+  refined as appropriate. The study was approved by Leeds Beckett University Research
+  Ethics Committee. A total of 12 recipes were theoretically analysed and modified
+  to reduce the content of key nutrients of concern (i.e. energy, salt, saturated
+  fat and free sugars) or increase those nutrients known to be at risk of lower than
+  adequate intakes (i.e. iron, folate, fibre and calcium) within UK African Caribbean
+  ethnic communities. Qualitative feedback from service-user cooks (1st and 2nd generation
+  African Caribbean) found that recipes tasted and appeared acceptable (e.g. \"for
+  friends and family\"; \"it tastes the same as a standard recipe\"), and were feasible
+  to make. It is feasible to modify traditional recipes to be healthier and acceptable
+  to those who are familiar with traditional African Caribbean foods. The outputs
+  of the project, including healthier recipes, can now be shared with communities
+  in Leeds and made available for use by UK nutrition and health practitioners. Findings
+  warrant future research extension to include a formal evaluation of the health-related
+  impact of the resources, in combination with new multicultural food-based guidance,
+  on the target communities.
+---

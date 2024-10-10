@@ -1,0 +1,88 @@
+---
+title: 'COVID-19 testing and vaccine willingness: Cross-sectional survey in a culturally
+  diverse community in Sydney, Australia'
+authors:
+- Julie Ayre
+- Danielle M. Muscat
+- Olivia Mac
+- Carys Batcup
+- Erin Cvejic
+- Kristen Pickles
+- Hankiz Dolan
+- Carissa Bonner
+- Dana Mouwad
+- Dipti Zachariah
+- Una Turalic
+- Yyvonne Santalucia
+- Tingting Chen
+- Gordana Vasic
+- Kirsten McCaffery
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:47.040097Z'
+publication_types:
+- article-journal
+publication: '*medRxiv*'
+doi: 10.1101/2021.10.25.21265503
+abstract: 'Objective The current study examined patterns in COVID-19 testing and vaccination
+  intentions across multiple language groups in Greater Western Sydney, Australia.Methods
+  Participants completed a cross-sectional survey available from March 21 to July
+  9, 2021 in Sydney, Australia. Surveys were available in English or translated (11
+  languages). Participants could complete surveys independently or with support from
+  bilingual staff. Logistic regression models using post-stratification weighted frequencies
+  identified factors associated with testing and vaccination intentions.Results Most
+  of the 708 participants (88%, n=622) were not born in Australia; 31% reported that
+  they did not speak English well or at all (n=220); 70% had no tertiary qualifications
+  (n=497); and 41% had inadequate health literacy (n=290). Most participants reported
+  high testing intention (77.2%, n=546), with differences observed across language
+  groups (p&lt;0.001). The most frequently reported barrier to testing was concerns
+  about infection at the clinic (26.1%). Half (53.0%) reported willingness to get
+  a COVID-19 vaccine if recommended to them (n=375); 18% were unwilling (n=127), and
+  the remainder unsure (29%, n=205). These proportions varied significantly by language
+  group (p&lt;0.001). Participants were more likely to be unwilling/hesitant if they
+  were female (p=0.02) or did not use Australian commercial information sources (p=0.01).
+  Concerns about side effects (30.4%, n=102) and safety (23.9%, n=80), were key reported
+  barriers to vaccination.Conclusion Different language groups have unique and specific
+  needs to support uptake of COVID-19 testing and vaccination. Health services must
+  work collaboratively with culturally and linguistically diverse communities to provide
+  tailored support to encourage COVID-19 testing and vaccination.Lay summary708 adults
+  living in Sydney, Australia, who did not speak English as their main language at
+  home took part in a survey about COVID-19 vaccination and testing.Participants could
+  complete the survey online (English/translated) or with support from bilingual staff.
+  The survey was available in 11 languages.Three quarters of participants (77%) reported
+  they would get tested for COVID-19 if they had symptoms ‘no matter what.’ The most
+  common barrier was concern about getting infected at the testing clinic.53% of participants
+  reported that they would get a COVID-19 vaccine if it was recommended to them. 18%
+  reported that they wouldn’t get the vaccine, and 29% were unsure. The main barriers
+  were concerns about vaccine side effects and safety.Intentions to get tested for
+  COVID-19 or to get vaccinated varied significantly across language groups. Participants
+  who were female, or who did not use Australian commercial information sources were
+  more likely to be unwilling or unsure about getting a COVID-19 vaccine.Different
+  language groups have unique and specific needs to support uptake of COVID-19 testing
+  and vaccination. Health services must work collaboratively with culturally and linguistically
+  diverse communities to provide tailored support to encourage COVID-19 testing and
+  vaccination.Competing Interest StatementThe authors have declared no competing interest.Funding
+  StatementThis work was not supported by specific project funding. Academic authors
+  were supported by the National Health and Medical Research Council, National Heart
+  Foundation, and Western Sydney Local Health District.Author DeclarationsI confirm
+  all relevant ethical guidelines have been followed, and any necessary IRB and/or
+  ethics committee approvals have been obtained.YesThe details of the IRB/oversight
+  body that provided approval or exemption for the research described are given below:Human
+  Research Ethics Committee of Western Sydney Local Health District gave ethical approval
+  for this work. (Project number 2020/ETH03085)I confirm that all necessary patient/participant
+  consent has been obtained and the appropriate institutional forms have been archived,
+  and that any patient/participant/sample identifiers included were not known to anyone
+  (e.g., hospital staff, patients or participants themselves) outside the research
+  group so cannot be used to identify individuals.YesI understand that all clinical
+  trials and any other prospective interventional studies must be registered with
+  an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such
+  study reported in the manuscript has been registered and the trial registration
+  ID is provided (note: if posting a prospective study registered retrospectively,
+  please provide a statement in the trial ID field explaining why the study was not
+  registered in advance).YesI have followed all appropriate research reporting guidelines
+  and uploaded the relevant EQUATOR Network research reporting checklist(s) and other
+  pertinent material as supplementary files, if applicable.YesData produced in the
+  present study can be made available upon reasonable request to the authors'
+links:
+- name: URL
+  url: https://www.medrxiv.org/content/early/2021/10/26/2021.10.25.21265503
+---

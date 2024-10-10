@@ -1,0 +1,43 @@
+---
+title: 'Prevalence and predictors of depression in Korean American elderly: Findings
+  from the memory and aging study of Koreans (MASK)'
+authors:
+- Kim M.T.
+- Kim K.B.
+- Han H.-R.
+- Huh B.
+- Nguyen T.
+- Lee H.B.
+date: '2015-01-01'
+publishDate: '2024-10-10T14:22:48.717200Z'
+publication_types:
+- article-journal
+publication: '*American Journal of Geriatric Psychiatry*'
+doi: 10.1016/j.jagp.2014.11.003
+abstract: "Objectives: To estimate the prevalence and identify the predictors of depression
+  among community-dwelling Korean American elderly (KAE). Design(s): A cross-sectional
+  descriptive epidemiological survey using a two-step sampling strategy to obtain
+  a representative community sample. Setting(s): The authors recruited study participants
+  at religious, service, and business establishments in the KA community (26 churches,
+  6 senior centers, 2 medical daycare centers, 1 supermarket). Participant(s): Community-dwelling
+  first-generation KAE (N = 1,118; mean age +/-SD: 70.5 +/-7.0 years; female: 67.2%).
+  Measurements: Trained bilingual nurses and community health workers interviewed
+  participants face-to-face for demographic information, chronic conditions, and depression
+  using the Korean versions of the Patient Health Questionnaire (PHQ-9K). Result(s):
+  30.3% of KAEs were classified as having either mild (PHQ-9K score 5e9; N = 218,
+  19.5%) or clinical depression (PHQ-9K score textgreater= N =120, 10.8%), respectively.
+  One of seven KAE (N = 164, 14.7%) endorsed thoughts of death or self-injury, but
+  only 63 (5.7%) reported utilizing mental health services. The authors also identified
+  several predictors of depression, including living arrangement (living alone versus
+  living with family/spouse); having chronic conditions such as diabetes, arthritis,
+  digestive disorders, or chronic bronchitis; years of education; and cognitive impairment.
+  Conclusion(s): The authors' findings reveal a high prevalence of depression among
+  KAE and a low level of mental health service utilization. Because there are urgent
+  needs for culturally and contextually relevant interventions, the authors also discuss
+  the feasibility of community-based interventions to reduce the burden of depression,
+  which should be incorporated into a management system for multiple chronic conditions.Copyright
+  © 2015 American Association for Geriatric Psychiatry."
+links:
+- name: URL
+  url: http://www.sciencedirect.com/science/journal/10647481
+---

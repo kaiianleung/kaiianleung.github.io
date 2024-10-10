@@ -1,0 +1,52 @@
+---
+title: 'Esperanza y Vida: A community-based approach to increasing breast and cervical
+  cancer screening for immigrant Latinas'
+authors:
+- Jandorf L.
+- Thelemaque L.
+- Erwin D.O.
+date: '2011-01-01'
+publishDate: '2024-10-10T14:22:49.467517Z'
+publication_types:
+- article-journal
+publication: '*Cancer Epidemiology Biomarkers and Prevention*'
+doi: 10.1158/1055-9965.DISP-11-A14
+abstract: As health disparities continue to plague our nation it is imperative that
+  we find ways to reduce and eliminate this public health issue. Further, as Latinos
+  have become the largest minority group in the United States, we must address disparities
+  in breast and cervical cancer screening rates as well as find ways to successful
+  reduce disparities in cancer survival. Breast cancer is the most frequently diagnosed
+  cancer among Latinas; often diagnosed at advanced stages. The incidence rates for
+  cervical cancer are higher than non-Latina white women. Latinas have faced many
+  difficulties within the medical care system, including accessing health services.
+  Patient navigation has become increasingly common as a way to increase adherence
+  to treatment and more recently, as a method of increasing cancer screening. Esperanza
+  y Vida was developed as an intervention to reach groups of women from diverse Latino
+  backgrounds, as a culturally and linguistically appropriate approach to cancer education
+  and screening. Following the educational component of the program, women were contacted
+  2-months later to determine their age-specific screening adherence status (mammography,
+  clinical breast exam and/or Pap test). Women who were still non-adherent to screening
+  were offered navigational assistance. Navigational services included assistance
+  in locating bilingual services as well as free and/or low cost screening programs,
+  logistical assistance, encouragement for screening and additional education about
+  the importance of screening. All women were again contacted 8 months post the educational
+  program. This presentation will focus on the outcomes following navigation. The
+  sample included women who were reached for both the 2- and 8-month follow up assessments
+  and received navigational services. We will demonstrate the success of navigation;
+  of women who were non-adherent to mammography, 63% became adherent. Univariate predictors
+  include where the programs were conducted (Arkansas, New York City and Western NY)
+  and concurrent screening. For clinical breast exams, 61% of non-adherent women became
+  adherent with significant predictors of program location, years living in the US,
+  conducting breast self exams, and concurrent other screening. For Pap test, 59%
+  of the women became adherent with significant predictors of program location, marital
+  status, current screening and not being afraid of hear the results of medical exams.
+  In multiple regression analyses, significant predictors of each screening test included
+  adherence to the other screening exams, at the same time point. This is very encouraging,
+  in that it appears that once we can connect women with clinical services, they are
+  able to access other exams. Next steps include understanding why 40% of women still
+  remained unscreened.
+links:
+- name: URL
+  url: 
+    http://cebp.aacrjournals.org/cgi/content/meeting_abstract/20/10_MeetingAbstracts/A14?sid=ae431031-bc75-482a-a95f-45677bf92484
+---

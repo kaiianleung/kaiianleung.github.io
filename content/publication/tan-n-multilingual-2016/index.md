@@ -1,0 +1,39 @@
+---
+title: Multilingual intimate partner violence screening and resource card
+authors:
+- Tan N.
+date: '2016-01-01'
+publishDate: '2024-10-10T14:22:48.612590Z'
+publication_types:
+- article-journal
+publication: '*Journal of Investigative Medicine*'
+doi: 10.1136/jim-d-15-00013.83
+abstract: Purpose of Study This project aims to provide a multilingual intimate partner
+  violence (IPV) screening tool and a list of local, multilingual IPV counseling and
+  shelter services for the API community of Seattle. Methods Used A literature review
+  found a few key points. First, studies have shown that IPV programs such as hotlines
+  and shelters are effective in reducing survivors' fear, increasing self-efficacy,
+  coping skills and helping survivors feel more supported. Second, screening can improve
+  quality of life for IPV survivors. Third, subjective screening questions like, \"Do
+  you feel safe at home?\" are not sensitive, and survivors prefer self-administered
+  or written methods rather than face to face questioning. The STaT screening tool
+  was chosen for its 3 objective questions and up to 94.9% sensitivity. The card format
+  was discussed with community partner API Chaya. The project was proposed to a behavioral
+  health specialist, community health advocates, the Health Education Supervisor and
+  Health Advocacy Manager at the International Community Health Services (ICHS) clinic
+  in Seattle's International District. Summary of Results A two-part card was created
+  with the STaT screening tool on the top card and a list of three multilingual, local
+  IPV resources on the bottom card. The top can be torn off and disposed of after
+  use, which, with the business card size, makes it discreet and less likely to be
+  found by an abuser. The card will be translated to API languages and distributed
+  at the ICHS clinic and by ICHS community health advocates when they host health
+  fairs, dance classes, visit with community members etc. A document about how to
+  use the card was also given to the clinic. Conclusions Collaboration between a community
+  health clinic and a local IPV resource organization along with evidence based implementation
+  strengthens the impact of this project. It provides IPV survivors with a screening
+  tool that can be self-administered, and with acces to local, multilingual counseling
+  and shelter services. The card will now be translated by the clinic, distributed
+  in the International District of Seattle, and may soon be used by other ICHS clinics
+  in different neighborhoods. This card is mainly targeted towards women because unfortunately
+  there is a lack of research about and resources for IPV survivors who are men.
+---

@@ -1,0 +1,33 @@
+---
+title: Cochlear implant from a rehabilitation aproach based on community (RBC) [Audiology]
+authors:
+- Aguirre Zarta A.
+- Useche M.C.
+- Silva M.J.
+date: '2015-01-01'
+publishDate: '2024-10-10T14:22:48.741522Z'
+publication_types:
+- article-journal
+publication: '*International Archives of Otorhinolaryngology*'
+abstract: 'Introduction: Acording to Furmansky H. (2003), To obtain optimal results
+  the patient candidate for a cochlear implant CI must comply with features like:
+  Professional: Availability of services, training and type of aproach. Family: Dynamic,
+  participation and expectations. Child: Chronological Age However, it is common to
+  find higher emphasis on the physiological, cognitive and family aspects decreasing
+  weight in the sociocultural factor who affects rehabilitation. It is therefore important
+  to emphasize on an integral profile from the rehabilitation aproach based on community
+  (RBC). Objective(s): Recognize the importance of an integral profile of the patient
+  with CI, from a Rehabilitation aproach Based on Community. Methods and Results:
+  The 6 patients evaluated, those who belongs to an ethnic community do not get the
+  expected benefits for lack of rehabilitation. The 6 patients have left the device
+  for damage at the accesories, little auditory benefit for lack of programing, little
+  use because of the conditions of sociocultural lif. Conclusion(s): The RBC, involves
+  a process of intervention that can recognize the individual integrally, as a biosocial
+  being, which rehabilitation process canbepotentiated from an individualized intervention
+  work, involving their members, generating training in the community. Convert the
+  house into the framework of the rehabilitation. The goal of the CI should expand
+  and focus it not only surgery but in rehabilitation. The CI, from a RBC approach,
+  allows ensure the benefits of the device and strenghten rehabilitation. The RBC,
+  is a strategy that should be included in public policy from a differential approach.'
+url_pdf: http://forl.org.br/Content/CKEditor/iao_14_congress_fo.pdf
+---

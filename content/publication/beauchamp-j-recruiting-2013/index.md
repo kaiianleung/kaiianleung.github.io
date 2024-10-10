@@ -1,0 +1,38 @@
+---
+title: "Recruiting doctors from and for underserved groups: Does new brunswick's initiative
+  to recruit doctors for its linguistic minority help rural communities?"
+authors:
+- Beauchamp J.
+- Belanger M.
+- Schofield A.
+- Bordage R.
+- Donovan D.
+- Landry M.
+date: '2013-01-01'
+publishDate: '2024-10-10T14:22:49.205405Z'
+publication_types:
+- article-journal
+publication: '*Canadian Journal of Public Health*'
+abstract: "Objectives: Within health care, there are underserved groups. New Brunswick's
+  French-speaking minority, which also mostly lives in rural communities, is one such
+  group. A physician shortage potentially prevents this population from accessing
+  health promotion and clinical prevention services. This study analyzes whether New
+  Brunswick Francophone doctors with rural backgrounds are more likely than doctors
+  from urban regions to set up practice in rural communities of the province. Method(s):
+  A questionnaire was sent to 390 New Brunswick Francophone physicians admitted in
+  medicine between 1973 and 2000. It collected information on geographic origin and
+  history of medical practice. Multivariate logistic regressions were used to identify
+  whether a rural background is associated with the likelihood of ever and currently
+  practicing in rural communities. We used the General Practice Rurality Index-simplified
+  to quantify the rurality level of communities. Result(s): In total, 264 (67%) physicians
+  participated. A rural background was positively associated with the establishment
+  of a first medical practice in a rural community. This relationship was only significant
+  among family physicians. There was no statistically significant relationship between
+  rurality of community of origin and rurality of current community of practice among
+  either family or specialty physicians. Conclusion(s): Although Francophone doctors
+  with a rural background were more likely than their urban counterparts to set up
+  their first practice in a rural community, this effect was not sustained. This raises
+  questions as to why they leave rural communities and highlights the importance of
+  measures to retain doctors as a way to promote public health for underserved rural
+  groups. © Canadian Public Health Association, 2013. All rights reserved."
+---

@@ -1,0 +1,44 @@
+---
+title: Serum androgen levels in black, Hispanic, and white men
+authors:
+- Litman H.J.
+- Bhasin S.
+- Link C.L.
+- Araujo A.B.
+- McKinlay J.B.
+date: '2006-01-01'
+publishDate: '2024-10-10T14:22:55.300156Z'
+publication_types:
+- article-journal
+publication: '*Journal of Clinical Endocrinology and Metabolism*'
+doi: 10.1210/jc.2006-0037
+abstract: 'Context: Racial/ethnic differences in androgen levels could account for
+  differences in prostate cancer risk, body composition, and bone loss. Objective(s):
+  The objective of the study was to investigate racial/ethnic variations in testosterone,
+  bioavailable testosterone, dihydrotestosterone (DHT), SHBG, and dehydroepiandrosterone
+  sulfate (DHEAS) levels. Design(s): The Boston Area Community Health (BACH) Survey
+  was a multistage stratified cluster random sample, recruiting from 2002 to 2005.
+  Setting(s): The study was a community-based sample of Boston. Participant(s): Participants
+  included black, Hispanic, or white individuals, aged 30-79 yr, competent to sign
+  informed consent and literate in English/Spanish. Of 2301 men recruited, 1899 provided
+  blood samples (538 black, 651 Hispanic, 710 white). Intervention(s): Intervention
+  consisted of data obtained during inperson at-home interview, conducted by a bilingual
+  phlebotomist/ interviewer. Main Outcome Measure(s): Testosterone, bioavailable testosterone,
+  DHT, DHT to testosterone ratio, SHBG, and DHEAS were measured. Result(s): With or
+  without adjustment for covariates, there were no significant differences in testosterone,
+  bioavailable testosterone, or SHBG levels by race/ethnicity. DHEAS levels differed
+  by race/ethnicity before covariate adjustment; after adjustment this difference
+  was attenuated. Before adjustment, DHT and DHT to testosterone ratios did not significantly
+  differ by racial/ethnic group. After adjustment, there was evidence of racial/ethnic
+  differences in DHT (P = 0.047) and DHT to testosterone (P = 0.038) levels. Black
+  men had higher DHT levels and DHT to testosterone ratios than white and Hispanic
+  men. Conclusion(s): Because there are no racial/ethnic differences in testosterone
+  levels, normative ranges need not be adjusted by race/ethnicity for androgen deficiency
+  diagnosis for men aged 30-79 yr. Further investigation is needed to determine whether
+  differences in DHT levels and DHT to testosterone ratio can help explain racial/ethnic
+  variations in prostate cancer incidence, body composition, and bone mass. Copyright
+  © 2006 by The Endocrine Society.'
+links:
+- name: URL
+  url: http://jcem.endojournals.org/cgi/reprint/91/11/4326
+---

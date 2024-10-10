@@ -1,0 +1,73 @@
+---
+title: Older immigrant adults' experiences and perceptions of physical activity
+authors:
+- Salma J.
+- Yamamoto S.
+- Jones C.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:47.944798Z'
+publication_types:
+- article-journal
+publication: '*Osteoarthritis and Cartilage*'
+doi: 10.1016/j.joca.2020.02.268
+abstract: "Purpose: Clinical guidelines support exercise in managing osteoarthritis.
+  Up to 90% of people with OA do not meet the minimal levels of activity despite strong
+  evidence that being active is effective for managing OA symptoms. Subsets of the
+  population such as immigrants are known to be at higher risks for inactivity and
+  sedentary behavior. With 7.5 million immigrants, Canada currently has the second
+  highest percentage (21.9%) of foreign-born nationals in the world. Physical activity
+  in immigrants is influenced by migration-related factors such as acculturation,
+  stressors with settling in a new country, physical environments, and availability
+  of resources. Interpersonal barriers including competing time demands, cultural
+  norms and behaviours, motivation and lack of peer support have also been identified
+  as important determinants of physical activity. Adult physical inactivity rates
+  are high in Muslim majority countries, especially for Arab Muslims and Muslim women,
+  irrespective of ethnicity. Physical activity varies across genders with women, and
+  in particular visible minority women, reporting less physical activity than their
+  male counterparts. Barriers to Muslim women participating in leisure physical activity,
+  for example, include gendered norms of behavior, religious interpretations of women's
+  participation in sports, lack of access to gender-segregated spaces, lack of social
+  support, lack of education on physical activity and competing social obligations.
+  Many Muslim majority countries are experiencing rapid development with changes in
+  population dietary patterns, urbanization, increased obesity and lower physical
+  activity rates; all of which influences the health norms and behaviors of immigrants
+  settling in Canada. Method(s): Using a community-based participatory approach with
+  Muslim communities, we explored the experiences of and barriers to physical activity
+  from the perspective of South Asian, Arab, and African Muslim immigrant communities
+  in an urban setting: Edmonton, Alberta, Canada. Purposeful sampling and theoretical
+  sampling were used to recruit participants. Data saturation occurred when no new
+  themes emerged from the data and identified themes included rich descriptive repetitive
+  data from participants. Older participants chose to participate in either individual
+  interview or focus groups based on personal preferences while all stakeholders were
+  interviewed individually. To further explore the preliminary themes on physical
+  activity identified in the data, two additional focus group discussions with a sample
+  of nine older adults were completed to explore facilitators and barriers to physical
+  activity. All interviews were completed by the first author who was experienced
+  in immigrant health research and identified as being from the Muslim community.
+  Community interpreters (bilingual social workers or community volunteers) were used
+  for interviews and focus groups when older adults were not comfortable conversing
+  in the English language. A thematic analysis was undertaken with an iterative process
+  of multiple re-readings of the data with validation of identified preliminary codes
+  and themes through further data collection via interviews and focus group discussions.
+  In following an intersectional approach, we also searched for variations in experiences
+  across gender, migration status, socioeconomic status, ethnicity, and age categories.
+  Result(s): Of the 68 participants who took part in the study, 52 were older adults
+  and 16 were stakeholders including service providers, community volunteers, caregivers,
+  and faith and community leaders. Participants varied in terms of language fluency,
+  levels of education, length of time in Canada and immigration status with almost
+  equal numbers of long-term economic immigrants who had come to Canada as young adults
+  and newcomer immigrants who came to Canada post-retirement. Participating community
+  groups emphasized the importance of physical activity in older age and prioritized
+  the need for physical activity programs. The four themes highlight Muslim older
+  immigrants' perspectives on physical activity in Canada: (a) values and approaches
+  to staying active, (b) health factors: pain and health limitations, (c) social factors:
+  culture, religion and belonging; and (d) environmental factors: safety and accessibility.
+  Lack of effective strategies for pain management was a major concern for many participants
+  and hindered their ability to engage in both daily living activities and more strenuous
+  forms of exercise and recreation activities. Conclusion(s): Physical activity in
+  older age is valued by older Muslim immigrants but financial, cultural, and environmental
+  barriers to physical activity warrant intervention. One avenue of promoting physical
+  activity in Muslim older immigrants is the development of local, accessible, and
+  culturally sensitive programming that address both the physical activity, education,
+  and socialization needs of this population.Copyright © 2020"
+---

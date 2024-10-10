@@ -1,0 +1,17 @@
+---
+title: 'Iranian Donors Save Lives: Collaborating with Community Advocates to Address
+  Racial Disparity in Access to Unrelated Donors for Allogeneic Transplantation'
+authors:
+- Farnaz Farahbakhsh
+- Warren Benjamin Fingrut
+date: '2024-02-01'
+publishDate: '2024-10-10T14:22:58.368098Z'
+publication_types:
+- article-journal
+publication: '*Transplantation and Cellular Therapy, Official Publication of the American
+  Society for Transplantation and Cellular Therapy*'
+doi: 10.1016/j.jtct.2023.12.465
+links:
+- name: URL
+  url: https://www.astctjournal.org/article/S2666-6367(23)02200-5/abstract
+---

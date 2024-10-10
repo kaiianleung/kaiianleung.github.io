@@ -1,0 +1,48 @@
+---
+title: "Caring for older culturally and linguistically diverse patients with Cancer:
+  Healthcare Providers' perceived barriers to communication"
+authors:
+- Sungur H.
+- van den Muijsenbergh M.E.T.C.
+- van Weert J.C.M.
+- Schouten B.C.
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:47.310086Z'
+publication_types:
+- article-journal
+publication: '*Journal of Geriatric Oncology*'
+doi: 10.1016/j.jgo.2022.04.009
+abstract: "Background: Due to various socio-cultural and language related factors,
+  healthcare providers experience barriers when communicating with older culturally
+  and linguistically diverse (CALD) patients with cancer, which can lower the quality
+  of care received by patients and negatively impact healthcare providers. Studies
+  focusing on communication barriers of older CALD patients with cancer and a systematic
+  comparison of those barriers between different healthcare providers have been largely
+  missing. Objective(s): In order to lay out the healthcare providers' perceived barriers
+  to communication, the present study identified and compared communication barriers
+  among different healthcare providers when caring for older CALD patients with cancer.
+  Method(s): An online survey was conducted among healthcare providers in the Netherlands
+  who identified as being involved in the care of CALD patients with cancer (N = 191),
+  specifically; GPs (NGPs = 54), specialists (Nspecialists = 29), oncology nurses
+  (Nnurses = 77), and pharmacists (Npharmacists = 31). Providers assessed twelve pre-specified
+  factors on (i) importance and (ii) frequency of these factors as barriers to communication.
+  A composite score by employing the QUOTE (Quality Of care Through the patients'
+  Eyes) methodology was used to rank, and classify factors as either potential or
+  influential barriers. Result(s) and Conclusion(s): Overall, low Dutch language proficiency
+  of older CALD patients with cancer, family interpreters providing inadequate translations,
+  not knowing the extent of patients' informational needs, cultural differences in
+  views about healthcare (i.e., illnesses and treatments) and family members blocking
+  communication were found to be influential communication barriers. Healthcare providers
+  showed several differences in what they perceived to be a potential or an influential
+  barrier: Cultural differences in views about healthcare and patients getting treatment
+  in their home countries were important barriers for GPs, while not knowing the patient's
+  contact person was for pharmacists. Nurses perceived the highest number of influential
+  barriers, while specialists perceived the least. We conclude that specific interventions
+  that address differences in perceived barriers among providers are needed, and we
+  highlight potential interventions that involve digital communication tools, such
+  as the Conversation Starter.Copyright © 2022"
+links:
+- name: URL
+  url: 
+    http://www.elsevier.com/wps/find/journaldescription.cws_home/723463/description#description
+---

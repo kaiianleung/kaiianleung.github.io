@@ -1,0 +1,38 @@
+---
+title: Promoting adherence to organised physical activity among socially disadvantaged
+  older people.
+authors:
+- Tracy Nau
+- Genevieve Nolan
+- Ben J. Smith
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:50.619173Z'
+publication_types:
+- article-journal
+publication: '*Ageing & Society*'
+doi: 10.1017/S0144686X19001132
+abstract: Group-based physical activity (PA) in community-based settings represents
+  a promising avenue for promoting healthy ageing, however, lower levels of adherence
+  have been found to be associated with aspects of social disadvantage. Providers
+  are in a key position to provide important insights about strategies to improve
+  adherence, however, few studies have examined their perspectives. In this study,
+  30 community service providers were interviewed, and 42 older people participated
+  in focus groups to identify actions perceived as effective for promoting adherence
+  to organised PA, with a focus on factors relevant to older people experiencing socio-economic
+  disadvantage, social isolation, living with a disability or from culturally and
+  linguistically diverse backgrounds. Data were analysed thematically. Adherence barriers
+  included deteriorating health, lack of belonging and loss of motivation. Helpful
+  strategies for addressing deteriorating health included maintaining programme flexibility,
+  facilitating access to health and other services, and supporting participants to
+  adapt to acquired limitations. Belonging can be fostered by creating positive and
+  inclusive experiences, ensuring safe and stigma-free environments, providing opportunities
+  to forge personal connections and demonstrating care. Motivation may be enhanced
+  by ensuring activities are of interest and functional benefit, programme settings
+  are suitable and appealing, and enjoyment is prioritised. In conclusion, a range
+  of strategies is likely to be necessary to mitigate risks to adherence and support
+  continued participation in organised PA among socially disadvantaged older people.
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=148336743&site=ehost-live
+---

@@ -1,0 +1,41 @@
+---
+title: OA5 Empowering ten culturally and linguistically diverse communities in melbourne,
+  australia, to access culturally responsive palliative care.
+authors:
+- Odette Waanders
+- Michael Kennedy
+- Michelle Paterson
+- Harriet Radermacher
+- Elena Petreska
+- Susan Timmins
+- Annmarie Ferguson
+date: '2015-01-01'
+publishDate: '2024-10-10T14:22:50.391733Z'
+publication_types:
+- article-journal
+publication: '*BMJ supportive & palliative care*'
+doi: 10.1136/bmjspcare-2015-000906.5
+abstract: 'BACKGROUND: This project addresses low levels of awareness and use of palliative
+  care among ten culturally and linguistically diverse (CALD) communities in Melbourne,
+  Australia., AIM: To increase awareness, understanding and use of palliative care
+  among the Arabic speaking, Chinese, Croatian, Greek, Italian, Macedonian, Maltese,
+  Polish, Turkish and Vietnamese communities in Melbourne and to strengthen the provision
+  of culturally responsive palliative care., METHOD: In July 2013 the palliative care
+  and ethnic peak bodies initiated a two-year project with 10 ethnic communities (5
+  per year) to deliver peer education sessions about palliative care in community
+  languages. Adjunct activities include community engagement, relationship-building,
+  media, cultural responsiveness education for palliative care services, and evaluation.,
+  RESULTS: As at mid-July 2014, feedback from 837 participants (80% of 1050 attendees)
+  at 37 community education sessions for 4 CALD communities indicated that 68% did
+  not know about palliative care before the session. 90% had learnt new information,
+  90% had an intention to tell friends and family about palliative care and 90% thought
+  palliative care was a good idea. Updated results will be provided., CONCLUSION:
+  Participatory and engagement strategies are needed to improve awareness of palliative
+  care among CALD communities. The formation of community reference groups is a valuable
+  strategy that respects community leadership, expertise and networks. The participation
+  of CALD communities in tailoring education and information to meet specific cultural,
+  spiritual and linguistic needs is essential. The participation of palliative care
+  services in project activities is valued and strengthens relationships of trust
+  and understanding. Copyright © 2015, Published by the BMJ Publishing Group Limited.
+  For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions.'
+---

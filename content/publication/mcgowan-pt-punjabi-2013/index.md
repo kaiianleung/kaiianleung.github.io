@@ -1,0 +1,32 @@
+---
+title: The punjabi diabetes self-management program
+authors:
+- Mcgowan P.T.
+date: '2013-01-01'
+publishDate: '2024-10-10T14:22:49.152311Z'
+publication_types:
+- article-journal
+publication: '*Canadian Journal of Diabetes*'
+doi: 10.1016/j.jcjd.2013.08.041
+abstract: 'Purpose: South Asians have increased prevalence of diabetes and diabetes-related
+  complications and immigrants are at greater risk for morbidity and mortality. The
+  purpose of this project was to develop and implement a Punjabi version of an English
+  Diabetes Self-Management Program and make it available to Punjabi adults with type
+  2 diabetes in the Fraser Valley area of BC. This peer-led program provides participants
+  with confidence, knowledge and skills to manage their diabetes. Method(s): A bilingual
+  coordinator was employed and arranged the translation and cultural adaptation of
+  English manuals and materials. Fifty bilingual (Punjabi and English) volunteers
+  with diabetes were recruited and trained as program leaders and, in pairs, delivered
+  15 6-week programs to 170 Punjabi-speaking adults. Research Observations: Four focus
+  group meetings were held (1 with 22 leaders and 3 involving 30 participants) to
+  obtain perspectives of the program. As well, participants completed the Patient
+  Activation Measure (PAM) questionnaire before they started the program and again
+  at 6 months. Conclusion(s): Leaders and participants reported changes in behaviours
+  (i.e. diet, physical activity and taking medication), improvement in psychological
+  status (i.e. less stress, fear and pessism regarding future health), increases in
+  confidence (selfefficacy) in managing their health and greater community involvement.
+  The PAM scores indicated higher activation at 6 months. The project developed an
+  accessible and culturally relevant diabetes program for the Punjabi-speaking population
+  in their first language, established an implementation system involving numerous
+  community partnerships and is currently being offered on a permanent basis.'
+---

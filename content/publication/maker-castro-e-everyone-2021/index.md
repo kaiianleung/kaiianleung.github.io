@@ -1,0 +1,40 @@
+---
+title: '\"Everyone collaborated and came together\": The civic promise (and pitfalls)
+  of yPAR for immigrant-origin students in an era of deportation'
+authors:
+- Maker Castro E.
+- Lopez Hernandez G.
+- Karras-Jean Gilles J.
+- Novoa A.
+- The New Generation Class
+- Suarez-Orozco C.
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:47.355645Z'
+publication_types:
+- article-journal
+publication: '*Cultural diversity & ethnic minority psychology*'
+doi: 10.1037/cdp0000429
+abstract: "OBJECTIVES: In recent years, increased anti-immigrant hostility has trickled
+  into school settings creating toxic climates for immigrant-origin (I-O) students
+  (Rogers, School and society in the age of trump, 2019, UCLA's Institute for Democracy,
+  Education, and Access). Through youth participatory action research (yPAR), this
+  study qualitatively examined how a class of Emerging Bilingual (EB) students aimed
+  to promote more inclusive learning environments by designing, implementing, and
+  evaluating a school-wide program. Here, we consider how the students experienced
+  growth in their civic development as well as how they contended with resistances
+  encountered during the project. METHOD(S): The current study took place at a majority
+  I-O, northeastern high school and was led by an EB class (n = 20) and its teacher.
+  Participants were as follows: on average 16.5 years; 60% female; and 65% Latinx,
+  30% Black, and 5% mixed-race (Black-Latino). Multiple data sources documenting the
+  students' experiences were collected (including weekly student reflections and ethnographic
+  field notes) and then thematically analyzed using open coding. RESULT(S): Participating
+  students demonstrated civic development as evidenced through: growing confidence
+  that the program could generate positive change; enhanced sense of connection toward
+  their classmates; and increased commitment to future civic engagement. Nonetheless,
+  some participants demonstrated initial trepidation in both disclosing their migration
+  stories as well as the potential efficacy of engaging in the project. Furthermore,
+  others were disappointed by the disinterest displayed by some of their peers and
+  teachers. CONCLUSION(S): Collaborative research can support I-O youths' civic development,
+  though, the resistances encountered and engendered illuminate possible challenges
+  to ensure its benefits. (PsycInfo Database Record (c) 2021 APA, all rights reserved)."
+---

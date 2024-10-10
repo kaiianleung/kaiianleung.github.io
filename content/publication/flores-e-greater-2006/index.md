@@ -1,0 +1,38 @@
+---
+title: 'The Greater Denver Latino Cancer Prevention/Control Network: Prevention and
+  research through a community-based approch'
+authors:
+- Flores E.
+- Espinoza P.
+- Jacobellis J.
+- Bakemeier R.
+- Press N.
+date: '2006-01-01'
+publishDate: '2024-10-10T14:22:49.957629Z'
+publication_types:
+- article-journal
+publication: '*Cancer*'
+doi: 10.1002/cncr.22146
+abstract: "The Latino/a Research & Policy Center (LRPC), at the University of Colorado
+  (UC) at Denver and Health Sciences Center built the Greater Denver Latino Cancer
+  Prevention Network, a successful cancer prevention network, in 6 Denver metro area
+  counties. The Network consisted of 23 Latino community-based organizations, health
+  clinics, social service agencies, faith-based groups, and employee-based organizations;
+  2 migrant health clinics; and 14 scientific partners including the UC Comprehensive
+  Cancer Center, the Colorado Department of Public Health and Environment, and the
+  American Cancer Society. The Network focused on 5 significant cancers: breast, cervical,
+  lung, colorectal, and prostate cancer. The Steering Committee initiated a review
+  process for junior researchers that resulted in 5 NCI-funded pilot projects. Pilot
+  projects were conducted with various Latino populations. The Network developed community
+  education and health promotion projects including the bilingual outreach play The
+  Cancer Monologues. The Network's partnership also started and held 2 annual health
+  fairs, Dia de la Mujer Latina/Day of the Latina Woman, and annual health prevention
+  summits. The Special Population Network (SPN) adapted and revised a clinical trials
+  education outreach module that reached Network community partners. SPN partners
+  recruited Latino/a students to cancer research through a 6-week NCI training program
+  held yearly at the UCHSC campus. The Network methodology of bringing together the
+  Latino community with the scientific community increased the level of awareness
+  of cancer in the Latino community and increased cancer research and the level of
+  engagement of the scientific partners with the Latino community. © 2006 American
+  Cancer Society."
+---

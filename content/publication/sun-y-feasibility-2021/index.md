@@ -1,0 +1,63 @@
+---
+title: 'FEASIBILITY, DELIVERY, AND IMPLEMENTATION OF A REMOTE CRITICAL CARE TRAINING
+  PROGRAM IN CHINA: THE CERTAIN APPROACH'
+authors:
+- Sun Y.
+- Li H.
+- Yuan Q.
+- Qiao L.
+- Cui W.
+- Dong Y.
+- Gajic O.
+- Niven A.
+date: '2021-01-01'
+publishDate: '2024-10-10T14:22:47.845358Z'
+publication_types:
+- article-journal
+publication: '*Chest*'
+doi: 10.1016/j.chest.2021.07.1292
+abstract: 'TOPIC: Education, Research, and Quality Improvement TYPE: Original Investigations
+  PURPOSE: To describe the development, implementation, and learner engagement in
+  a longitudinal international remote critical care continuing medical education program
+  in China. METHOD(S): Based on the Mayo Clinic Checklist for Early Recognition and
+  Treatment of Acute and Illness and iNjury (CERTAIN) program, we designed and delivered
+  a longitudinal 40-week remote coaching program for a community-based teaching hospital
+  in Shandong Province, China. Based on a mixed-methods needs assessment that included
+  learner feedback using an exploratory sequential design and ICU process and outcomes
+  data, we developed a curriculum that included asynchronous, online learning modules
+  with multiple language captions and weekly remote education sessions using a blend
+  of didactic presentations on common critical care syndromes, virtual simulation,
+  journal club, and case-based discussions. Faculty included a diverse group of critical
+  care experts and bilingual facilitators. The program also included clinical research
+  and quality improvement workshops to facilitate implementation of key concepts identified
+  during these activities. Participants completed a survey using a 5 point anchored
+  Likert scale after each educational activity to provide feedback and guide course
+  improvement. RESULT(S): Twenty-two Chinese clinicians (18 physicians, 4 nurses)
+  enrolled in this CERTAIN longitudinal program. Learners completed a total of 163
+  hours (mean 7.4 hr/learner) asynchronous online learning, and to date have completed
+  23 weekly education sessions (total 28 hours, including an extended virtual simulation
+  experience). Survey response rate was 56%. Learners reported a high rate of overall
+  satisfaction with the course (112, 61% Excellent; 55 (30%) Very Good) and specific
+  topic discussions (110,60% Excellent; 57, 31% Very Good), with steady improvement
+  over time. Perceived practice relevance was also high (110, 59% Excellent; 55,30%
+  Very Good), and this effort has informed ongoing local performance improvement initiatives.
+  CONCLUSION(S): Remote delivery of longitudinal critical care continuing education
+  program in China using asynchronous learning, case-based discussion, and virtual
+  simulation is feasible, associated with a high rate of learner satisfaction, and
+  increases engagement in quality improvement initiatives. This innovative global
+  education initiative offers an important potential solution to strengthen critical
+  care services in remote, resource-limited settings at low cost, especially during
+  the ongoing COVID-19 pandemic. CLINICAL IMPLICATIONS: The World Health Organization
+  has identified remote education programs as a priority to strengthen international
+  critical care services and better meet growing global clinical demand. The best
+  method to effectively deliver continuing medical education to international healthcare
+  providers with unique cultural, organizational, and practice backgrounds is not
+  well defined. DISCLOSURES: no disclosure on file for Wenjuan Cui; No relevant relationships
+  by Yue Dong, source=Web Response Patent/IP rights for a licensed product relationship
+  with Ambient Clinical Analytics Please note: From 2016 Added 05/23/2021 by Ognjen
+  Gajic, source=Web Response, value=Royalty No relevant relationships by Heyi Li,
+  source=Web Response No relevant relationships by Alexander Niven, source=Web Response
+  no disclosure on file for Lujun Qiao; No relevant relationships by Yuqiang Sun,
+  source=Web Response no disclosure on file for Qingzhong Yuan;Copyright © 2021 American
+  College of Chest Physicians'
+---

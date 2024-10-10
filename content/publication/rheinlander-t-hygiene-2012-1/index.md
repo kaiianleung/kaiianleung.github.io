@@ -1,0 +1,42 @@
+---
+title: 'Hygiene and sanitation promotion strategies among ethnic minority communities
+  in northern Vietnam: a stakeholder analysis'
+authors:
+- Rheinlander T.
+- Xuan T.T.
+- Hoat L.N.
+- Dalsgaard A.
+- Konradsen F.
+date: '2012-01-01'
+publishDate: '2024-10-10T14:22:55.067845Z'
+publication_types:
+- article-journal
+publication: '*Health policy and planning*'
+abstract: "Effective rural hygiene and sanitation promotion (RHSP) is a major challenge
+  for many low-income countries. This paper investigates strategies and stakeholders'
+  roles and responsibilities in RHSP implementation in a multi-ethnic area of northern
+  Vietnam, in order to identify lessons learned for future RHSP. A stakeholder analysis
+  was performed, based on 49 semi-structured individual interviews and one group interview
+  with stakeholders in RHSP in a northern province of Vietnam. Participants came from
+  three sectors (agriculture, health and education), unions supported by the Vietnamese
+  government and from four administrative levels (village, commune, district and province).
+  The study villages represented four ethnic minority groups including lowland and
+  highland communities. Stakeholders' roles, responsibilities and promotion methods
+  were outlined, and implementation constraints and opportunities were identified
+  and analysed using thematic content analysis. Effective RHSP in Vietnam is severely
+  constrained despite supporting policies and a multi-sectorial and multi-level framework.
+  Four main barriers for effective implementation of RHSP were identified: (1) weak
+  inter-sectorial collaborations; (2) constraints faced by frontline promoters; (3)
+  almost exclusive information-based and passive promotion methods applied; and (4)
+  context unadjusted promotion strategies across ethnic groups, including a limited
+  focus on socio-economic differences, language barriers and gender roles in the target
+  groups. Highland communities were identified as least targeted and clearly in need
+  of more intensive and effective RHSP. It is recommended that the Vietnamese government
+  gives priority to increasing capacities of and collaboration among stakeholders
+  implementing RHSP activities. This should focus on frontline promoters to perform
+  effective behaviour change communication. It is also recommended to support more
+  participatory and community-based initiatives, which can address the complex socio-economic
+  and cultural determinants of health in multi-ethnic population groups. These lessons
+  learned can improve future RHSP in Vietnam and are also of relevance for health
+  promotion in other minority population groups in the region and globally."
+---

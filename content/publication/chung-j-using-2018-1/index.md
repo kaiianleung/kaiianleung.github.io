@@ -1,0 +1,40 @@
+---
+title: Using the socioecological model to explore factors affecting health-seeking
+  behaviours of older Korean immigrants
+authors:
+- Chung J.
+- Seo J.Y.
+- Lee J.
+date: '2018-01-01'
+publishDate: '2024-10-10T14:22:54.882733Z'
+publication_types:
+- article-journal
+publication: '*International journal of older people nursing*'
+doi: 10.1111/opn.12179
+abstract: "AIMS AND OBJECTIVES: The purpose of this study was to explore multilevel
+  factors affecting older Korean immigrants' health-seeking behaviours. BACKGROUND:
+  Although studies have documented significant issues related to healthcare access
+  and utilisation issues among older immigrants, a noted limitation of current research
+  is its failure to explore multiple factors related to their health-seeking behaviours.
+  DESIGN: A qualitative study using interview data from two previous studies. METHOD(S):
+  We performed a qualitative analysis of focus groups and individual interviews using
+  inductive coding methods. The socioecological model provided a useful framework
+  to guide this study. The sample included 17 community-dwelling older Korean immigrants
+  aged textgreater=65 years living in the metropolitan area of Seattle, WA, USA. RESULT(S):
+  Findings revealed various factors at the individual (e.g., perception of health
+  and illness, mistrust, cultural values and norms, length of residency in the United
+  States, language barriers and ageing experiences), interpersonal (e.g., peers, family
+  and primary care physicians), community (e.g., ethnic community centres and organisations,
+  home care helpers and interpretation services) and policy (e.g., lack of affordability
+  and health benefits coverage) levels. Each of these factors played a role as either
+  a barrier to or facilitator of older Korean immigrants' health-seeking behaviours.
+  Several factors, such as language barriers and lack of available information, were
+  intertwined. CONCLUSION(S): Findings indicate the importance of considering four
+  major areas when designing culturally appropriate, community-based interventions
+  for older immigrants. Also, utilising peers or trusted human resources in the community
+  is critical to the design and implementation of health promotion interventions for
+  older immigrants. IMPLICATIONS FOR PRACTICE: Examining intrapersonal, interpersonal,
+  community, and policy level factors that affect older immigrants' health-seeking
+  behaviours informs the design of community-based health promotion interventions
+  for older immigrants.Copyright © 2017 John Wiley & Sons Ltd."
+---

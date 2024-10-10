@@ -1,0 +1,99 @@
+---
+title: 'The NYCKidSeq randomized controlled trial: Impact of GUÍA digitally enhanced
+  genetic counseling in racially and ethnically diverse families'
+authors:
+- Sabrina A. Suckiel
+- Nicole R. Kelly
+- Jacqueline A. Odgis
+- Katie M. Gallagher
+- Monisha Sebastin
+- Katherine E. Bonini
+- Priya N. Marathe
+- Kaitlyn Brown
+- Miranda Di Biase
+- Michelle A. Ramos
+- Jessica E. Rodriguez
+- Laura Scarimbolo
+- Beverly J. Insel
+- Kathleen D. M. Ferar
+- Randi E. Zinberg
+- George A. Diaz
+- John M. Greally
+- Noura S. Abul-Husn
+- Laurie J. Bauman
+- Bruce D. Gelb
+- Carol R. Horowitz
+- Melissa P. Wasserstein
+- Eimear E. Kenny
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:47.087799Z'
+publication_types:
+- article-journal
+publication: '*medRxiv*'
+doi: 10.1101/2023.07.05.23292193
+abstract: 'Background: Digital solutions are needed to support rapid increases in
+  the application of genetic and genomic tests (GT) in diverse clinical settings and
+  patient populations. We developed GUÍA, a bi-lingual web-based platform that facilitates
+  disclosure of GT results. The NYCKidSeq randomized controlled trial evaluated GUÍA’s
+  impact on understanding of GT results. Methods: NYCKidSeq enrolled diverse children
+  with neurologic, cardiac, and immunologic conditions who underwent GT. Families
+  were randomized to genetic counseling with GUÍA (intervention) or standard of care
+  (SOC) genetic counseling for results disclosure. Parents/legal guardians (participants)
+  completed surveys at baseline, post-results disclosure, and 6-months later. Survey
+  measures assessed the primary study outcomes of perceived understanding of and confidence
+  in explaining their child’s GT results and the secondary outcome of objective understanding.
+  We used regression models to evaluate the association between the intervention and
+  the study outcomes. Results: The analysis included 551 participants, 270 in the
+  GUÍA arm and 281 in SOC. Participants’ mean age was 41.1 years and 88.6% were mothers.
+  Most participants were Hispanic/Latino(a) (46.3%), White/European American (24.5%),
+  or Black/African American (15.8%). Participants in the GUÍA arm had significantly
+  higher perceived understanding post-results (OR=2.8, CI[1.004,7.617], P=0.049) and
+  maintained higher objective understanding over time (OR=1.1, CI[1.004, 1.127], P=0.038)
+  compared to those in the SOC arm. There was no impact on perceived confidence. Hispanic/Latino(a)
+  individuals in the GUÍA arm maintained higher perceived understanding (OR=3.9, CI[1.6,
+  9.3], P=0.003), confidence (OR=2.7, CI[1.021, 7.277], P=0.046), and objective understanding
+  (OR=1.1, CI[1.009, 1.212], P=0.032) compared to SOC . Conclusions: This trial demonstrates
+  that GUÍA positively impacts understanding of GT results in diverse parents of children
+  with suspected genetic conditions. These findings build a case for utilizing GUÍA
+  to deliver complex and often ambiguous genetic results. Continued development and
+  evaluation of digital applications in diverse populations are critical for equitably
+  scaling GT offerings in specialty clinics. Trial Registration: Clinicaltrials.gov
+  identifier NCT03738098Competing Interest StatementDr. Kenny has received speaker
+  honoraria from Illumina, 23&amp;Me, Allelica, and Regeneron Pharmaceuticals, received
+  research funding from Allelica, and serves as a scientific advisory board member
+  for Encompass Biosciences, Foresite Labs, and Galateo Bio. Dr. Abul-Husn is an employee
+  and equity holder of 23andMe; serves as a scientific advisory board member for Allelica;
+  received personal fees from Genentech, Allelica, and 23andMe; received research
+  funding from Akcea; and was previously employed by Regeneron Pharmaceuticals. All
+  other authors declare they have no conflicts of interest to report.Clinical TrialNCT03738098Clinical
+  Protocolshttps://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04953-4https://classic.clinicaltrials.gov/ct2/show/NCT03738098Funding
+  StatementResearch reported in this publication was supported by the National Human
+  Genome Research Institute (NHGRI) and the National Institute on Minority Health
+  and Health Disparities (NIMHD) of the National Institutes of Health under Award
+  Number U01HG009610. The content is solely the responsibility of the authors and
+  does not necessarily represent the official views of the National Institutes of
+  Health. Author DeclarationsI confirm all relevant ethical guidelines have been followed,
+  and any necessary IRB and/or ethics committee approvals have been obtained.YesThe
+  details of the IRB/oversight body that provided approval or exemption for the research
+  described are given below:The Institutional Review Boards at the Icahn School of
+  Medicine at Mount Sinai (IRB⋕ 17-00780) and the Albert Einstein College of Medicine
+  (IRB⋕ 2016-6883) approved this study. All participants provided written informed
+  consent. This research conformed to the Declaration of Helsinki. I confirm that
+  all necessary patient/participant consent has been obtained and the appropriate
+  institutional forms have been archived, and that any patient/participant/sample
+  identifiers included were not known to anyone (e.g., hospital staff, patients or
+  participants themselves) outside the research group so cannot be used to identify
+  individuals.YesI understand that all clinical trials and any other prospective interventional
+  studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov.
+  I confirm that any such study reported in the manuscript has been registered and
+  the trial registration ID is provided (note: if posting a prospective study registered
+  retrospectively, please provide a statement in the trial ID field explaining why
+  the study was not registered in advance).Yes I have followed all appropriate research
+  reporting guidelines, such as any relevant EQUATOR Network research reporting checklist(s)
+  and other pertinent material, if applicable.YesThe datasets used and/or analyzed
+  during the current study are available from the corresponding authors upon reasonable
+  request.'
+links:
+- name: URL
+  url: https://www.medrxiv.org/content/early/2023/07/07/2023.07.05.23292193
+---

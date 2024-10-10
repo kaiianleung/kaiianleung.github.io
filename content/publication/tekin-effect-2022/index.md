@@ -1,0 +1,28 @@
+---
+title: 'The Effect of Turkish Pronunciation Training on Brain: An fMRI Study'
+authors:
+- Gökçen Tekin
+- Halit Karatay
+- Mustafa Hızal
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:54.353072Z'
+publication_types:
+- article-journal
+doi: 10.31219/osf.io/2jz37
+abstract: "This study aimed to develop the pronunciation skills of students who learned
+  Turkish as a foreign language and determine the extent of the instruction given
+  for that purpose by observing its cognitive effects. It was designed as an in-class
+  action research and carried out with nine students speaking different languages.
+  Of those, five were bilinguals: Four were native speakers of their native tribal
+  language and French, and one was a native speaker of Kazakh and Russian. The remaining
+  four students were native speakers of Arabic. The fMRI findings at the beginning
+  and the end of the study showed that phonological and reading motor processes were
+  better for bilingual learners who were native tribal speakers and learned French
+  and Mongolian as their country's official language, compared with native Arabic
+  monolingual learners. Based on the analysis, it can be stated that an increase in
+  foreign language sound awareness of learners results in the acquisition of more
+  accurate pronunciation skills."
+links:
+- name: URL
+  url: https://osf.io/2jz37/
+---

@@ -1,0 +1,34 @@
+---
+title: 'Cancer prevention strategies among California farmworkers: Preliminary findings'
+authors:
+- Goldsmith D.F.
+- Sisneros G.C.
+date: '1996-01-01'
+publishDate: '2024-10-10T14:22:55.358179Z'
+publication_types:
+- article-journal
+publication: '*Journal of Rural Health*'
+doi: 10.1111/j.1748-0361.1996.tb00823.x
+abstract: This study was conducted to identify barriers to cancer prevention and evaluate
+  the effectiveness of a cancer prevention project to screening for cervical and breast
+  cancer among Spanish-speaking farmworkers in California's Central Valley. Bilingual
+  health educators met with farmworkers communities near Merced and Modesto, CA, to
+  determine barriers that prevented women from seeking screening for breast and cervical
+  cancer. Using information from focus groups and health fairs, a targeted outreach
+  protocol was developed that will eventually enroll 2,500 farmworkers in a cancer
+  education and screening program. Participants received a presentation in Spanish
+  on breast and cervical cancer that included a pretest and post-test to assess increases
+  in knowledge. Clients were encouraged to attend Golden Valley Health Centers Inc.
+  (GVHC) to receive free breast and cervical cancer screening. Vouchers, redeemable
+  for modest personal hygiene gifts by clients, were tracked to assess prevention
+  behavior when appointments were kept at GVHC. Sixty farmworkers attended focus groups
+  and 363 attended health fairs to provide input to the cancer prevention program.
+  As of December 1, 1995, 1,732 female farmworkers were enrolled in an outreach program
+  designed to increase knowledge and promote cancer screening. Data from pretests
+  and post-tests indicated a statistically significant increases in knowledge about
+  cancer and its prevention among participants. Furthermore, 317 participants redeemed
+  vouchers for cancer screening at GVHC. Active community collaboration and culturally
+  appropriate intervention strategies, employed in conjunction with clinical services,
+  can be successful in increasing cancer prevention awareness and screening among
+  female farmworkers.
+---

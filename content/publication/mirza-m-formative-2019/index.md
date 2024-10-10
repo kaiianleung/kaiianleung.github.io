@@ -1,0 +1,51 @@
+---
+title: Formative Evaluation Of A Multifaceted Vocational Rehabilitation Program For
+  Refugees With Disabilities
+authors:
+- Mirza M.
+- Hasnain R.
+- Duke K.
+- Murthy S.
+date: '2019-01-01'
+publishDate: '2024-10-10T14:22:48.137510Z'
+publication_types:
+- article-journal
+publication: '*Archives of Physical Medicine and Rehabilitation*'
+doi: 10.1016/j.apmr.2019.08.226
+abstract: "Objective: To conduct a formative evaluation of Phase 1 of the Partners
+  of Refugees in Illinois Disability Employment (PRIDE) program, a federally-funded
+  intervention including culturally-appropriate, bilingual employment trainings to
+  50 job-seeking refugees with disabilities in Illinois. Design(s): A mixed methods
+  evaluation design comprising qualitative case notes and pre- and post-intervention
+  surveys. Setting(s): Community-based settings in collaboration with disability and
+  refugee-serving agencies, city colleges, and workforce centers. Participants (or
+  Animals, Specimens, Cadavers): Using a referred sampling strategy, 27 refugee adults
+  with disabilities with work authorization in the U.S. have been recruited to date.
+  Of these, all but one have completed the program, and 14 have completed pre and
+  post-intervention surveys for Phase 1. Average age of participants is 40.9 years
+  (range 25-72), with 3 participants identifying as female and 10 as male. Participants
+  represent a wide range of disabilities including physical impairments, sensory impairments,
+  and mental health conditions. Intervention(s): PRIDE includes three phases.The first
+  phase (3-4 weeks), is an employment training involving 3 group workshops staggered
+  with individual person-centered planning sessions. Phase 2 involves opening cases
+  with PRIDE's core partners to connect participants to employment-related resources.
+  In Phase 3, participants are connected with additional resources and employers,
+  depending on their individual employment pathways. Main Outcome Measure(s): Questionnaires
+  were developed to measure perceived helpfulness of Phase I group trainings and partipiants'
+  self-efficacy and knowledge pertaining to disability and employment-related resources
+  and policies in the U.S. Result(s): Majority of the participants (12/14) found the
+  content of PRIDE's Phase 1 group trainings very helpful. Nearly all participants
+  (12/14) would recommend the training sessions to others. Participants' knowledge
+  scores increased from 6.7 (s.d.=2.6) pre-intervention to 8.1 (s.d.=2.9) post-intervention
+  (maximum possible score =13). Before trainings, participants' average self-efficacy
+  rating for taking the steps necessary to achieve their desired job was 54.9 (s.d.=29.9)
+  on a scale from 1-100. Post-training, the average rating increased to 62.7 (s.d.=34.5).
+  Common barriers to employment include lack of timely and linguistically-appropriate
+  access to key services (e.g. Social Security benefits counseling). Conclusion(s):
+  Phase 1 of the PRIDE program was acceptable to participants and shows promise for
+  increasing self-efficacy and knowledge pertaining to disability and employment-related
+  topics. The extent to which these improvements translate to positive employment
+  outcomes needs to be evaluated upon completion of all phases of the program with
+  the target sample of 50 participants. Author(s) Disclosures: None. Key Words: Refugees,
+  Vocational Rehabilitation, EmploymentCopyright © 2019"
+---

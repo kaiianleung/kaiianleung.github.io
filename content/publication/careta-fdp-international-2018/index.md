@@ -1,0 +1,40 @@
+---
+title: 'International hemophilia knowledge translation program (HemoKT): A community-driven
+  peer-to-peer international education project'
+authors:
+- Careta F.D.P.
+- Jackson M.
+date: '2018-01-01'
+publishDate: '2024-10-10T14:22:48.353739Z'
+publication_types:
+- article-journal
+publication: '*Haemophilia*'
+doi: 10.1111/hae.13478
+abstract: 'Introduction and Objectives: In the realm of bleeding disorders (BD), knowledge
+  translation (KT) is a constant challenge. Patients without an adequate understanding
+  of their disease are not aware of the mechanisms of the pathology, treatment options,
+  and the importance of treatment. A good use of Information and communication technologies
+  (ICT) could help remedy this problem. This project intends to facilitate KT pertaining
+  to the molecular mechanisms involved in the development of BD, prognosis, treatment
+  options and the importance of treatment for patients with coagulopathies; and to
+  give patients from NMOs around the world the opportunity to further develop their
+  understanding of their pathology, making them patient experts who will be able to
+  help educate their peers. Material(s) and Method(s): After a survey of the most
+  important concepts relating to BD, a series of 5 minute YouTube videos will be developed.
+  These videos will be hosted on a website named the International Hemophilia Knowledge
+  Translation Program (HemoKT). It will contain a community-driven wiki, a forum,
+  useful links and a FAQ page. This material will be developed by two hemophilia patients
+  (both authors). The website will be translated into multiple languages by collaborating
+  hemophilia patients in different regions of the world. All video content in each
+  different language will be reviewed by qualified hematologists who will be identified
+  on the website. Result(s): This is an ongoing project. Two videos on hemophilia
+  and three on von Willebrand disease have already been produced and have been published
+  on YouTube. The videos total 3,719 views; 57% of the views were by males; the age
+  group that most viewed included between 35 and 44 years, followed by the population
+  aged 25 to 34 years, and the population aged 45 to 54 years. Conclusion(s): The
+  high number of views obtained for the first videos demonstrate that there is a need
+  for KT in the BD community, and that engaged and informed patients are well positioned
+  to accomplish this task using ICT. During the 2018 World Congress, the project team
+  will present the first version of the HemoKT website (in Portuguese and English)
+  and current statistics.'
+---

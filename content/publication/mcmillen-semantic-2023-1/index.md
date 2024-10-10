@@ -1,0 +1,40 @@
+---
+title: 'Semantic Difficulty for Bilingual Children: Effects of Age, Language Exposure,
+  and Language Ability.'
+authors:
+- Stephanie McMillen
+- Nahar Albudoor
+- Elizabeth D Pena
+- Lisa M Bedore
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:58.226280Z'
+publication_types:
+- article-journal
+publication: '*American journal of speech-language pathology*'
+doi: 10.1044/2022_AJSLP-22-00018
+abstract: "PURPOSE: Semantic tasks evaluate dimensions of children's lexical-semantic
+  knowledge. However, the relative ease of semantic task completion depends on individual
+  differences in developmental and language experience factors. The purpose of this
+  study was to evaluate how language experience and language ability impact semantic
+  task difficulty in English for school-age Spanish-English bilingual children with
+  and without developmental language disorder (DLD)., METHOD: Participants included
+  232 Spanish-English bilingual children in second through fifth grade with (n = 35)
+  and without (n = 197) DLD. Data included children's performance on the English Semantics
+  subtest of the Bilingual English-Spanish Assessment-Middle Extension Field Test
+  Version (BESA-ME), age of English acquisition, and percent English language exposure.
+  Task difficulty, a measurement of the relative ease of task completion, was calculated
+  for six semantic task types included on the BESA-ME. Multilevel regression modeling
+  was conducted to estimate longitudinal growth trajectories for each semantic task
+  type., RESULTS: Results showed that language ability and grade level drive semantic
+  task difficulty for all task types, and children with DLD experienced greater difficulty
+  on all task types compared to their typically developing peers. Longitudinally,
+  semantic task difficulty decreased for all children, regardless of language ability,
+  indicating that semantic task types became easier over time. While children made
+  gains on all semantic tasks, the growth rate of task difficulty was not equal across
+  task types, where some task types showed slower growth compared with others. English
+  language exposure emerged as a significant predictor of semantic task difficulty
+  while age of acquisition was not a significant factor., CONCLUSIONS: This study
+  clarifies developmental profiles of lexical-semantic performance in bilingual children
+  with and without DLD and supports clinical decision-making regarding children's
+  English language learning."
+---

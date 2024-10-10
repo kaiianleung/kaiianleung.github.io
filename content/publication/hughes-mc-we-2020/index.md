@@ -1,0 +1,36 @@
+---
+title: "\\\"We Are Here to Assist All Individuals Who Need Hospice Services\\\": Hospices'
+  Perspectives on Improving Access and Inclusion for Racial/Ethnic Minorities"
+authors:
+- Hughes M.C.
+- Vernon E.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:47.884424Z'
+publication_types:
+- article-journal
+publication: '*Gerontology and Geriatric Medicine*'
+doi: 10.1177/2333721420920414
+abstract: 'Background: Racial/ethnic minority populations in the United States are
+  less likely to utilize hospice services nearing their end of life, potentially diminishing
+  their quality of care while also increasing medical costs. Objective(s): Explore
+  the minority hospice utilization gap from the hospice perspective by examining perceived
+  barriers and facilitators as well as practices and policies. Method(s): Qualitative
+  surveys were conducted with 41 hospices across the United States. Qualitative data
+  analysis included performing a limited content analysis, including the identification
+  of themes and representative quotations. Result(s): Commonly reported barriers to
+  hospice care for racial/ethnic minorities included culture/beliefs, mistrust of
+  the medical system, and language barriers. A major theme pertaining to successful
+  minority hospice enrollment was an inclusive culture that provided language services,
+  staff cultural training, and a diverse staff. Another major theme was the importance
+  of community outreach activities that extended beyond the medical community and
+  forming relationships with churches, racial/ethnic minority community leaders, and
+  Native American reservations. Conclusion(s): The importance of incorporating a culture
+  of inclusivity by forming committees, providing language services, and offering
+  culturally competent care emerged in this qualitative study. Building strong external
+  relationships with community groups such as churches is a strategy used to increase
+  racial/ethnic minority utilization of hospice.Copyright © The Author(s) 2020.'
+links:
+- name: URL
+  url: 
+    http://www.sagepub.com/journals/Journal202312?productType=Journals&status=New&sortBy=sortTitle%20asc&fs=1
+---

@@ -1,0 +1,41 @@
+---
+title: Understanding Customers and Relationships in Software Technology SMEs
+authors:
+- Sara Parry
+- Rosalind Jones
+- Jennifer Rowley
+- Beata Kupiec-Teahan
+date: '2010-01-01'
+publishDate: '2024-10-10T14:22:57.338641Z'
+publication_types:
+- article-journal
+publication: '*Working Papers*'
+abstract: 'Downloadable! Purpose Drawing on B2B Relationship Marketing and management
+  theory, this research seeks to better understand customer-perceived value in B2B
+  contexts, specifically what customers expect from their relationships with suppliers.
+  The study therefore aims to explore the customer’s perspective of the key attributes
+  of relationships, in the software sector, and with specific reference to SMEs in
+  this sector.Design/Method/Approach A two level analysis of customer perspectives
+  on relationship attributes was conducted. First, semi-structured interviews were
+  conducted with the customers of two case study firms. This process was used both
+  to identify key attributes, and to generate insights into the nature and importance
+  of those attributes. Using these attributes, a second study was conducted; a survey
+  based on an online questionnaire generated data that was analysed using Adaptive
+  Conjoint Analysis in order to identify the relative significance of the attributes.
+  Findings A new Customer Relationship Attributes Model (CRAM) is presented which
+  encapsulates the major attributes customers consider when entering into a relationship
+  with their software supplier. The CRAM identifies five product-related attributes
+  (price, functionality, bilingual capability, location, and software quality), and
+  seven service related attributes (communication, understanding of the customer,
+  trust, relationship, service, professionalism, and employee expertise). The most
+  important of these attributes are: software quality, professionalism, understanding
+  of the customer, and functionality. Originality/value Too much of the research and
+  rhetoric on relationship marketing and management takes a provider side approach.
+  This paper contributes to theory by offering a customer perspective on business
+  relationships in a specific sector. Further, the CRAM can be used by software SMEs
+  to inform the actions that they need to take in order to enhance their relationships
+  with their customers in pursuit of improved business performance.'
+links:
+- name: URL
+  url: https://ideas.repec.org/p/bng/wpaper/10017.html
+---

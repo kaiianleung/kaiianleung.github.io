@@ -1,0 +1,45 @@
+---
+title: A community-academic partnership educating hispanics/latinos as popular opinion
+  leaders (pols) to increase awareness about lupus
+authors:
+- Mancera-Cuevas K.
+- Canessa P.
+- Aouhab Z.
+- Chung A.
+- Erickson D.
+- Chmiel J.
+- Ramsey-Goldman R.
+date: '2016-01-01'
+publishDate: '2024-10-10T14:22:48.596946Z'
+publication_types:
+- article-journal
+publication: '*Lupus Science and Medicine*'
+doi: 10.1136/lupus-2016-000179.96
+abstract: "Background A community-university partnership was developedto address lupus
+  disparities in the Hispanic/Latino Chicagolandcommunity. Lupus significantly impacts
+  Latinos due to lack ofearly detection, diagnosis, and care. A curriculum was created
+  toeducate Popular Opinion Leaders (POLs) as leaders who thenprovide lupus education
+  to the community. POLs were trained inthree local communities; the POL groups consisted
+  of 1) HighSchool Students, 2) Community Health Workers, and 3) ParentLeaders. Our
+  goal was to pilot test this education program acrossdifferent age groups and literacy
+  levels as a prelude to field workincreasing lupus awareness in the targeted communities.Materials
+  and methods To measure knowledge acquisition ofthe newly trained POLs, pre-and post-test
+  questionnaires wereadministered over four sessions. Questionnaires were designedwith
+  a health literacy expert for content, clarity and literacy level.As part of the
+  assessment, we also analysed the following demographic and acculturation variables:
+  birthplace (Mexico/U.S./Other); # of years in the US; strong sense of belonging
+  to an ethnic group (4-point scale) and the following lupus knowledge variables:
+  lupus is a chronic disease (Yes/No/don't know); there is acure for lupus (Yes/No/don't
+  know); and which symptom is not alupus symptom (choose from a list). Demographic
+  and acculturation characteristics and knowledge responses pre-and post-testresponses
+  were summarised by community using descriptivestatistics.Results We trained community
+  health workers from Erie Neighbourhood House (n = 14), high school students from
+  Cicero(n = 14) and parent leaders from Burbank (n = 28). Participantcharacteristics
+  and knowledge gain are shown in Table 1.Conclusions Overall, there was evidence
+  to support lupusknowledge improvement after the completion of POL educational sessions.
+  We encountered some difficulties in performingthis evaluation due language difficulty
+  not only limited to literacylevel but also in interpretation of questions and bilingual
+  interpreters were needed to assist POL assessments. The next phase isto document
+  the community contacts reached by POLs in thefield using Geographic Information
+  System (GIS) mapping."
+---

@@ -1,0 +1,47 @@
+---
+title: Acceptance and Impact of Point-of-Use Water Filtration Systems in Rural Guatemala
+authors:
+- Larson K.L.
+- Hansen C.
+- Ritz M.
+- Carreno D.
+date: '2017-01-01'
+publishDate: '2024-10-10T14:22:54.906063Z'
+publication_types:
+- article-journal
+publication: '*Journal of nursing scholarship : an official publication of Sigma Theta
+  Tau International Honor Society of Nursing*'
+doi: 10.1111/jnu.12260
+abstract: "DESIGN: A descriptive correlational study was used that employed community
+  partnership and empowerment strategies. One year postintervention, in the summer
+  of 2015, a bilingual, interdisciplinary research team conducted a house-to-house
+  survey with families who received water filters., METHODS: Survey data were gathered
+  from the head of household on family demographics, current family health, water
+  filter usage, and type of flooring in the home. Interviews were conducted in Spanish
+  and in partnership with a village leader. Each family received a food package of
+  household staples for their participation. Descriptive statistics were calculated
+  for all responses. Fisher's exact test and odds ratios were used to determine relationships
+  between variables., FINDINGS: Seventy-nine percent (n = 56) of the 71 households
+  that received a water filter in 2014 participated in the study. The majority of
+  families (71.4%; n = 40) were using the water filters and 16 families (28.6%) had
+  broken water filters. Of the families with working water filters, 15% reported diarrhea,
+  while 31% of families with a broken water filter reported diarrhea. Only 55.4% of
+  the homes had concrete flooring. More households with dirt flooring and broken water
+  filters reported a current case of diarrhea. A record review of attendees at an
+  outreach clinic in this village noted a decrease in intestinal infections from 2014
+  (53%) to 2015 (32%)., CONCLUSIONS: A trend suggests that water filter usage was
+  both practically and clinically significant in reducing the incidence of diarrheal
+  disease in this sample. Some homes did not have flat surfaces for water filter storage.
+  Housing conditions should be taken into consideration for future diarrheal disease
+  prevention initiatives., CLINICAL RELEVANCE: Point-of-use water filters using a
+  community-university partnership can reduce diarrheal disease in rural regions of
+  Guatemala., PURPOSE: Infants and children in developing countries bear the burden
+  of diarrheal disease. Diarrheal disease is linked to unsafe drinking water and can
+  result in serious long-term consequences, such as impaired immune function and brain
+  growth. There is evidence that point-of-use water filtration systems reduce the
+  prevalence of diarrhea in developing countries. In the summer of 2014, following
+  community forums and interactive workshops, water filters were distributed to 71
+  households in a rural Maya community in Guatemala. The purpose of this study was
+  to evaluate the uptake of tabletop water filtration systems to reduce diarrheal
+  diseases.Copyright © 2016 Sigma Theta Tau International."
+---

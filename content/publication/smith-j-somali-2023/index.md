@@ -1,0 +1,66 @@
+---
+title: "'Somali parents feel like they're on the outer': Somali mothers' experiences
+  of parent-teacher relationships for their autistic children"
+authors:
+- Smith J.
+- Rabba A.S.
+- Ali A.
+- Datta P.
+- Dresens E.
+- Faragaab N.
+- Hall G.
+- Heyworth M.
+- Ige K.
+- Lawson W.
+- Lilley R.
+- Syeda N.
+- Pellicano E.
+date: '2023-01-01'
+publishDate: '2024-10-10T14:22:47.283971Z'
+publication_types:
+- article-journal
+publication: '*Autism*'
+doi: 10.1177/13623613221146077
+abstract: "Effective parent-teacher partnerships can improve outcomes for autistic
+  students. Yet, we know little about what effective partnerships look like for parents
+  of autistic children from diverse backgrounds. Using participatory methods, we conducted
+  semi-structured interviews with 15 Somali mothers of autistic children attending
+  Australian kindergartens/schools to understand experiences of parent-teacher interactions.
+  We used reflexive thematic analysis to identify key themes. We found that mothers
+  were proud and accepting of their children. They had high expectations, particularly
+  around children's independence. Mothers wished their children's differences were
+  understood and supported by other people, including teachers. They were frustrated
+  by low expectations of children, a lack of genuine communication from teachers and
+  limited autism-specific knowledge, skills and experience within schools. They described
+  racist attitudes towards their children and reported that they themselves had experienced
+  stigma. They also had few sources of support to rely upon, although their non-autistic
+  daughters and their faith were important foundations for resilience. Despite all
+  of these challenges, mothers themselves were increasing community awareness and
+  knowledge about autism in the hope that they and their children would be valued
+  by others. Our work has implications for how teachers and schools can foster successful
+  relationships with Somali parents of autistic children. Lay abstract: Good relationships
+  between parents and schools can improve autistic children's school success. There
+  are many reasons why families from different cultural backgrounds find it harder
+  to develop good relationships with schools, such as language barriers, discrimination
+  and unfamiliarity with education systems. We know little about what 'good relationships'
+  look like for these families. Here, we worked with a team of autistic and non-autistic
+  researchers as well as an Advisory Group of Somali parents to conduct interviews
+  with 15 Somali mothers of kindergarten and school-age autistic children. We asked
+  mothers about their experiences of their child's education, communication with teachers
+  and what a good relationship with schools would look like. We also asked how they
+  felt the Somali community understood autism. We looked for common things that mothers
+  said. We found that mothers were very proud of their children. They had high expectations,
+  particularly about what children could do by themselves. Mothers found it frustrating
+  that teachers had low expectations, that schools were not good at communicating
+  with them and that autism-specific skills and experience were uncommon in schools.
+  They also reported racist attitudes towards their children. Mothers experienced
+  stigma and lacked resources, but support was gained from their daughters and their
+  religion. Mothers themselves were proactively increasing community awareness and
+  knowledge about autism in the hope that they and their autistic children would be
+  valued and better supported. Our work has implications for how teachers and schools
+  can work together with Somali parents to forge better futures for autistic children.Copyright
+  © The Author(s) 2023."
+links:
+- name: URL
+  url: https://journals.sagepub.com/home/AUT
+---

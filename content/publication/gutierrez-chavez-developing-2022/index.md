@@ -1,0 +1,44 @@
+---
+title: 'Developing an equitable intervention approach for communities of color: mental
+  health and co-occurring physical health concerns in the context of the COVID-19
+  pandemic.'
+authors:
+- Manuel Gutierrez Chavez
+- Kiran Kaur
+- Katherine J W Baucom
+- Ana Sanchez-Birkhead
+- Grant R Sunada
+- Valentine Mukundente
+- Fahina Tavake-Pasi
+- Edwin Eru Napia
+- Jeannette Villalta
+- Anu Asnaani
+date: '2022-01-01'
+publishDate: '2024-10-10T14:22:50.242824Z'
+publication_types:
+- article-journal
+publication: '*Translational behavioral medicine*'
+doi: 10.1093/tbm/ibac033
+abstract: 'The COVID-19 pandemic has exacerbated disparities in mental health treatment
+  for people of color in the USA. Meeting the needs of those most burdened by this
+  disparity will require swift and tactical action in partnership with these communities.
+  The purpose of this paper is to describe how a community-based participatory research
+  approach was employed to assess the priorities and needs of four communities of
+  color (African immigrant, Hispanic/Latino, Black/African American, and Pacific Islander)
+  in a major U.S. city. A brief quantitative survey devised jointly by community leaders
+  and the research team was deployed to community members (N = 59) in the fall of
+  2020. The most endorsed mental health issues across the communities were excessive
+  worry (51%) and stress regarding COVID-19, racism, and immigration policies (49%).
+  The most endorsed physical health concerns included sleep difficulties (44%), headaches,
+  and backaches (each 39%). Physical symptoms predicted the endorsement of a mental
+  health issue above and beyond COVID-19-related hardships, multiplying the odds of
+  reporting an issue by 1.73 per physical health concern endorsed. Based on these
+  findings, the community-research team conceptualized and proposed an evidence-based,
+  effectiveness-implementation hybrid type-2 intervention approach for chronic worry
+  and daily stress. This paper highlights detail on how the community-research team
+  arrived at the proposed multilevel intervention that addresses community-stated
+  barriers to mental health treatment (e.g., preferring trusted health workers to
+  deliver emotional health treatments) and considers the burden of the additional
+  stressful context of COVID-19. Copyright © Society of Behavioral Medicine 2022.
+  All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.'
+---

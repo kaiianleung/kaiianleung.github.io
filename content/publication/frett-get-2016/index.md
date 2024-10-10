@@ -1,0 +1,40 @@
+---
+title: Get Vaccinated! and Get Tested! Developing Primary and Secondary Cervical Cancer
+  Prevention Videos for a Haitian Kreyòl-Speaking Audience.
+authors:
+- Brigitte Frett
+- Myra Aquino
+- Marie Fatil
+- Julia Seay
+- Dinah Trevil
+- Michèle Jessica Fièvre
+- Erin Kobetz
+date: '2016-01-01'
+publishDate: '2024-10-10T14:22:50.825605Z'
+publication_types:
+- article-journal
+publication: '*Journal of Health Communication*'
+doi: 10.1080/10810730.2015.1103330
+abstract: Although routine screening reduces cervical cancer rates between 60% and
+  90%, thousands of women worldwide are diagnosed with the disease on an annual basis
+  because of inadequate screening. Haitian women in South Florida experience a disproportionate
+  burden of cervical cancer, with disease rates 4 times higher than the average for
+  women in Miami. An ongoing community-based participatory research initiative to
+  assess and reduce this burden has revealed that a complex interplay of factors contributes
+  to a lack of access to screening in this community, including socioeconomics, language
+  barriers, and traditional understandings of health and disease. In an effort to
+  address some of these barriers and encourage uptake of primary and secondary cervical
+  cancer prevention strategies, 2 videos on cervical cancer prevention were created
+  using a community-based participatory research framework. The video screenplays
+  were created by a Haitian screenwriter using evidence-based medical information
+  provided by academic researchers. The films feature Haitian actors speaking a Haitian
+  Kreyòl dialogue with a storyline portraying friends and family discussing human
+  papillomavirus disease and vaccination, Papanicolaou testing, and cervical cancer.
+  Focus groups held with Haitian women in South Florida suggested that the films are
+  engaging; feature relatable characters; and impact knowledge about human papillomavirus,
+  cervical cancer development, and current prevention recommendations.
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=116262840&site=ehost-live
+---

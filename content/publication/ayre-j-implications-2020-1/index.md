@@ -1,0 +1,38 @@
+---
+title: 'Implications for GP endorsement of a diabetes app with patients from culturally
+  diverse backgrounds: A qualitative study'
+authors:
+- Ayre J.
+- Bonner C.
+- Bramwell S.
+- McClelland S.
+- Jayaballa R.
+- Maberly G.
+- McCaffery K.
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:54.785413Z'
+publication_types:
+- article-journal
+publication: '*Australian Journal of Primary Health*'
+doi: 10.1071/PY19062
+abstract: Although many diabetes self-management apps exist, these are not tailored
+  for people from culturally and linguistically diverse (CALD) backgrounds. This study
+  aimed to explore GP perceptions of how diabetes app features could help GPs better
+  support their patients from CALD backgrounds. Twenty-five semi-structured interviews
+  with GPs in Western Sydney explored attitudes towards a proposed app's suitability
+  for CALD patients. Interviews were audio-recorded, transcribed and coded using Framework
+  Analysis. Theme 1 explored the implications of perceptions that patients' health
+  literacy is dependent on the language used. Theme 2 explored the influence of messaging
+  from sources that share the patient's language and culture (including misinformation
+  from community sources). Theme 3 described the suitability of the app platform for
+  CALD patients, and its potential challenges in this group. GPs perceived that a
+  diabetes app could be useful for providing support to patients from CALD backgrounds.
+  Findings suggest app features should be optimised to address existing challenges
+  that GPs face and carefully consider strategies for recruiting CALD patients. It
+  is important that GPs feel comfortable promoting an app to their CALD patients to
+  help increase participation rates by people in the CALD community.Copyright © 2020
+  La Trobe University.
+links:
+- name: URL
+  url: http://www.publish.csiro.au/nid/261.htm?nid=262&aid=11556
+---

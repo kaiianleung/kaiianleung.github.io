@@ -1,0 +1,44 @@
+---
+title: 'Transitioning childhood cancer survivors to adult-centered healthcare: insights
+  from parents, adolescent, and young adult survivors.'
+authors:
+- Casillas J
+- Kahn KL
+- Doose M
+- Landier W
+- Bhatia S
+- Hernandez J
+- Zeltzer LK
+date: '2010-01-01'
+publishDate: '2024-10-10T14:22:50.993014Z'
+publication_types:
+- article-journal
+publication: '*Psycho-Oncology*'
+doi: 10.1002/pon.1650
+abstract: "Objective: To determine Latino adolescent and young adults (AYA) cancer
+  survivors' perceived barriers or facilitators to transition from pediatric to adult-centered
+  survivorship care and to also assess the parents' perspective of care.Methods: Partnering
+  with a community-based organization that serves Latino survivors, we conducted a
+  qualitative, constant comparative analytic approach exploring in-depth themes that
+  have salience for Latino pediatric cancer survivors seeking care in the adult healthcare
+  setting. Twenty-seven Latino AYA survivors (textgreater/=15 years of age) completed
+  key informant interviews and 21 Latino parents participated in focus groups.Results:
+  Both AYA survivors and parents identified two major facilitative factors for survivorship
+  care: Involvement of the nuclear family in the AYA's survivorship care in the adult
+  healthcare setting and including symptom communication in late effects discussions.
+  Barriers to care included: perceived stigma of a cancer history and continued emotional
+  trauma related to discussions about the childhood cancer experience.Conclusions:
+  Barriers to survivorship care include cancer stigma for both patient and nuclear
+  family, which can impact on seeking survivorship care due to constraints placed
+  on discussions because it remains difficult to discuss 'cancer' years later. Future
+  research can evaluate if these findings are unique to Latino childhood cancer survivors
+  or are found in other populations of AYA cancer survivors transitioning to adult-centered
+  healthcare. This community-based participatory research collaboration also highlights
+  the opportunity to learn about the needs of childhood cancer survivors from the
+  lens of community leaders serving culturally diverse populations. Copyright (c)
+  2010 John Wiley & Sons, Ltd."
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=104919691&site=ehost-live
+---

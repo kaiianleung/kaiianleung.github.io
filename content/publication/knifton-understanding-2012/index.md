@@ -1,0 +1,44 @@
+---
+title: Understanding and addressing the stigma of mental illness with ethnic minority
+  communities.
+authors:
+- Lee Knifton
+date: '2012-01-01'
+publishDate: '2024-10-10T14:22:50.940577Z'
+publication_types:
+- article-journal
+publication: '*Health Sociology Review*'
+doi: 10.5172/hesr.2012.21.3.287
+abstract: Higher income societies have moved from institutional to community-based
+  care for people experiencing mental illness. However, stigma and discrimination
+  persists and undermines help-seeking, recovery and life chances. Mental illness
+  prevalence is higher amongst communities that face multiple prejudices and disadvantages
+  within society, including Black and minority ethnic communities who may experience
+  migration trauma, racism, acculturation and adverse social circumstances. This study
+  examines beliefs, stigma and the effectiveness of existing national mental health
+  campaigns with Pakistani, Indian and Chinese heritage communities in Scotland, UK,
+  using community based participatory research. Community organisers were trained
+  and supported to co-facilitate focus groups with 87 people using a range of languages.
+  Whilst diversity within and between communities was apparent, important trends emerged.
+  People with mental illness experience high levels of stigma from communities. Families
+  experience significant associated stigma. This shame combines with culturally inappropriate
+  services to reduce help-seeking from mental health services, friends and families.
+  Existing anti-stigma campaigns have failed to reach or engage with communities due
+  to a combination of practical issues such as the use of inappropriate language,
+  imagery and media, but also due to assuming western medical concepts of illness.
+  Participants suggested a new model for national campaigns placing greater emphasis
+  upon community development, cultural events, positive contact and dialogue with
+  families, faith leaders and youth groups. National anti-stigma programmes must develop
+  more effective partnerships with communities or risk magnifying existing inequalities.
+  Despite a range of national programmes to address stigma towards people with mental
+  illness, it remains as the major barrier to social inclusion for people with mental
+  illness living in communities. Stigma is particularly severe if people have a mental
+  illness and are also economically disadvantaged or face multiple stigmas. By adopting
+  community based participatory research (CBPR) approaches with three Black and ethnic
+  minority communities in Scotland, this study makes the case that stigma can only
+  be understood and effectively addressed with reference to its socio-cultural context.
+links:
+- name: URL
+  url: 
+    http://myaccess.library.utoronto.ca/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cin20&AN=85205926&site=ehost-live
+---

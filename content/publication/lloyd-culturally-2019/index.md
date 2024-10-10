@@ -1,0 +1,37 @@
+---
+title: 'Culturally Diverse Patient Experiences and Walking Interviews: A Co-Design
+  Approach to Improving Organizational Health Literacy.'
+authors:
+- Jane Lloyd
+- Louise Dougherty
+- Sarah Dennis
+- Heather Attenbrow
+- Elizabeth Harris
+- Marilyn Wise
+- Mark Harris
+date: '2019-01-01'
+publishDate: '2024-10-10T14:22:50.333456Z'
+publication_types:
+- article-journal
+publication: '*Health literacy research and practice*'
+doi: 10.3928/24748307-20190828-01
+abstract: "People from diverse cultural and linguistic backgrounds are more likely
+  to have low health literacy and less appropriate access to health services than
+  other Australians. Interventions to improve health literacy have demonstrated moderate
+  improvements in health service use. Most of these interventions focus on simplifying
+  communication as opposed to navigation support. A comprehensive and multilevel response
+  is required if the health care system and organizations are to be more responsive
+  to different levels of health literacy. This includes obtaining feedback from patients
+  on their experience of accessing health care. This study piloted the use of a co-design
+  process to develop a culturally appropriate mechanism of elucidating the perspectives
+  of community members of culturally diverse groups on their experiences of accessing
+  a health service to identify the strengths and weaknesses of an organization's health
+  literacy. This co-design process involved the adaptation of an existing \\\"Walking
+  Interview\\\" tool to the location and language groups being targeted, as well as
+  determining the process for recruiting participants and conducting the walking interviews.
+  The interviews provided valuable insights into the experiences of culturally diverse
+  groups in accessing Canterbury Hospital and identified areas for improvement, such
+  as clearer signage and access to interpreter services. [HLRP: Health Literacy Research
+  and Practice. 2019;3(4):e238-e242.]. Copyright © 2019 Lloyd, Dougherty, Dennis,
+  et al."
+---

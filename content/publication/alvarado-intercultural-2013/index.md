@@ -1,0 +1,31 @@
+---
+title: 'Intercultural Bilingual Education Program for Better Performance in Schools
+  : The case of the Indigenous Children of the Amazon'
+authors:
+- Betty M. Alvarado
+date: '2013-01-01'
+publishDate: '2024-10-10T14:22:54.050028Z'
+publication_types:
+- article-journal
+abstract: 'The program looks to improving the quality of service delivery for this
+  community with bilingual curricula which would trigger the need for appropriate
+  pedagogical bilingual teaching methods in classrooms, with ad hoc instructional
+  materials and teachers with the required expertise and the capability to manage
+  a bilingual setting and culture. At the end, the expected results from this quality
+  improvement exercise are: an increase in enrollment, higher schooling (average of
+  number grades reached), and reduction in dropout and repetition rates. The outcome
+  of such bilingual programs, based on some international experiences points to an
+  improvement in learning and performance levels in children. The issue is controversial,
+  because while Peru was short of funds for education in the past, and serving a dispersed
+  population like in the Amazon is more expensive than working with the urban population,
+  the argument of costs is not entirely correct. As previous research has proved that
+  bilingual education for children who do not speak the official language, if properly
+  implemented, has greater potential to improve their learning experience both in
+  terms of speed and quality. The paper tests the positive returns of the proposed
+  IBE program using two techniques: cost effectiveness and private benefits and provides
+  ideas to engage the results in the current policy discussions in the Ministry, the
+  rest of the public sector and the academia.'
+links:
+- name: URL
+  url: https://repositorio.minedu.gob.pe/handle/20.500.12799/3078
+---

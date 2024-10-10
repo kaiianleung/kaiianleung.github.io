@@ -1,0 +1,37 @@
+---
+title: Syntactic abilities and verbal memory in monolingual and bilingual children
+  with High Functioning Autism (HFA).
+authors:
+- Natalia Meir
+- Rama Novogrodsky
+date: '2020-01-01'
+publishDate: '2024-10-10T14:22:57.986088Z'
+publication_types:
+- article-journal
+publication: '*First Language*'
+doi: 10.1177/0142723719849981https://dx.doi.org/10.1177/0142723719849981
+abstract: 'The aim of the current study was two-fold. First, it evaluated the influence
+  of bilingualism on syntactic abilities and verbal memory of children with High Functioning
+  Autism (HFA). Second, it explored the relationship between syntactic abilities and
+  verbal memory of children with HFA and typical language development (TLD). Eighty-six
+  monolingual Hebrew-speaking and bilingual Russian-Hebrew speaking children aged
+  4;6-9;2 years participated: 28 with HFA (14 monolingual and 14 bilingual) and 58
+  with TLD (28 monolingual and 30 bilingual). Syntactic abilities were assessed using
+  Sentence Repetition tasks (bilingual children were tested in both languages). Verbal
+  memory was evaluated using Forward Digit Span for verbal short-term memory and Backward
+  Digit Span for verbal working memory. As a group, children with HFA scored lower
+  than their TLD peers on measures of syntactic abilities and verbal memory. However,
+  some children with HFA, monolingual and bilingual, showed intact syntactic abilities,
+  while others scored at-risk for Language Disorder (LD). Importantly, syntactic abilities
+  in children with HFA were not associated with their verbal memory skills. Furthermore,
+  no differences in verbal memory were found between children with HFA who were at-risk
+  for LD and children with no risk. Bilingualism did not influence Sentence Repetition
+  scores when vocabulary was controlled for, and it did not affect verbal memory scores.
+  The study demonstrated that (1) syntactic difficulties in children with HFA are
+  not attributable to deficient verbal memory; moreover (2), regardless of languages
+  status, children with HFA at-risk for LD exhibit impaired syntax similarly to those
+  reported in the literature for children with Developmental Language Disorder. Finally,
+  the findings show that bilingualism affects children with TLD and HFA similarly,
+  demonstrating that bilingualism does not impede language and cognitive development
+  in children with HFA. (PsycInfo Database Record (c) 2021 APA, all rights reserved)'
+---
