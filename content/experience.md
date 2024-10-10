@@ -15,7 +15,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
@@ -23,7 +23,7 @@ sections:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   #- block: resume-awards
   #  content:
   #    title: Awards

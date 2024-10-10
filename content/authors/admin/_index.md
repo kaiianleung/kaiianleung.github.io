@@ -11,7 +11,7 @@ last_name: Leung
 
 # Status emoji
 status:
-  icon: 🎓
+  icon: 🍵
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,7 +57,7 @@ education:
     #date_start: ''
     #date_end: ''
     summary: |
-      Thesis on characterizing bilingual development of language and cognition in linguistically diverse children. Supervised by [Dr. Monika Molnar] (https://www.bamtoronto.ca). 
+      My thesis aims to characterize development of language and cognition in linguistically diverse children. Supervised by Dr. Monika Molnar and Dr. Elizabeth Rochon, Department of Speech-Language Pathology.  
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
@@ -66,7 +66,7 @@ education:
     date_start: ''
     date_end: 2021-11-01
     summary: |
-      Thesis title: "The Effect of Bilingual Exposure on Language and Cognitive Recovery in Children Following Stroke"
+      My thesis was titled "The Effect of Bilingual Exposure on Language and Cognitive Recovery in Children Following Stroke". Supervised by Dr. Monika Molnar, Department of Speech-Language Pathology. 
     #  GPA: 3.8/4.0
 
     #  Courses included:
@@ -85,8 +85,8 @@ work:
   - position: Teaching Assistant
     company_name: University of Toronto
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    company_logo: custom/uoft_logo.png
+    date_start: 2021-09-01
     date_end: ''
     #summary: |2-
     #  Responsibilities include:
@@ -183,5 +183,4 @@ languages:
 ---
 
 ## About Me
-
-I am currently pursuing my PhD in Rehabilitation Sciences (SLP stream), with a collaborative specialization in Neuroscience. 
+I'm Kai, a PhD candidate in the Bilingual and Multilingual Development Lab, where I focus on bilingual development in neurotypical and neurodiverse children.

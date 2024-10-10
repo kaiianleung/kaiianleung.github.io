@@ -39,7 +39,6 @@ sections:
 
         I apply a range of qualitative and quantitative methods towards my research. I am also working on a mixed-methods study to develop a bilingual language history tool for clinical use.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   #- block: collection
@@ -55,7 +54,7 @@ sections:
   #    columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
