@@ -9,6 +9,6 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-10-10T14:27:43.329165Z'
 publication_types:
-- article-journal
+- article
 publication: '*medRxiv*'
 ---
