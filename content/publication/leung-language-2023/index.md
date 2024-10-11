@@ -11,5 +11,5 @@ publishDate: '2024-10-10T14:27:43.361278Z'
 publication_types:
 - article-journal
 publication: '*Journal of Child Neurology*'
-url_pdf: www.journals.sagepub.com/doi/pdf/10.1177/08830738231171466
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/08830738231171466
 ---
