@@ -11,5 +11,5 @@ publishDate: '2024-10-10T14:27:43.337660Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Bilingualism*'
-url: www.doi.org/10.1177/13670069221120929
+url: www.journals.sagepub.com/doi/10.1177/13670069221120929
 ---
