@@ -57,7 +57,7 @@ education:
     #date_start: ''
     #date_end: ''
     summary: |
-      My thesis aims to characterize development of language and cognition in linguistically diverse children. Supervised by Dr. Monika Molnar and Dr. Elizabeth Rochon, Department of Speech-Language Pathology.  
+      My thesis aims to characterize the development of language and cognition in linguistically diverse children. Supervised by Dr. Monika Molnar and Dr. Elizabeth Rochon, Department of Speech-Language Pathology.  
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
