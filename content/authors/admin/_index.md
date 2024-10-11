@@ -75,7 +75,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
-      url: 'https://hdl.handle.net/1807/109044'  
+      url: 'https://tspace.library.utoronto.ca/bitstream/1807/109044/1/Leung_Kai_Ian_202111_MSc_thesis.pdf'  
   - area: BSc Linguistics & Psychology
     institution: University of Toronto
     date_start: ''
@@ -108,7 +108,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
       - name: RStudio
         description: ''
